@@ -33,6 +33,7 @@ jobs:
           yt-dlp --write-auto-sub --sub-lang pt-orig --sub-format json3 \
             -o "subs/%(upload_date>%Y-%m-%d)s - %(title)s - %(id)s.%(ext)s" \
             --skip-download --restrict-filenames -w \
+            --lazy-playlist --rate-limit 500k \
             https://www.youtube.com/@ateuinforma
       
       - name: Push files

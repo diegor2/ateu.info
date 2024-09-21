@@ -4,9 +4,14 @@ name: Download subtitles
 
 # Controls when the workflow will run
 on:
-  schedule:
-    - cron: "0 * * * *"   # Every hour
-
+  # schedule:
+  #   - cron: "0 * * * *"   # Every hour
+  workflow_call:
+    inputs:
+      video_id:
+        required: true
+        type: string
+        
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
@@ -34,7 +39,7 @@ jobs:
             -o "subs/%(upload_date>%Y-%m-%d)s - %(title)s - %(id)s.%(ext)s" \
             --skip-download --restrict-filenames -w \
             --lazy-playlist --rate-limit 500k \
-            https://www.youtube.com/@ateuinforma
+            "https://www.youtube.com/watch?v=${{ inputs.build_id }}"
       
       - name: Push files
         run: |

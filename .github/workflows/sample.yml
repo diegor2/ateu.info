@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Download random video subtitles.yml
+name: Get random video subtitles.yml
 
 # Controls when the workflow will run
 on:
@@ -31,6 +31,6 @@ jobs:
         shell: bash
         run: echo "VIDEO_ID=$(shuf -n 1 youtube.db)" >> "$GITHUB_OUTPUT"
         
-      - uses: ./.github/workflows/subtitles.yml
+      - uses: diegor2/ateu.info/.github/workflows/subtitles.yml@main
         with:
           video_id: steps.pick-id.outputs.VIDEO_ID

@@ -4,9 +4,6 @@ name: Download subtitles
 
 # Controls when the workflow will run
 on:
-  # schedule:
-  #   - cron: "0 * * * *"   # Every hour
-
   # Triggered by another workflow
   workflow_call:
     inputs:

@@ -31,6 +31,6 @@ jobs:
         shell: bash
         run: echo "VIDEO_ID=$(shuf -n 1 youtube.db)" >> "$GITHUB_OUTPUT"
         
-      - uses: ./.github/workflows/workflow-2.yml
+      - uses: ./.github/workflows/subtitles.yml
         with:
           video_id: steps.pick-id.outputs.VIDEO_ID

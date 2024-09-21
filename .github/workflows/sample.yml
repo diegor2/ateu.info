@@ -25,12 +25,13 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v4
-
+      
       - name: Download subtitles
-        id: pick-id
+        id: pick
         shell: bash
-        run: echo "VIDEO_ID=$(shuf -n 1 youtube.db)" >> "$GITHUB_OUTPUT"
-        
+        run: echo "video_id=$(shuf -n 1 youtube.db)" >> "$GITHUB_OUTPUT"
+  
       - uses: diegor2/ateu.info/.github/workflows/subtitles.yml@main
         with:
-          video_id: steps.pick-id.outputs.VIDEO_ID
+          secrets: inherit
+          video-id: ${{ steps.pick.outputs.video_id }}

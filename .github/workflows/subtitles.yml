@@ -40,12 +40,16 @@ jobs:
         run: mkdir -p subs
         
       - name: Download subtitles
+        env:
+          YT_USER: ${{ secrets.YT_USER }}
+          YT_PASSWORD: ${{ secrets.YT_PASSWORD }}
+
         run: |
           yt-dlp --write-auto-sub --sub-lang pt-orig --sub-format json3 \
             -o "subs/%(upload_date>%Y-%m-%d)s - %(title)s - %(id)s.%(ext)s" \
             --skip-download --restrict-filenames -w \
             --lazy-playlist --rate-limit 500k \
-            -u ${{ secrets.YT_USER }} -p ${{ secrets.YT_PASSWORD }} \
+            -u "$YT_USER" -p "$YT_PASSWORD" \
             "https://www.youtube.com/watch?v=${{ inputs.video_id }}"
       
       - name: Push files

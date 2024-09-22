@@ -39,4 +39,4 @@ jobs:
     uses: diegor2/ateu.info/.github/workflows/subtitles.yml@main
     with:
       video_id: ${{ needs.pick.outputs.video_id }}
-      secrets: inherit
+      # secrets: inherit

@@ -30,7 +30,7 @@ jobs:
         id: pick
         shell: bash
         run: echo "video_id=$(shuf -n 1 youtube.db)" >> "$GITHUB_OUTPUT"
-  
+
       - uses: diegor2/ateu.info/.github/workflows/subtitles.yml@main
         with:
           secrets: inherit

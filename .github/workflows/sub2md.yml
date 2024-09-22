@@ -32,8 +32,9 @@ jobs:
       shell: bash
       run: |
         mkdir -p public
-        for f in $(ls subs); do python src/sub2md.py "subs/$f"; done
-        mv subs/*.md public/
+        cd subs
+        for f in $(ls); do python ../src/sub2md.py "$f"; done
+        mv *.md ../public/
     - name: Push files
       run: |
         git config user.name "github-actions[bot]"

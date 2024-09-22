@@ -38,5 +38,5 @@ jobs:
     needs: pick
     uses: diegor2/ateu.info/.github/workflows/subtitles.yml@main
     with:
-      video-id: ${{ needs.pick.outputs.video_id }}
+      video_id: ${{ needs.pick.outputs.video_id }}
       secrets: inherit

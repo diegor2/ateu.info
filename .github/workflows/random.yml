@@ -4,9 +4,8 @@ name: Pick random video id
 
 # Controls when the workflow will run
 on:
-  # Runs on pushes targeting the default branch
-  push:
-    branches: ["main"]
+  schedule:
+    - cron: "0 4 * * *"   # Every day
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:

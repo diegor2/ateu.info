@@ -3,11 +3,21 @@
 
 name: Convert subtitle to markdown
 
+# Controls when the workflow will run
 on:
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
+  # Triggered by another workflow
+  workflow_call:
+    inputs:
+      filename:
+        required: true
+        type: string
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+    inputs:
+      filename:
+        required: true
+        type: string
 
 permissions:
   contents: write
@@ -28,13 +38,11 @@ jobs:
         python -m pip install --upgrade pip
         pip install --upgrade jsonpath-ng
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+    - name: Create public folder
+      run: mkdir -p public
     - name: Run script for all subtitle files
       shell: bash
-      run: |
-        mkdir -p public
-        cd subs
-        for f in $(ls); do python ../src/sub2md.py "$f"; done
-        mv *.md ../public/
+      run: python src/sub2md.py ${{ inputs.video_id }} public/
     - name: Push files
       run: |
         git config user.name "github-actions[bot]"

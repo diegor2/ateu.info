@@ -42,7 +42,7 @@ jobs:
       run: mkdir -p public
     - name: Run script for all subtitle files
       shell: bash
-      run: python src/sub2md.py ${{ inputs.filename }} public/
+      run: python src/sub2md.py "${{ inputs.filename }}" public/
     - name: Push files
       run: |
         git config user.name "github-actions[bot]"

@@ -6,16 +6,16 @@ from jsonpath_ng import jsonpath, parse
 
 print(sys.argv)
 
-in_path, in_filename = os.path.split(sys.argv[1])
-out_dir = os.sys.argv[2]
+input, output = sys.argv
+in_path, in_filename = os.path.split(input)
 _, date, title, id, _  = re.search('(.+) - (.+) - (.+).(.+)', in_filename)
 
 print(date, title, id)
 
-with open(os.path.join(in_path, in_filename)) as fin:
+with open(input) as fin:
     sub = json.load(fin)
 
-out_filename = os.path.join(out_dir, in_filename.replace('.json3', '.md'))
+out_filename = os.path.join(output, in_filename.replace('.json3', '.md'))
 print(out_filename)
 
 with open(out_filename, 'w') as fout:

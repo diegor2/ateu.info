@@ -10,7 +10,7 @@ _, date, title, id, _  = re.search('(.+) - (.+) - (.+).(.+)', in_filename)
 
 print(date, title, id)
 
-with open(os.path.join(in_path, in_filename) as fin:
+with open(os.path.join(in_path, in_filename)) as fin:
     sub = json.load(fin)
 
 out_filename = os.path.join(out_dir, in_filename.replace('.json3', '.md'))

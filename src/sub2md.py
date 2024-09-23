@@ -8,7 +8,7 @@ print(sys.argv)
 
 _, input, output = sys.argv
 in_path, in_filename = os.path.split(input)
-_, date, title, id, _  = re.search('(.+) - (.+) - (.+).(.+)', in_filename)
+_, date, title, id, _  = re.search('(.+) - (.+) - (.+)\.(.+)\.(.+)', in_filename)
 
 print(date, title, id)
 

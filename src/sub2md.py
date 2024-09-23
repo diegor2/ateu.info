@@ -5,7 +5,7 @@ import os
 from jsonpath_ng import jsonpath, parse
 
 in_path, in_filename = os.path.split(sys.argv[1])
-out_dir = os.path.split(sys.argv[2])
+out_dir = os.sys.argv[2]
 _, date, title, id, _  = re.search('(.+) - (.+) - (.+).(.+)', in_filename)
 
 print(date, title, id)

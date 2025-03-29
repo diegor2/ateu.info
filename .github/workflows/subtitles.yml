@@ -59,8 +59,7 @@ jobs:
             --skip-download --restrict-filenames -w \
             --lazy-playlist --rate-limit 500k \
             --proxy socks5://127.0.0.1:9050/ \
-            --quiet --no-warnings --get-filename \
-            "https://www.youtube.com/watch?v=${{ inputs.video_id }}" >> "$GITHUB_OUTPUT"
+            "https://www.youtube.com/watch?v=${{ inputs.video_id }}"
 
       - name: Push files
         run: |

@@ -28,7 +28,7 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v4
       
-      - name: Download subtitles
+      - name: Pick a random id
         id: pick
         shell: bash
         run: echo "video_id=$(shuf -n 1 youtube.db)" >> "$GITHUB_OUTPUT"
@@ -37,11 +37,9 @@ jobs:
     needs: pick
     uses: diegor2/ateu.info/.github/workflows/subtitles.yml@main
     with:
-      video_id: ${{ needs.pick.outputs.video_id }}
-
+      video_id: ${{ needs.pick.outputs.video_id }}      
+  
   convert:
     needs: download
     uses: diegor2/ateu.info/.github/workflows/sub2md.yml@main
-    with:
-      video_id: ${{ needs.download.outputs.filename }}
     

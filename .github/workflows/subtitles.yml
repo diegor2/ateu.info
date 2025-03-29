@@ -34,7 +34,6 @@ jobs:
       - uses: actions/checkout@v4
       - uses: tor-actions/setup-tor@main
         with:
-          tor-version: '0.4.5.7' # The Tor version to download (if necessary) and use.
           daemon: true
           
       - name: Install yt-dlp
@@ -49,7 +48,7 @@ jobs:
             -o "subs/%(upload_date>%Y-%m-%d)s - %(title)s - %(id)s.%(ext)s" \
             --skip-download --restrict-filenames -w \
             --lazy-playlist --rate-limit 500k \
-            --proxy socks5://127.0.0.1:9050/
+            --proxy socks5://127.0.0.1:9050/ \
             "https://www.youtube.com/watch?v=${{ inputs.video_id }}"
 
       - name: Push files

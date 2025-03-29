@@ -2,3 +2,8 @@ baseURL = 'https://diegor2.github.io/ateu.info/'
 languageCode = 'pt-BR'
 title = 'ateu.info'
 theme = 'ananke'
+
+[markup.goldmark.renderer]
+    hardWraps = true
+    unsafe = true
+    xhtml = false

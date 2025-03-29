@@ -43,7 +43,7 @@ jobs:
         run: pip install -U yt-dlp
 
       - name: Check IP address
-        run: curl -x socks5://127.0.0.1:9050 -sL ip4.me/api | cut -f 2 -d,
+        run: curl -x socks5://127.0.0.1:9050 -sL ip6.me/api | cut -f 2 -d,
 
       - name: List subtitles
         run: |

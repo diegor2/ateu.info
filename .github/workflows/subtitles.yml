@@ -42,6 +42,12 @@ jobs:
       - name: Create subs folder
         run: mkdir -p subs
         
+      - name: List subtitles
+        run: |
+          yt-dlp --list-subs --skip-download \ 
+            --proxy socks5://127.0.0.1:9050/ \
+            "https://www.youtube.com/watch?v=${{ inputs.video_id }}"
+
       - name: Download subtitles
         run: |
           yt-dlp --write-auto-sub --sub-lang pt-orig --sub-format json3 \

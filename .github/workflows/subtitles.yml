@@ -41,10 +41,7 @@ jobs:
           
       - name: Install yt-dlp
         run: pip install -U yt-dlp
-        
-      - name: Create subs folder
-        run: mkdir -p subs
-        
+
       - name: List subtitles
         run: |
           yt-dlp --list-subs --skip-download \

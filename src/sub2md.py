@@ -10,14 +10,21 @@ _, input, output = sys.argv
 
 for (in_path, _, in_filenames) in os.walk(input):
     for in_filename in in_filenames:
-        date, title, id, _, _  = re.match(r'(.+) - (.+) - (.+)\.(.+)\.(.+)', in_filename).groups()
+        root, ext = os.path.splitext(in_filename)
+        id = root.split('.')[0]
+        if('json' not in ext): continue
 
+        date, title = in_path.split('/')[-2:]
         print(date, title, id)
 
         with open(os.path.join(in_path, in_filename)) as fin:
             sub = json.load(fin)
 
-        out_filename = os.path.join(output, in_filename.replace('.json3', '.md').replace('_', ' '))
+        output_path = os.path.join(output, date, title.replace('_', ' '))
+        if not os.path.exists(output_path):
+            os.makedirs(output_path)
+
+        out_filename = os.path.join(output_path, id + '.md')
         print(out_filename)
 
         with open(out_filename, 'w') as fout:

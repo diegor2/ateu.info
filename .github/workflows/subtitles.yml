@@ -43,7 +43,7 @@ jobs:
         run: pip install -U yt-dlp
 
       - name: Check IP address
-        run: curl https://ipinfo.io/ip
+        run: curl -s https://ipinfo.io/ip
 
       - name: List subtitles
         run: |

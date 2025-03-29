@@ -25,6 +25,9 @@ permissions:
 jobs:
   # This workflow contains a single job called "build"
   build:
+    outputs:
+      filename: ${{ steps.download.outputs.filename}}
+
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
@@ -49,13 +52,15 @@ jobs:
             "https://www.youtube.com/watch?v=${{ inputs.video_id }}"
 
       - name: Download subtitles
+        id: download
         run: |
           yt-dlp --write-auto-sub --sub-lang pt-orig --sub-format json3 \
             -o "subs/%(upload_date>%Y-%m-%d)s - %(title)s - %(id)s.%(ext)s" \
             --skip-download --restrict-filenames -w \
             --lazy-playlist --rate-limit 500k \
             --proxy socks5://127.0.0.1:9050/ \
-            "https://www.youtube.com/watch?v=${{ inputs.video_id }}"
+            --quiet --no-warnings --get-filename \
+            "https://www.youtube.com/watch?v=${{ inputs.video_id }}" >> "$GITHUB_OUTPUT"
 
       - name: Push files
         run: |

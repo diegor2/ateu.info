@@ -42,8 +42,11 @@ jobs:
       - name: Install yt-dlp
         run: pip install -U yt-dlp
 
-      - name: Check IP address
+      - name: Check external IP address
         run: curl -s https://ipinfo.io/ip
+
+      - name: Check proxy IP address
+        run: curl -x socks5://127.0.0.1:9050/ -s https://ipinfo.io/ip
 
       - name: List subtitles
         run: |

@@ -10,6 +10,9 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
+  # Triggered by another workflow
+  workflow_call:
+  
 permissions:
   contents: write
   
@@ -42,4 +45,8 @@ jobs:
   convert:
     needs: download
     uses: diegor2/ateu.info/.github/workflows/sub2md.yml@main
+
+  publish:
+    needs: convert
+    uses: diegor2/ateu.info/.github/workflows/hugo.yml@main
     

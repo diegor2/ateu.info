@@ -49,4 +49,3 @@ jobs:
   publish:
     needs: convert
     uses: diegor2/ateu.info/.github/workflows/hugo.yml@main
-    

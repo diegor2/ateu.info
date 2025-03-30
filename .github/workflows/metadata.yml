@@ -55,12 +55,10 @@ jobs:
       - name: Download subtitles
         id: download
         run: |
-          yt-dlp --write-auto-sub --sub-lang pt-orig --sub-format json3 \
-            -o "database/%(id)s/subtiles.%(ext)s" \
-            --skip-download --restrict-filenames -w \
-            --lazy-playlist --rate-limit 500k \
+          yt-dlp --quiet --no-warnings  --dump-json \
             --proxy socks5://127.0.0.1:9050/ \
-            "https://www.youtube.com/watch?v=${{ inputs.video_id }}"
+            "https://www.youtube.com/watch?v=${{ inputs.video_id }}" \
+                > database/${{ inputs.video_id }}/metadata.json
 
       - name: Push files
         run: |

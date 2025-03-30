@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Download subtitles
+name: Download thumbnail
 
 # Controls when the workflow will run
 on:
@@ -46,17 +46,11 @@ jobs:
       - name: Check proxy IP address
         run: curl -x socks5://127.0.0.1:9050/ -s https://ipinfo.io/ip
 
-      - name: List subtitles
-        run: |
-          yt-dlp --list-subs --skip-download \
-            --proxy socks5://127.0.0.1:9050/ \
-            "https://www.youtube.com/watch?v=${{ inputs.video_id }}"
-
       - name: Download subtitles
         id: download
         run: |
-          yt-dlp --write-auto-sub --sub-lang pt-orig --sub-format json3 \
-            -o "database/%(id)s/subtiles.%(ext)s" \
+          yt-dlp --write-thumbnail \
+            -o "database/%(id)s/thumbnail.%(ext)s" \
             --skip-download --restrict-filenames -w \
             --lazy-playlist --rate-limit 500k \
             --proxy socks5://127.0.0.1:9050/ \
@@ -68,5 +62,5 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git pull --rebase origin main
           git add .
-          git commit -m "Update subtitles $(date)"
+          git commit -m "Update thumbnails $(date)"
           git push

@@ -4,9 +4,8 @@ date: '2025-03-05'
 title: 'O Discurso do Trump, Bullying como política, anti-petismo, extrema esquerda e o DIREITO DE DEFESA'
 ---
 
-[Video](https://www.youtube.com/watch?v=fzHl4-84rE8)
+[![Video](posts/fzHl4-84rE8/thumbnail.webp)](https://www.youtube.com/watch?v=fzHl4-84rE8)
 
-![capa](thumbnail.webp)
 [Música]
 olha os Car vindo cheios de malícia
 dizendo que além do bem e do mal só que

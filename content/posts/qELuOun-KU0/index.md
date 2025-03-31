@@ -4,9 +4,8 @@ date: '2025-01-16'
 title: 'Não vou competir com mentira'
 ---
 
-[Video](https://www.youtube.com/watch?v=qELuOun-KU0)
+[![Video](posts/qELuOun-KU0/thumbnail.webp)](https://www.youtube.com/watch?v=qELuOun-KU0)
 
-![capa](thumbnail.webp)
 k
 [Música]
 [Música]

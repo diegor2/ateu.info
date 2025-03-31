@@ -4,9 +4,8 @@ date: '2020-06-02'
 title: 'O Paradoxo da Tribo dos Sem-Tribo: A Epítome da Intolerância e a impossibilidade de domínio coletivo'
 ---
 
-[Video](https://www.youtube.com/watch?v=2Y6Wqpc0p9s)
+[![Video](posts/2Y6Wqpc0p9s/thumbnail.webp)](https://www.youtube.com/watch?v=2Y6Wqpc0p9s)
 
-![capa](thumbnail.webp)
 alor
 cadê cadê cadê eu onde
 estoi tudo bom com vocês Tudo na santa

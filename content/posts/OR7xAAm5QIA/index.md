@@ -4,9 +4,8 @@ date: '2019-04-28'
 title: 'O governo e a filosofia - Uma reflexão e uma exposição pessoal'
 ---
 
-[Video](https://www.youtube.com/watch?v=OR7xAAm5QIA)
+[![Video](posts/OR7xAAm5QIA/thumbnail.webp)](https://www.youtube.com/watch?v=OR7xAAm5QIA)
 
-![capa](thumbnail.webp)
 será que vai entrar alguém aqui é sempre
 uma dúvida mas com essa internet zoada
 que eu to

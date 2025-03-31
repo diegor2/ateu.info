@@ -4,9 +4,8 @@ date: '2024-10-22'
 title: 'Tudologia: PEC 66/23 e o capitalismo do eterno recuo, papo honesto'
 ---
 
-[Video](https://www.youtube.com/watch?v=fIHbUz9Ag1w)
+[![Video](posts/fIHbUz9Ag1w/thumbnail.webp)](https://www.youtube.com/watch?v=fIHbUz9Ag1w)
 
-![capa](thumbnail.webp)
 k
 [Música]
 [Música]

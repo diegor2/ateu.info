@@ -4,9 +4,8 @@ date: '2024-12-19'
 title: 'É isso? É exatamente isso.'
 ---
 
-[Video](https://www.youtube.com/watch?v=jeIYtlBy_q4)
+[![Video](posts/jeIYtlBy_q4/thumbnail.webp)](https://www.youtube.com/watch?v=jeIYtlBy_q4)
 
-![capa](thumbnail.webp)
 com OC silen ele luta pela justiça pela
 igualdade é isso é exatamente isso
 despert sem medo não abido não se deixe

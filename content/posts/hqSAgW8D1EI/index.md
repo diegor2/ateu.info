@@ -4,9 +4,8 @@ date: '2020-04-16'
 title: 'Live: Há problema em ter "Fé na ciência"? - ἀλήθεια: Verdade, Convicção e crença justificada'
 ---
 
-[Video](https://www.youtube.com/watch?v=hqSAgW8D1EI)
+[![Video](posts/hqSAgW8D1EI/thumbnail.webp)](https://www.youtube.com/watch?v=hqSAgW8D1EI)
 
-![capa](thumbnail.webp)
 e aí
 e aí
 e aí

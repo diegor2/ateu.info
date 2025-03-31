@@ -50,7 +50,7 @@ jobs:
         id: download
         run: |
           yt-dlp --write-thumbnail \
-            -o "database/%(id)s/thumbnail.%(ext)s" \
+            -o "content/posts/%(id)s/thumbnail.%(ext)s" \
             --skip-download --restrict-filenames -w \
             --lazy-playlist --rate-limit 500k \
             --proxy socks5://127.0.0.1:9050/ \

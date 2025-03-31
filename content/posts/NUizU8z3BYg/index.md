@@ -4,9 +4,8 @@ date: '2024-07-19'
 title: 'PROVANDO MEU PONTO -  (Lyotard) E o problema INSUPERÁVEL da FILOSOFIA PÓS-MODERNA'
 ---
 
-[Video](https://www.youtube.com/watch?v=NUizU8z3BYg)
+[![Video](posts/NUizU8z3BYg/thumbnail.webp)](https://www.youtube.com/watch?v=NUizU8z3BYg)
 
-![capa](thumbnail.webp)
 k
 [Música]
 [Música]

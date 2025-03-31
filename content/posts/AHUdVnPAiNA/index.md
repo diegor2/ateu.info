@@ -4,9 +4,8 @@ date: '2011-10-14'
 title: 'Ateu Informa: Detonando "O Elo perdido"'
 ---
 
-[Video](https://www.youtube.com/watch?v=AHUdVnPAiNA)
+[![Video](posts/AHUdVnPAiNA/thumbnail.webp)](https://www.youtube.com/watch?v=AHUdVnPAiNA)
 
-![capa](thumbnail.webp)
 se evolução é real por que não existe um
 bicho meio peixe e meio anfíbio
 [Música]

@@ -5,5 +5,3 @@ theme = 'ananke'
 
 [markup.goldmark.renderer]
     hardWraps = true
-    unsafe = true
-    xhtml = false

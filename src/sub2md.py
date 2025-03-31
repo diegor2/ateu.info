@@ -1,30 +1,52 @@
 import json
 import os
+import re
+import shutil
 import sys
 from jsonpath_ng import jsonpath, parse
-
-print(sys.argv)
+from string import Template
 
 _, input, output = sys.argv
 
-for (in_path, _, in_filenames) in os.walk(input):
-    for in_filename in in_filenames:
-        root, ext = os.path.splitext(in_filename)
-        id = root.split('.')[0]
-        if('json' not in ext): continue
 
-        date, title = in_path.split('/')[-2:].replace('_', ' ')
-        with open(os.path.join(in_path, in_filename)) as fin:
-            sub = json.load(fin)
+template = Template('''
+---
+date: '$date'
+title: '$title'
+---
 
-        out_filename = os.path.join(output, id + '.md')
-        img_filename = id + '.webp'
+[Video](https://www.youtube.com/watch?v=$id)
 
-        header = f'# {title}\n\n'
-        f'[![{title}]({img_filename})](https://www.youtube.com/watch?v={id})'
+![capa]($img)
+''')
 
-        with open(out_filename, 'w') as f:
-            f.write(header)
-            for match in parse('$.events[*].segs').find(sub):
-                f.write(''.join([seg['utf8'] for seg in match.value])) 
+for id in os.listdir('database'):
+    path = os.path.join(input, id)
+    map = {file.split('.')[0]:file for file in os.listdir(path)}
 
+    with open(os.path.join(path, map['metadata'])) as f:
+        metadata = json.load(f)
+
+    with open(os.path.join(path, map['subtitles'])) as f:
+        subtitles = json.load(f)
+
+    out = os.path.join(output, id)
+    markdown = os.path.join(out, 'index.md')
+    header = template.substitute(
+        {
+            'date': re.sub(r'(....)(..)(..)', r'\1-\2-\3', metadata['upload_date']),
+            'title': metadata['title'],
+            'img': map['thumbnail'],
+            'id': id,
+        }
+    )
+
+    if not os.path.exists(out):
+        os.makedirs(out)
+
+    shutil.copy(os.path.join(path, map['thumbnail']), out)
+
+    with open(markdown, 'w') as f:
+        f.write(header)
+        for match in parse('$.events[*].segs').find(subtitles):
+            f.write(''.join([seg['utf8'] for seg in match.value])) 

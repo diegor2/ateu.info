@@ -47,7 +47,7 @@ jobs:
             "https://www.youtube.com/watch?v=${{ inputs.video_id }}"
 
       - name: Create directory if it doesn't exist
-        run: mkdir -p database/${{ inputs.video_id }}/metadata.json
+        run: mkdir -p database/${{ inputs.video_id }}
 
       - name: Download subtitles
         id: download

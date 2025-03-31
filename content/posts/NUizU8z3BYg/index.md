@@ -1,12 +1,11 @@
-
 ---
-date: '2024-07-19'
-title: 'PROVANDO MEU PONTO -  (Lyotard) E o problema INSUPERÁVEL da FILOSOFIA PÓS-MODERNA'
+date: "2024-07-19"
+title: > 
+    PROVANDO MEU PONTO -  (Lyotard) E o problema INSUPERÁVEL da FILOSOFIA PÓS-MODERNA
+featured_image: "thumbnail.webp"
 ---
 
-[![Video](posts/NUizU8z3BYg/thumbnail.webp)](https://www.youtube.com/watch?v=NUizU8z3BYg)
-
-k
+[Video](https://www.youtube.com/watch?v=NUizU8z3BYg)k
 [Música]
 [Música]
 [Aplausos]

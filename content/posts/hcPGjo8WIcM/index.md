@@ -1,12 +1,11 @@
-
 ---
-date: '2025-01-19'
-title: 'Safatleismo Cultural e Sisu: Ajudem-me numas decisões aqui'
+date: "2025-01-19"
+title: > 
+    Safatleismo Cultural e Sisu: Ajudem-me numas decisões aqui
+featured_image: "thumbnail.webp"
 ---
 
-[![Video](posts/hcPGjo8WIcM/thumbnail.webp)](https://www.youtube.com/watch?v=hcPGjo8WIcM)
-
-um grande always will stand up Christmas
+[Video](https://www.youtube.com/watch?v=hcPGjo8WIcM)um grande always will stand up Christmas
 list of books on for Nowhere Girl This
 Train will run with her best friend is
 Wonderful as well swim Caramba como eu

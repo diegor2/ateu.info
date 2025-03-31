@@ -1,12 +1,11 @@
-
 ---
-date: '2024-10-22'
-title: 'Tudologia: PEC 66/23 e o capitalismo do eterno recuo, papo honesto'
+date: "2024-10-22"
+title: > 
+    Tudologia: PEC 66/23 e o capitalismo do eterno recuo, papo honesto
+featured_image: "thumbnail.webp"
 ---
 
-[![Video](posts/fIHbUz9Ag1w/thumbnail.webp)](https://www.youtube.com/watch?v=fIHbUz9Ag1w)
-
-k
+[Video](https://www.youtube.com/watch?v=fIHbUz9Ag1w)k
 [Música]
 [Música]
 fala meus queridos e minhas queridas

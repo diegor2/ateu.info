@@ -1,12 +1,11 @@
-
 ---
-date: '2025-01-19'
-title: 'Safatleismo Cultural e Sisu: Ajudem-me numas decisões aqui'
+date: "2025-01-19"
+title: > 
+    Safatleismo Cultural e Sisu: Ajudem-me numas decisões aqui
+featured_image: "thumbnail.webp"
 ---
 
-[![Video](posts/z-VFNDaMX5w/thumbnail.webp)](https://www.youtube.com/watch?v=z-VFNDaMX5w)
-
-k
+[Video](https://www.youtube.com/watch?v=z-VFNDaMX5w)k
 [Música]
 [Música]
 fala meus queridos amigos e minhas

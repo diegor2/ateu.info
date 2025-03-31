@@ -1,12 +1,11 @@
-
 ---
-date: '2025-01-16'
-title: 'Não vou competir com mentira'
+date: "2025-01-16"
+title: > 
+    Não vou competir com mentira
+featured_image: "thumbnail.webp"
 ---
 
-[![Video](posts/qELuOun-KU0/thumbnail.webp)](https://www.youtube.com/watch?v=qELuOun-KU0)
-
-k
+[Video](https://www.youtube.com/watch?v=qELuOun-KU0)k
 [Música]
 [Música]
 ai ai ai ai ai ai tá chegando a hora

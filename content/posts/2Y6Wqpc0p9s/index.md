@@ -1,12 +1,11 @@
-
 ---
-date: '2020-06-02'
-title: 'O Paradoxo da Tribo dos Sem-Tribo: A Epítome da Intolerância e a impossibilidade de domínio coletivo'
+date: "2020-06-02"
+title: > 
+    O Paradoxo da Tribo dos Sem-Tribo: A Epítome da Intolerância e a impossibilidade de domínio coletivo
+featured_image: "thumbnail.webp"
 ---
 
-[![Video](posts/2Y6Wqpc0p9s/thumbnail.webp)](https://www.youtube.com/watch?v=2Y6Wqpc0p9s)
-
-alor
+[Video](https://www.youtube.com/watch?v=2Y6Wqpc0p9s)alor
 cadê cadê cadê eu onde
 estoi tudo bom com vocês Tudo na santa
 paz como é que vocês estão Boa noite Lu

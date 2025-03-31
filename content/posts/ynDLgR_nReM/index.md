@@ -1,12 +1,11 @@
-
 ---
-date: '2021-09-25'
-title: 'Rushando Tucídides V: O início da 1ª Fase da Guerra'
+date: "2021-09-25"
+title: > 
+    Rushando Tucídides V: O início da 1ª Fase da Guerra
+featured_image: "thumbnail.webp"
 ---
 
-[![Video](posts/ynDLgR_nReM/thumbnail.webp)](https://www.youtube.com/watch?v=ynDLgR_nReM)
-
-G1
+[Video](https://www.youtube.com/watch?v=ynDLgR_nReM)G1
 e
 tchau tchau
 tchau tchau tchau

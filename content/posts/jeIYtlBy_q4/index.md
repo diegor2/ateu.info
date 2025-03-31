@@ -1,12 +1,11 @@
-
 ---
-date: '2024-12-19'
-title: 'É isso? É exatamente isso.'
+date: "2024-12-19"
+title: > 
+    É isso? É exatamente isso.
+featured_image: "thumbnail.webp"
 ---
 
-[![Video](posts/jeIYtlBy_q4/thumbnail.webp)](https://www.youtube.com/watch?v=jeIYtlBy_q4)
-
-com OC silen ele luta pela justiça pela
+[Video](https://www.youtube.com/watch?v=jeIYtlBy_q4)com OC silen ele luta pela justiça pela
 igualdade é isso é exatamente isso
 despert sem medo não abido não se deixe
 levar pela alta do relativismo encado a

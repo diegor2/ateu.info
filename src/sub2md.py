@@ -7,13 +7,15 @@ from string import Template
 
 template = Template('''
 ---
-date: '$date'
-title: '$title'
+date: "$date"
+title: > 
+    $title
+featured_image: "$img"
 ---
 
-[![Video]($img)](https://www.youtube.com/watch?v=$id)
+[Video](https://www.youtube.com/watch?v=$id)
 
-''')
+'''.strip())
 databse = 'database'
 for id in os.listdir(databse):
     print(id)
@@ -35,7 +37,7 @@ for id in os.listdir(databse):
         {
             'date': re.sub(r'(....)(..)(..)', r'\1-\2-\3', metadata['upload_date']),
             'title': metadata['title'],
-            'img': os.path.join(posts, id, 'thumbnail.webp'),
+            'img': 'thumbnail.webp',
             'id': id,
         }
     )

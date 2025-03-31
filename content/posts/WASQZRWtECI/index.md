@@ -1,12 +1,11 @@
-
 ---
-date: '2020-07-28'
-title: 'Defesa de Prometeu Acorrentado: Resiliência libertadora contra o Pessimismo Do Velho do Restelo'
+date: "2020-07-28"
+title: > 
+    Defesa de Prometeu Acorrentado: Resiliência libertadora contra o Pessimismo Do Velho do Restelo
+featured_image: "thumbnail.webp"
 ---
 
-[![Video](posts/WASQZRWtECI/thumbnail.webp)](https://www.youtube.com/watch?v=WASQZRWtECI)
-
-oi oi oi explosão
+[Video](https://www.youtube.com/watch?v=WASQZRWtECI)oi oi oi explosão
 e quando ela bate ca de não entra não
 e aí entramos um aline tudo bom com
 vocês na santa paz tranquilidade deixa

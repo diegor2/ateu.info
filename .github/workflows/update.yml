@@ -60,6 +60,8 @@ jobs:
   thumb:
     needs: pick
     uses: diegor2/ateu.info/.github/workflows/thumbnail.yml@main
+    with:
+      video_id: ${{ needs.pick.outputs.video_id }}      
   
   convert:
     needs: [download, metadata]

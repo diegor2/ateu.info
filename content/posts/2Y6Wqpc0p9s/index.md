@@ -1,3 +1,4 @@
+
 ---
 date: "2020-06-02"
 title: > 
@@ -5,7 +6,9 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=2Y6Wqpc0p9s)alor
+[Video](https://www.youtube.com/watch?v=2Y6Wqpc0p9s)
+
+alor
 cadê cadê cadê eu onde
 estoi tudo bom com vocês Tudo na santa
 paz como é que vocês estão Boa noite Lu

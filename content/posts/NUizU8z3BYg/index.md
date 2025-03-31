@@ -1,3 +1,4 @@
+
 ---
 date: "2024-07-19"
 title: > 
@@ -5,7 +6,9 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=NUizU8z3BYg)k
+[Video](https://www.youtube.com/watch?v=NUizU8z3BYg)
+
+k
 [Música]
 [Música]
 [Aplausos]

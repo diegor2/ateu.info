@@ -1,3 +1,4 @@
+
 ---
 date: "2025-03-16"
 title: > 
@@ -5,7 +6,9 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=r-cr1a70AoY)sobre a higiene a minha resposta técnica
+[Video](https://www.youtube.com/watch?v=r-cr1a70AoY)
+
+sobre a higiene a minha resposta técnica
 e antropológica para você é que higiene
 é relativo você achar que
 necessariamente lavar as mãos é melhor é

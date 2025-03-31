@@ -1,3 +1,4 @@
+
 ---
 date: "2021-03-23"
 title: > 
@@ -5,7 +6,9 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=vCeIVjDfmd8)Oi boa noite meus amigos boa noite
+[Video](https://www.youtube.com/watch?v=vCeIVjDfmd8)
+
+Oi boa noite meus amigos boa noite
 Leonardo é que você está Eu espero que
 você esteja bem
 G1

@@ -1,3 +1,4 @@
+
 ---
 date: "2025-01-19"
 title: > 
@@ -5,7 +6,9 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=z-VFNDaMX5w)k
+[Video](https://www.youtube.com/watch?v=z-VFNDaMX5w)
+
+k
 [Música]
 [Música]
 fala meus queridos amigos e minhas

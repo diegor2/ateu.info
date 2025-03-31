@@ -1,3 +1,4 @@
+
 ---
 date: "2020-04-16"
 title: > 
@@ -5,7 +6,9 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=hqSAgW8D1EI)e aí
+[Video](https://www.youtube.com/watch?v=hqSAgW8D1EI)
+
+e aí
 e aí
 e aí
 e aí

@@ -1,3 +1,4 @@
+
 ---
 date: "2024-12-19"
 title: > 
@@ -5,7 +6,9 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=jeIYtlBy_q4)com OC silen ele luta pela justiça pela
+[Video](https://www.youtube.com/watch?v=jeIYtlBy_q4)
+
+com OC silen ele luta pela justiça pela
 igualdade é isso é exatamente isso
 despert sem medo não abido não se deixe
 levar pela alta do relativismo encado a

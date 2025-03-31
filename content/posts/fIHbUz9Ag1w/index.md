@@ -1,3 +1,4 @@
+
 ---
 date: "2024-10-22"
 title: > 
@@ -5,7 +6,9 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=fIHbUz9Ag1w)k
+[Video](https://www.youtube.com/watch?v=fIHbUz9Ag1w)
+
+k
 [Música]
 [Música]
 fala meus queridos e minhas queridas

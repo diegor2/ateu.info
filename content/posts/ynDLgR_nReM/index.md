@@ -1,3 +1,4 @@
+
 ---
 date: "2021-09-25"
 title: > 
@@ -5,7 +6,9 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=ynDLgR_nReM)G1
+[Video](https://www.youtube.com/watch?v=ynDLgR_nReM)
+
+G1
 e
 tchau tchau
 tchau tchau tchau

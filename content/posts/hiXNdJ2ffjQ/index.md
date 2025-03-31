@@ -1,3 +1,4 @@
+
 ---
 date: "2015-10-20"
 title: > 
@@ -5,7 +6,9 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=hiXNdJ2ffjQ)eu tô saudando a mandioca a mandioca eu
+[Video](https://www.youtube.com/watch?v=hiXNdJ2ffjQ)
+
+eu tô saudando a mandioca a mandioca eu
 tô saludando a
 mandioca quando Nós criamos uma bola
 dessas nós nos

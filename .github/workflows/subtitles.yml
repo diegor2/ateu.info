@@ -56,7 +56,7 @@ jobs:
         id: download
         run: |
           yt-dlp --write-auto-sub --sub-lang pt-orig --sub-format json3 \
-            -o "database/%(id)s/subtiles.%(ext)s" \
+            -o "database/%(id)s/subtitles.%(ext)s" \
             --skip-download --restrict-filenames -w \
             --lazy-playlist --rate-limit 500k \
             --proxy socks5://127.0.0.1:9050/ \

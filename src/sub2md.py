@@ -22,10 +22,20 @@ for id in os.listdir(databse):
     path = os.path.join(databse, id)
     map = {file.split('.')[0]:file for file in os.listdir(path)}
 
-    with open(os.path.join(path, map['metadata'])) as f:
+    meta_path = os.path.join(path, map['metadata'])
+    if not os.path.exists(meta_path):
+        print("Missing metadata, skipping")
+        continue
+
+    sub_path = os.path.join(path, map['subtitles'])
+    if not os.path.exists(meta_path):
+        print("Missing subtitles, skipping")
+        continue
+
+    with open(meta_path) as f:
         metadata = json.load(f)
 
-    with open(os.path.join(path, map['subtitles'])) as f:
+    with open(sub_path) as f:
         subtitles = json.load(f)
 
     content = 'content'

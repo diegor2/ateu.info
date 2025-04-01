@@ -38,6 +38,6 @@ jobs:
         git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git pull --rebase origin main
         git add .
-        git commit -m "Update content $(date)"
+        git commit --allow-empty -m "Update content $(date)"
         git push
   

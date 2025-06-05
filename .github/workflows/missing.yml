@@ -1,11 +1,11 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Auto update
+name: Retry existing entries for missing files
 
 # Controls when the workflow will run
 on:
   schedule:
-    - cron: "0 * * * *"   # Every hour
+    - cron: "30 * * * *"   # Every hour
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -43,7 +43,7 @@ jobs:
       - name: Pick a random id
         id: pick
         shell: bash
-        run: echo "video_id=$(python src/pick.py -n)" >> "$GITHUB_OUTPUT"
+        run: echo "video_id=$(python src/pick.py -x)" >> "$GITHUB_OUTPUT"
         
   download:
     needs: pick

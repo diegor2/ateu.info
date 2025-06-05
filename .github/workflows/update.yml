@@ -74,5 +74,5 @@ jobs:
     uses: diegor2/ateu.info/.github/workflows/sub2md.yml@main
 
   publish:
-    needs: [thumb, convert]
+    needs: [thumb, video, convert]
     uses: diegor2/ateu.info/.github/workflows/hugo.yml@main

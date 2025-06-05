@@ -44,6 +44,7 @@ jobs:
         run: |
           yt-dlp --list-subs --skip-download \
             --proxy socks5://127.0.0.1:9050/ \
+            --no-overwrites \
             "https://www.youtube.com/watch?v=${{ inputs.video_id }}"
 
       - name: Create directory if it doesn't exist
@@ -53,6 +54,7 @@ jobs:
         id: download
         run: |
           yt-dlp --quiet --no-warnings  --dump-json \
+            --no-overwrites \
             --proxy socks5://127.0.0.1:9050/ \
             "https://www.youtube.com/watch?v=${{ inputs.video_id }}" \
                 > database/${{ inputs.video_id }}/metadata.json

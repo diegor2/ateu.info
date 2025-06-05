@@ -44,6 +44,7 @@ jobs:
         run: |
           yt-dlp --list-subs --skip-download \
             --proxy socks5://127.0.0.1:9050/ \
+            --no-overwrites \
             "https://www.youtube.com/watch?v=${{ inputs.video_id }}"
 
       - name: Download subtitles
@@ -51,9 +52,10 @@ jobs:
         run: |
           yt-dlp --write-auto-sub --sub-lang pt-orig --sub-format json3 \
             -o "database/%(id)s/subtitles.%(ext)s" \
-            --skip-download --restrict-filenames -w \
+            --skip-download --restrict-filenames \
             --lazy-playlist --rate-limit 500k \
             --proxy socks5://127.0.0.1:9050/ \
+            --no-overwrites \
             "https://www.youtube.com/watch?v=${{ inputs.video_id }}"
 
       - name: Push files

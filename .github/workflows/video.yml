@@ -45,9 +45,10 @@ jobs:
         run: |
           yt-dlp -f 18 \
             -o "content/posts/%(id)s/video.%(ext)s" \
-            --restrict-filenames -w \
+            --restrict-filenames \
             --lazy-playlist --rate-limit 500k \
             --proxy socks5://127.0.0.1:9050/ \
+            --no-overwrites \
             "https://www.youtube.com/watch?v=${{ inputs.video_id }}"
 
       - name: Push files

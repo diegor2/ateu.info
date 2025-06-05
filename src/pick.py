@@ -2,16 +2,18 @@ import os
 import random
 import sys
 
-# defaults
-skip_existing = True
+skip_existing = False
 only_existing = False
 
-if sys.argv[1] == '-n':
-    skip_existing = True
-elif sys.argv[1] == '-x':
-    only_existing = True
-elif sys.argv[1] == '-a':
-    pass
+if len(sys.argv) > 1:
+    if sys.argv[1] == '-n':
+        skip_existing = True
+    elif sys.argv[1] == '-x':
+        only_existing = True
+    elif sys.argv[1] == '-a':
+        pass
+else:
+    skip_existing = True # default to -n
 
 with open('index.db') as f:
     ids = f.read().splitlines()

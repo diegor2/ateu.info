@@ -40,12 +40,12 @@ jobs:
       - name: Install yt-dlp
         run: pip install -U yt-dlp
 
-      - name: Download thumbnail
+      - name: Download video
         id: download
         run: |
-          yt-dlp --write-thumbnail \
-            -o "content/posts/%(id)s/thumbnail.%(ext)s" \
-            --skip-download --restrict-filenames -w \
+          yt-dlp -f 18 \
+            -o "content/posts/%(id)s/video.%(ext)s" \
+            --restrict-filenames -w \
             --lazy-playlist --rate-limit 500k \
             --proxy socks5://127.0.0.1:9050/ \
             "https://www.youtube.com/watch?v=${{ inputs.video_id }}"

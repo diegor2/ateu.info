@@ -13,7 +13,8 @@ title: >
 featured_image: "$img"
 ---
 
-[Video](https://www.youtube.com/watch?v=$id)
+{{< video src="video" >}}
+
 
 ''')
 databse = 'database'

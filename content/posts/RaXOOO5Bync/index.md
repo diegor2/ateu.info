@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=RaXOOO5Bync)
+{{< video src="video" >}}
+
 
 [Música]
 estou a ouvir o frei

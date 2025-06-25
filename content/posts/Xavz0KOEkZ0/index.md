@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=Xavz0KOEkZ0)
+{{< video src="video" >}}
+
 
 por isso admiramos a nova itália por
 isso admiramos hungria polônia - aqueles

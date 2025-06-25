@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=tqfdvAaz9sU)
+{{< video src="video" >}}
+
 
 em
 romanos we let me be your Woman

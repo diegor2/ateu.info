@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=PZjUuvseW_o)
+{{< video src="video" >}}
+
 
 a amizade com o tempo de Cronos sempre
 passa parece que Poseidon só nos trouxe

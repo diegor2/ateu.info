@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=O6zgrX1B5l0)
+{{< video src="video" >}}
+
 
 o uirapuru tira juro uau ai galera tudo
 bom com vocês boa tarde cidadão de bem

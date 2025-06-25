@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=njteztl6eak)
+{{< video src="video" >}}
+
 
 e ele mandou esse áudio aqui
 historiografico muito ruim muito ruim

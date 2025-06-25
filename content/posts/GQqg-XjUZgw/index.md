@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=GQqg-XjUZgw)
+{{< video src="video" >}}
+
 
 [Música]
 ge das V lieben TR he

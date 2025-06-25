@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=e3SMxn7HyvQ)
+{{< video src="video" >}}
+
 
 oi oi som testando não tô fazendo a
 gravação do vídeo com stream Labs dessa

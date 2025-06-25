@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=hcPGjo8WIcM)
+{{< video src="video" >}}
+
 
 um grande always will stand up Christmas
 list of books on for Nowhere Girl This

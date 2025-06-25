@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=7P0YVuyuXlk)
+{{< video src="video" >}}
+
 
 São Paulo
 É sim vindos a um vídeo de choro você

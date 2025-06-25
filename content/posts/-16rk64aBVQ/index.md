@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=-16rk64aBVQ)
+{{< video src="video" >}}
+
 
 e nem tão
 shijima da

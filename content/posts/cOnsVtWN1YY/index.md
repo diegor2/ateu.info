@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=cOnsVtWN1YY)
+{{< video src="video" >}}
+
 
 [Música]
 Gustavo Machado é feroz sem

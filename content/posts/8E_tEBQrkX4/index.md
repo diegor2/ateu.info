@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=8E_tEBQrkX4)
+{{< video src="video" >}}
+
 
 E aí
 e fala meus ele disse você minhas

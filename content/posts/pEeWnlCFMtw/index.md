@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=pEeWnlCFMtw)
+{{< video src="video" >}}
+
 
 vem dragão chinês passa o carro no
 fortalece com o brick rebolando ao som

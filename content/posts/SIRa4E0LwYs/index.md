@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=SIRa4E0LwYs)
+{{< video src="video" >}}
+
 
 E aí
 o carro simplesmente não sei o que

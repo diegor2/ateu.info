@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=ZUbA7bXEve0)
+{{< video src="video" >}}
+
 
 [Música]
 não consigo apertar o botão na hora

@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=d_fl3IEBF54)
+{{< video src="video" >}}
+
 
 E aí
 o roxo susto

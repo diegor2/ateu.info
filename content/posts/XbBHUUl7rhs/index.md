@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=XbBHUUl7rhs)
+{{< video src="video" >}}
+
 
 eu odeio players têm ajeitar um negócio
 que eu deveria ter ajeitado então aqui

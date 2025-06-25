@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=CO4Mk54-nCM)
+{{< video src="video" >}}
+
 
 Como saber se estão me ouvindo bem está
 tudo tranquilo aí para gente começar o

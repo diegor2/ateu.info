@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=N5Np0lj8LBA)
+{{< video src="video" >}}
+
 
 [Música]
 essa cidade está

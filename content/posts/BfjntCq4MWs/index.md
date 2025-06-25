@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=BfjntCq4MWs)
+{{< video src="video" >}}
+
 
 frequentar um link logo fica falando
 sozinho

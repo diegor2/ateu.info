@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=6tF8tgaw2Fw)
+{{< video src="video" >}}
+
 
 de todo mal combater despertar o poder
 só a constelação hoje de novo Como é que

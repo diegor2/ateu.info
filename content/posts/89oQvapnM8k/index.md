@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=89oQvapnM8k)
+{{< video src="video" >}}
+
 
 a Anna Bad Girl up where you left last
 span test can brush My Hair and

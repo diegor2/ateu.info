@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=WVkGyiM0VsM)
+{{< video src="video" >}}
+
 
 manam
 Cage make

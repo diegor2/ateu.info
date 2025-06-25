@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=vCeIVjDfmd8)
+{{< video src="video" >}}
+
 
 Oi boa noite meus amigos boa noite
 Leonardo é que você está Eu espero que

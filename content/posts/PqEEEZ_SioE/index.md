@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=PqEEEZ_SioE)
+{{< video src="video" >}}
+
 
 o novo joia Boy que ser Supremo os novos
 de eleny e mudou Júnior e aí meus amigos

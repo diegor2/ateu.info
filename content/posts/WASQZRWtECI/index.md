@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=WASQZRWtECI)
+{{< video src="video" >}}
+
 
 oi oi oi explosão
 e quando ela bate ca de não entra não

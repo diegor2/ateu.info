@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=AHUdVnPAiNA)
+{{< video src="video" >}}
+
 
 se evolução é real por que não existe um
 bicho meio peixe e meio anfíbio

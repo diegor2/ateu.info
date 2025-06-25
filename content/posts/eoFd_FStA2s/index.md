@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=eoFd_FStA2s)
+{{< video src="video" >}}
+
 
 [Música]
 fala meus queridos e minhas queridas

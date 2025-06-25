@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=_WkmglFtir4)
+{{< video src="video" >}}
+
 
 Vamos já
 rachado. Fões da

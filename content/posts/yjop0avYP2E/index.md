@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=yjop0avYP2E)
+{{< video src="video" >}}
+
 
 eu avisei não
 avisei você plantou a bomba a bomba e eu

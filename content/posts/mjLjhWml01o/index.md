@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=mjLjhWml01o)
+{{< video src="video" >}}
+
 
 [Música]
 o cágado do cágado

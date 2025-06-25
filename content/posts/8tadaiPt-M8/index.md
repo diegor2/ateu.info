@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=8tadaiPt-M8)
+{{< video src="video" >}}
+
 
 galera Tô de saco cheio de saco cheio de
 saco cheio de saco

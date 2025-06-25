@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=fzHl4-84rE8)
+{{< video src="video" >}}
+
 
 [Música]
 olha os Car vindo cheios de malícia

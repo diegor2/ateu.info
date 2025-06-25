@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=OR7xAAm5QIA)
+{{< video src="video" >}}
+
 
 será que vai entrar alguém aqui é sempre
 uma dúvida mas com essa internet zoada

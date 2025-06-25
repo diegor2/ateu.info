@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=7abrxXCBZiA)
+{{< video src="video" >}}
+
 
 hoje o gaiofato vai estar no meu canal
 Mas você disse que não ia aceitar anti

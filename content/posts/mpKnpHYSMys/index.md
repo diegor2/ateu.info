@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=mpKnpHYSMys)
+{{< video src="video" >}}
+
 
 E aí
 e fala meus amigos acabou que no sorteio

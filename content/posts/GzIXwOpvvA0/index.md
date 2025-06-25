@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=GzIXwOpvvA0)
+{{< video src="video" >}}
+
 
 [Música]
 lalá no mercado tudo bem com vocês é

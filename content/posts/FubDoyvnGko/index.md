@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=FubDoyvnGko)
+{{< video src="video" >}}
+
 
 Fala meus queridos e minhas queridas
 amigas, tudo bem com vocês? Hoje a gente

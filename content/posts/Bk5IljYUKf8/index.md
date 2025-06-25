@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=Bk5IljYUKf8)
+{{< video src="video" >}}
+
 
 eu era só mais um Silva que a estrela
 não brilha ele era funkeiro mas era pai

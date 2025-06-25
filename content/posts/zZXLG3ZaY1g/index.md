@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=zZXLG3ZaY1g)
+{{< video src="video" >}}
+
 
 E ai ai eu posso com um negócio desse eu
 posso com um negócio desse que Demi Caiu

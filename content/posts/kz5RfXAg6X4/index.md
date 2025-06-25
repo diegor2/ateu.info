@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=kz5RfXAg6X4)
+{{< video src="video" >}}
+
 
 A Liga da parada vamos falar que eu sumi
 mas assumir na levado e vão da vida que

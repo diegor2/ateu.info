@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=mBlSa4SK-eQ)
+{{< video src="video" >}}
+
 
 o galho fraco o Zé malandro do Pedaço pã
 modernos zer tudo só embaraço cheio de

@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=8db-b1kxzu0)
+{{< video src="video" >}}
+
 
 [Música]
 [ __ ] Por volta do século an de Cristo

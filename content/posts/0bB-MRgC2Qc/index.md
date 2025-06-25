@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=0bB-MRgC2Qc)
+{{< video src="video" >}}
+
 
 oi minha luz papelão bairro china era
 para ensinar a criança a não vou falando

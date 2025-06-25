@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=Q1on5q3FBTI)
+{{< video src="video" >}}
+
 
 [Música]
 há muito tempo surgiu um texto e esse

@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=vMTrozag_Sc)
+{{< video src="video" >}}
+
 
 [Música]
 boa tarde tudo bem vocês tranquilidade

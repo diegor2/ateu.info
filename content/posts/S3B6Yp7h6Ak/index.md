@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=S3B6Yp7h6Ak)
+{{< video src="video" >}}
+
 
 [Música]
 Barões da

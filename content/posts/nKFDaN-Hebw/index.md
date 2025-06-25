@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=nKFDaN-Hebw)
+{{< video src="video" >}}
+
 
 e o de Atena e o engraçado é que eu
 cresci dentro da se dentro de bares seus

@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=QDaeCWdh_hk)
+{{< video src="video" >}}
+
 
 eu tava mal nada mais eu era boa noite
 tudo bem com vocês boa noite ravel

@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=JcQ4-ipsw20)
+{{< video src="video" >}}
+
 
 e tira tiruru tira tira tira tira o pai
 estamos ao vivo mas eu quero fazer esse

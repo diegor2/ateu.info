@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=bZvadpYViM8)
+{{< video src="video" >}}
+
 
 o desejo de género de nylon
 E aí

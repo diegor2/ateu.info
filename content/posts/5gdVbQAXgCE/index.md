@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=5gdVbQAXgCE)
+{{< video src="video" >}}
+
 
 é só mais um Silva brilha ele era
 funkeiro mas era pai de família só mais

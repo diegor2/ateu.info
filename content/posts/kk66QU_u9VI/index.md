@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=kk66QU_u9VI)
+{{< video src="video" >}}
+
 
 G1
 E aí longas fukin some go Live de Hubble

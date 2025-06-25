@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=lsroj7KHGUA)
+{{< video src="video" >}}
+
 
 G1
 e vem cá

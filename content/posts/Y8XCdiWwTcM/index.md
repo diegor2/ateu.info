@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=Y8XCdiWwTcM)
+{{< video src="video" >}}
+
 
 I
 Just Got Just One Direction love

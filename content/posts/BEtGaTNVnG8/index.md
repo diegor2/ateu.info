@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=BEtGaTNVnG8)
+{{< video src="video" >}}
+
 
 oi oi amigos tudo bom com vocês
 e eu espero que sim eu espero entramos

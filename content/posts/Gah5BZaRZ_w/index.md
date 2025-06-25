@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=Gah5BZaRZ_w)
+{{< video src="video" >}}
+
 
 o leite artigo 58 inciso terceiro né
 parágrafo terceiro perdão é lá que

@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=z8WSxQg_RLo)
+{{< video src="video" >}}
+
 
 [Música]
 Povo já

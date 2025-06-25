@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=g2vy4XOPgLU)
+{{< video src="video" >}}
+
 
 Fala meu, Fala, meus queridos e minhas
 queridas amigas, vocês conseguem me

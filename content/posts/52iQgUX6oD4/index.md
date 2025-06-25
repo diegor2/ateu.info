@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=52iQgUX6oD4)
+{{< video src="video" >}}
+
 
 e eles podem o sonho brilhar a escuridão
 vai terminar laços de amizade no campo

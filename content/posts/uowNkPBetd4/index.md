@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=uowNkPBetd4)
+{{< video src="video" >}}
+
 
 e os amigões tudo bom com vocês fazer um
 entra imagem nunca mais é isso mesmo

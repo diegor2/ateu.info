@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=6K5bTRHtHXg)
+{{< video src="video" >}}
+
 
 o uso do push nos brasil sendo
 transmitindo nenhum antes fui eu

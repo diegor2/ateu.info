@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=E7fdIzYP3nU)
+{{< video src="video" >}}
+
 
 muitos dos conceitos que nós utilizamos
 ultimamente como política plebiscito

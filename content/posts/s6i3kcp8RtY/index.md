@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=s6i3kcp8RtY)
+{{< video src="video" >}}
+
 
 e fala meus lá costados fala meus
 Barbixas do serj Tankian como é que

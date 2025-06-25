@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=i_zDyc5_hQo)
+{{< video src="video" >}}
+
 
 [Música]
 no Vale do

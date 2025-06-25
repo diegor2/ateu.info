@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=b3xuUQie2tE)
+{{< video src="video" >}}
+
 
 o vídeo eu queria eu preciso saber se o
 áudio tá boa você tá tranquilo é bom que

@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=s_aqMev2Qes)
+{{< video src="video" >}}
+
 
 [Música]
 não pigo mais doido mais deixei PR lá

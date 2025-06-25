@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=HVSxjAuqgPg)
+{{< video src="video" >}}
+
 
 Digamos que eu sou aquilo que vocês
 chamam de mundo ou então

@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=jeIYtlBy_q4)
+{{< video src="video" >}}
+
 
 com OC silen ele luta pela justiça pela
 igualdade é isso é exatamente isso

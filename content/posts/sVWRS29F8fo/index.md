@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=sVWRS29F8fo)
+{{< video src="video" >}}
+
 
 na calmaria da
 Lagoa o sapo cheio de

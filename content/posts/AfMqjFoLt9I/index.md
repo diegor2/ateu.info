@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=AfMqjFoLt9I)
+{{< video src="video" >}}
+
 
 [Música]
 Fala galera tudo bem Bom primeiro eu

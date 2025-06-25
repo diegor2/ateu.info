@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=hiXNdJ2ffjQ)
+{{< video src="video" >}}
+
 
 eu tô saudando a mandioca a mandioca eu
 tô saludando a

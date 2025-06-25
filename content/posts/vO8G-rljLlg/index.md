@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=vO8G-rljLlg)
+{{< video src="video" >}}
+
 
 mais rodas will a forte evento é o reino
 dos céus de londres no próximo mês chega

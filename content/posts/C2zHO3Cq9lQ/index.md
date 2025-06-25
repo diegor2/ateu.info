@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=C2zHO3Cq9lQ)
+{{< video src="video" >}}
+
 
 E aí
 e colocar implantou ricarcatto no turnê

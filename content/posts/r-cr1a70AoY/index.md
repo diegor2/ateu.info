@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=r-cr1a70AoY)
+{{< video src="video" >}}
+
 
 sobre a higiene a minha resposta técnica
 e antropológica para você é que higiene

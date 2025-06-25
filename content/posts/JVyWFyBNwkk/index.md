@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=JVyWFyBNwkk)
+{{< video src="video" >}}
+
 
 [Música]
 Boa tarde meus queridos e minhas

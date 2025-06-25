@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=MbYuDAD2wwc)
+{{< video src="video" >}}
+
 
 e para parapapá parapapá parapapá
 parapapá o puro puro cadê tu cadê eu

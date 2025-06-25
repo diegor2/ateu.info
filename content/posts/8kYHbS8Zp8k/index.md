@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=8kYHbS8Zp8k)
+{{< video src="video" >}}
+
 
 um dia o velho fazendo esse vídeo aqui
 pra fazer uma homenagem a uma pessoa um

@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=T7WL2-8Vy7g)
+{{< video src="video" >}}
+
 
 E aí
 Oi boa noite Guilherme Diego gastei

@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=x0uU0slkoZ4)
+{{< video src="video" >}}
+
 
 e depois pratileira em cima da lambada
 Peppa Pig em seus clientes ontem 30 que

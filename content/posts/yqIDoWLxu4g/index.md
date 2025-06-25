@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=yqIDoWLxu4g)
+{{< video src="video" >}}
+
 
 E aí como é que estão vocês estão bem
 Vocês estão curtindo Natal vocês tão de

@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=ZJCJObzLSJc)
+{{< video src="video" >}}
+
 
 não é meu deus eu to eye e aí nossa
 entrega online muito rápido pela ahb do

@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=lc-K1khG4Ng)
+{{< video src="video" >}}
+
 
 [Música]
 não brigo mais não brigo mais deixa lá

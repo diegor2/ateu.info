@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=RdyMvsDL-HE)
+{{< video src="video" >}}
+
 
 eu tô tremendo de raiva Vamos lá
 fazer uma oração aqui para Buda rezar

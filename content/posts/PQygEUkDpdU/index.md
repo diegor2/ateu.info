@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=PQygEUkDpdU)
+{{< video src="video" >}}
+
 
 [Música]
 Do irracionalismo ele se cansou, das

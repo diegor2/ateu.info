@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=K9f1g9JavWA)
+{{< video src="video" >}}
+
 
 [Música]
 lá vem

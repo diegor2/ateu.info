@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=VB3oF18ZUnM)
+{{< video src="video" >}}
+
 
 e fala meus amigos carinha Milan Boa
 noite a vocês

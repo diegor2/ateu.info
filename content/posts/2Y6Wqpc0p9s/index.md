@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=2Y6Wqpc0p9s)
+{{< video src="video" >}}
+
 
 alor
 cadê cadê cadê eu onde

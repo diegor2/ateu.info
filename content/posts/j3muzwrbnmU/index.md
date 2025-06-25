@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=j3muzwrbnmU)
+{{< video src="video" >}}
+
 
 o que é que dá para fazer sim deixa eu
 ver deixa eu ver deixa eu ver talvez há

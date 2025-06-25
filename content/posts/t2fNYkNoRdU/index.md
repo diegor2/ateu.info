@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=t2fNYkNoRdU)
+{{< video src="video" >}}
+
 
 e o senhor ou a senhora vocês estão bem
 Eu espero que todos vocês estejam bem

@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=7JxTh9BXYPc)
+{{< video src="video" >}}
+
 
 e vai ser burro assim meu Deus ai meu
 Deus do céu alguém que tiver lá na outra

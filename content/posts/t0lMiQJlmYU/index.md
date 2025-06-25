@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=t0lMiQJlmYU)
+{{< video src="video" >}}
+
 
 [Música]
 boa noite tudo bem

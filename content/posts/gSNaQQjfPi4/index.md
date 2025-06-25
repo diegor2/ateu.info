@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=gSNaQQjfPi4)
+{{< video src="video" >}}
+
 
 e
 eu tô com fome quero merendar

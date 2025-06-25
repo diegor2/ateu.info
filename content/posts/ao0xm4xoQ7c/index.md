@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=ao0xm4xoQ7c)
+{{< video src="video" >}}
+
 
 [Música]
 opa e aí bom soar como vocês tudo bem eu

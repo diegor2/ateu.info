@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=gLZnKUlajPk)
+{{< video src="video" >}}
+
 
 e vamos aqui vamos aqui onde aqui fazer
 um naquela magnésio pa

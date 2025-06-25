@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=vjRsqjrZKuM)
+{{< video src="video" >}}
+
 
 Oi boa noite
 Olá como estão vocês estão bem

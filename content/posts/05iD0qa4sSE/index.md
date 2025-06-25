@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=05iD0qa4sSE)
+{{< video src="video" >}}
+
 
 E aí
 o tempo inteiro no tempo MG tem Pirim

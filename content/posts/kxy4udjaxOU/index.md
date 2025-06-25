@@ -6,7 +6,8 @@ title: >
 featured_image: "thumbnail.webp"
 ---
 
-[Video](https://www.youtube.com/watch?v=kxy4udjaxOU)
+{{< video src="video" >}}
+
 
 Rachador. O que é? É um cara que
 vai fal

@@ -5,21 +5,31 @@ import sys
 from jsonpath_ng import jsonpath, parse
 from string import Template
 
-template = Template('''
+template_header = '''
 ---
 date: "$date"
 title: > 
     $title
 featured_image: "$img"
 ---
+'''
+template_video = '{{< video src="video" >}}'
+template_youtube = '{{< youtube $id >}}'
 
-{{< video src="video" >}}
-
-
-''')
 databse = 'database'
+content = 'content'
+posts = 'posts'
+output = os.path.join(content, posts)
+
 for id in os.listdir(databse):
     print(id)
+    out = os.path.join(output, id)
+    vid = os.path.join(out,'video.mp4')
+    if os.path.exists(vid):
+        template = Template(template_header + template_video)
+    else:
+        template = Template(template_header + template_youtube)
+
     path = os.path.join(databse, id)
     map = {file.split('.')[0]:file for file in os.listdir(path)}
 
@@ -39,10 +49,6 @@ for id in os.listdir(databse):
         print("Missing subtitles, skipping")
         continue
 
-    content = 'content'
-    posts = 'posts'
-    output = os.path.join(content, posts)
-    out = os.path.join(output, id)
     markdown = os.path.join(out, 'index.md')
     header = template.substitute(
         {

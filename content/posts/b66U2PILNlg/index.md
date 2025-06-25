@@ -5,11 +5,7 @@ title: >
     Ateu Informa: Física Moderna & Ateísmo Científico
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube b66U2PILNlg >}}[Música]
 [Música]
 c f sai de boa aí no bagulho P brother
 eu não sabia que ia ter que explicar

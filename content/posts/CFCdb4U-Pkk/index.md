@@ -5,11 +5,7 @@ title: >
     Comentário crítico à Crítica ao "Campismo" feita por Gustavo Machado
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-e fala meus amigos Uma boa noite para
+{{< youtube CFCdb4U-Pkk >}}e fala meus amigos Uma boa noite para
 vocês boa noite Ricardo Boa noite Bruno
 Boa noite garotada a eu espero que vocês
 que estejam bem É só calcular aqui o

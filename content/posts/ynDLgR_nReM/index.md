@@ -5,11 +5,7 @@ title: >
     Rushando Tucídides V: O início da 1ª Fase da Guerra
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-G1
+{{< youtube ynDLgR_nReM >}}G1
 e
 tchau tchau
 tchau tchau tchau

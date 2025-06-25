@@ -5,11 +5,7 @@ title: >
     Falando Sério: Debate do Álvaro e as acusações contra a crítica à Escola de Frankfurt no Twitter
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube 8GBBKvWeb2I >}}[Música]
 fala meus queridos e minhas queridas
 amigas boa madrugada para vocês eu
 espero que quem chegar aqui Depois

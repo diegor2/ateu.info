@@ -5,11 +5,7 @@ title: >
     Debate IMPORTANTÍSSIMO do Gustavo Machado e minha "refutação do vento" contra a Extrema-Direita
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube LTtAggoEuaQ >}}k
 [Música]
 [Música]
 [Música]

@@ -5,11 +5,7 @@ title: >
     A Maior Farsa Da Humanidade - Epílogo: Do Direito De Duvidar!
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube 9AL77K_lJ_8 >}}[Música]
 [Música]
 não o 25 de dezembro é muito simples
 quer dizer é simples realmente Jesus

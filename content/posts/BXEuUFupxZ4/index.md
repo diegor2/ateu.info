@@ -5,11 +5,7 @@ title: >
     Ainda Daniel: O verdadeiro na política e no poder e a pergunta sobre bases objetivas de morais
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube BXEuUFupxZ4 >}}[Música]
 [Música]
 não consigo apertar esse negó direito
 [Música]

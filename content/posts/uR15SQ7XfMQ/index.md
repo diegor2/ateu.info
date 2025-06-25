@@ -5,11 +5,7 @@ title: >
     Eleitor do Novo pior que Bolsonaro? O perigo do "libera tudo que resolve"
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube uR15SQ7XfMQ >}}[Música]
 [Música]
 e agora tudo o que vocês do bom eu tô
 gravando esse vídeo pra conversar um

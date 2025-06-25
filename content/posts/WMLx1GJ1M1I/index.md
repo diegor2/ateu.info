@@ -5,11 +5,7 @@ title: >
     Tudologiazinho Jones e Gustavo: Contra o Olavismo que adoeceu o Brasil
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube WMLx1GJ1M1I >}}[Música]
 [Música]
 Oumaça sobe, mas não é craque. É a
 cabeça do liberal. Entrando em

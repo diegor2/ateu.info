@@ -5,11 +5,7 @@ title: >
     Crivella e Modus Político: "Volta A Falar De Ateísmo"
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-E aí
+{{< youtube SIRa4E0LwYs >}}E aí
 o carro simplesmente não sei o que
 aconteceu Nunca que aconteceu isso no
 canal que deu o vídeo de vez em quando

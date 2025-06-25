@@ -5,11 +5,7 @@ title: >
     Janela de Overton e a esperteza disfarçada: "Kim diz que Eduardo é Che"
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-i
+{{< youtube Pt65llELuAI >}}i
 [Música]
 em alguém e iii beleza coletivo alguns
 vídeos atrás que tenho feito algumas

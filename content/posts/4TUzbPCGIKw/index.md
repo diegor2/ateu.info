@@ -5,11 +5,7 @@ title: >
     A Verdadeira Guerra dos Tronos - Roma: o Universalismo Político e a Paranoia Contemporânea [Parte 4]
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-muitos dos conceitos que nós utilizamos
+{{< youtube 4TUzbPCGIKw >}}muitos dos conceitos que nós utilizamos
 ultimamente vem do nosso passado
 greco-romano mas enfim vamos voltar pra
 última parte do vídeo chegamos

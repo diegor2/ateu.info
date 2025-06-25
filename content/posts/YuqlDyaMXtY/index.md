@@ -5,11 +5,7 @@ title: >
     Tudologia do Sokal: só isso mesmo, vocês perguntam eu respondo
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube YuqlDyaMXtY >}}k
 [Música]
 [Música]
 [Música]

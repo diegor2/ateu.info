@@ -5,11 +5,7 @@ title: >
     Frederico Krepe faz excelente vídeo explicando porque não é marxista: oportunidade aos webcomuna
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube mk7sYU_0a9w >}}k
 [Música]
 [Música]
 fala meus queridos e minhas queridas

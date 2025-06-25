@@ -5,11 +5,7 @@ title: >
     Contra Ciro 2: A Canalhice de acusar o Gregório de racista
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-e o senhor ou a senhora vocês estão bem
+{{< youtube t2fNYkNoRdU >}}e o senhor ou a senhora vocês estão bem
 Eu espero que todos vocês estejam bem
 e veja no vídeo de hoje nós vamos
 discutir a acusação que o Ciro Gomes fez

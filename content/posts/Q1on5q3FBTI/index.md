@@ -5,11 +5,7 @@ title: >
     (A favor da "ideologia") Estruturas mutáveis e Relações basilares: Entre o invariável e o possível
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube Q1on5q3FBTI >}}[Música]
 há muito tempo surgiu um texto e esse
 texto ganhou um nome chamado hoje
 república

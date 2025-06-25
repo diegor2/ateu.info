@@ -5,11 +5,7 @@ title: >
     Live: Há problema em ter "Fé na ciência"? - ἀλήθεια: Verdade, Convicção e crença justificada
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-e aí
+{{< youtube hqSAgW8D1EI >}}e aí
 e aí
 e aí
 e aí

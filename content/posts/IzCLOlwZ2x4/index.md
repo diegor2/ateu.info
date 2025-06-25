@@ -5,11 +5,7 @@ title: >
     A Arte e a Vida: Uma Metáfora em The Boys x "Maior Julgamento de Fascistas Desde Nuremberg"
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-E aí
+{{< youtube IzCLOlwZ2x4 >}}E aí
 o c******
 E aí
 E aí

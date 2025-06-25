@@ -5,11 +5,7 @@ title: >
     Deus, o Pragmatismo Capitalista e a Mentira Socialmente Útil: Em defesa do "Humanismo" e Resiliência
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-G1
+{{< youtube ezOwoed_ga4 >}}G1
 e todo dia Folia Carnaval na Bahia é
 assim gente lá não tem que aguentar
 calor mas que quente não tem fim e aí

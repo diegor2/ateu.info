@@ -5,11 +5,7 @@ title: >
     Ateu Informa: O Inicio do Fim de Uma Superstição
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube 8db-b1kxzu0 >}}[Música]
 [ __ ] Por volta do século an de Cristo
 os macedônios guiados por um tal de
 Alexandre o Grande saíram conquistando a

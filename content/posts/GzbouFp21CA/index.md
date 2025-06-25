@@ -5,11 +5,7 @@ title: >
     Tudologia: Debate do Jones Manoel (PCBR) com o menino do MBL
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube GzbouFp21CA >}}k
 [Música]
 [Música]
 fala meus queridos e minhas queridas

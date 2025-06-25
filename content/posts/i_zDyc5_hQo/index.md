@@ -5,11 +5,7 @@ title: >
     Um elogio e uma crítica ao Elias Jabbour no 3 irmãos: sem rachismos
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube i_zDyc5_hQo >}}[Música]
 no Vale do
 nilo lá vem
 pavana com seu petinho de ouro proteção

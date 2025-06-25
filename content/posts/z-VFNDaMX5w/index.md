@@ -5,11 +5,7 @@ title: >
     Safatleismo Cultural e Sisu: Ajudem-me numas decisões aqui
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube z-VFNDaMX5w >}}k
 [Música]
 [Música]
 fala meus queridos amigos e minhas

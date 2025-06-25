@@ -5,11 +5,7 @@ title: >
     REACT ao PIRULA: Jones Manoel na Política e o Argumento do Velho Cansado
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube Q6_U2uGA2OA >}}[Música]
 fala meus queridos amigos e minhas
 queridas amigos tudo bem com vocês eu
 espero que esteja tudo bem com vocês no

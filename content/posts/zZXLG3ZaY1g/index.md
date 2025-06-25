@@ -5,11 +5,7 @@ title: >
     Continuação: Live de Reestruturação do Canal e Introdução Geográfica à História de Atenas
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-E ai ai eu posso com um negócio desse eu
+{{< youtube zZXLG3ZaY1g >}}E ai ai eu posso com um negócio desse eu
 posso com um negócio desse que Demi Caiu
 um raio desgramado que acaba com alergia
 aqui para o tempo e eu paro no meio da

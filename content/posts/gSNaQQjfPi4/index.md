@@ -5,11 +5,7 @@ title: >
     Rushando Tucídides I - Por que Tucídides?
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-e
+{{< youtube gSNaQQjfPi4 >}}e
 eu tô com fome quero merendar
 eu tô com fome quero m****
 com mortadela embora pai pão com

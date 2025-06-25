@@ -5,11 +5,7 @@ title: >
     O importante Conceito Marxista de Imperialismo e o chamado "campismo"
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-Oi boa noite meus queridos amigos quero
+{{< youtube d0bLwBsr1ac >}}Oi boa noite meus queridos amigos quero
 saber se estamos online
 computador está ligando você vai ver a
 minha meu quarto a tudo bom com vocês eu

@@ -5,11 +5,7 @@ title: >
     Acabei de ser ameaçado por um "não fascista" que insinuou que eu era Iluminatti
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-เฮ
+{{< youtube kT0Z8YAogUY >}}เฮ
 [Música]
 [Música]
 [Música]

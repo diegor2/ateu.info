@@ -5,11 +5,7 @@ title: >
     Eu, Professor: algumas reflexões sobre educação
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube 8s6C-uedpuM >}}k
 [Música]
 [Música]
 fala meus queridos e minhas queridas

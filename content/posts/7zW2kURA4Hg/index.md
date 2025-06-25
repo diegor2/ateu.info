@@ -5,11 +5,7 @@ title: >
     Leitura Noturna: Por que tu critica o Aristotelerson?
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-E aí
+{{< youtube 7zW2kURA4Hg >}}E aí
 e fala tu os seus Tim Demócrito como é
 que vocês estão vocês estão na santa paz
 Divina de já eu espero que esteja bem

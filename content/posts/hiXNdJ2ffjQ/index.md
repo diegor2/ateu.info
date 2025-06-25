@@ -5,11 +5,7 @@ title: >
     Ética e Martelo [Parte 1] - O Humano e Razão entre Fatos e Valores
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-eu tô saudando a mandioca a mandioca eu
+{{< youtube hiXNdJ2ffjQ >}}eu tô saudando a mandioca a mandioca eu
 tô saludando a
 mandioca quando Nós criamos uma bola
 dessas nós nos

@@ -5,11 +5,7 @@ title: >
     Não vou competir com mentira
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube qELuOun-KU0 >}}k
 [Música]
 [Música]
 ai ai ai ai ai ai tá chegando a hora

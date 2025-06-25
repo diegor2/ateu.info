@@ -5,11 +5,7 @@ title: >
     Treta com o Henry e com o Ciro: A Natureza Humana e Conflito
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-e nem tão
+{{< video src="video" >}}e nem tão
 shijima da
 Sococo cara
 mezamero chorou retirar ache o coelho

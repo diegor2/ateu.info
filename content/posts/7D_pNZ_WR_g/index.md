@@ -5,11 +5,7 @@ title: >
     Dia do Basta
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-E aí galera notícia rapidinho aqui esse
+{{< youtube 7D_pNZ_WR_g >}}E aí galera notícia rapidinho aqui esse
 final de semana dia 1920 21 tá vendo uma
 movimentação Nacional chamado dia do
 basta contra corrupção Os encontros vão

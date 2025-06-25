@@ -5,11 +5,7 @@ title: >
     Bate-papo CNU 1: Código de Ética (Decreto 1.171/94) e Improbidade Administrativa (Lei 8.429/92)
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube ap17qfbfCpc >}}[Música]
 bring B
 como é que vocês estão meus queridos e
 minhas queridas amigas uma boníssima

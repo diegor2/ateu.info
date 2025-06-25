@@ -5,11 +5,7 @@ title: >
     Texto de um Chefe de Estado sobre Ateísmo Militante
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-E aí
+{{< youtube Y4QSMNOzugg >}}E aí
 E aí
 e o camarada Trotsky disse já tudo o que
 é essencial e disse muito bem sobre as

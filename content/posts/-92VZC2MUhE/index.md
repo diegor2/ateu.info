@@ -5,11 +5,7 @@ title: >
     Reação à Kéfera: Direita Babaca X Direita Razoável - Essa diferença existe, Arthur do Val?
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-oi tudo bem
+{{< youtube -92VZC2MUhE >}}oi tudo bem
 a primeira coisa que eu gostaria de
 fazer que é pedir desculpa para os
 inscritos no canal porque novamente

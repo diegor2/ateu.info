@@ -5,11 +5,7 @@ title: >
     Resposta aos Gravata Borboleta: "Você está Paranoico"
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-eu tô tremendo de raiva Vamos lá
+{{< youtube RdyMvsDL-HE >}}eu tô tremendo de raiva Vamos lá
 fazer uma oração aqui para Buda rezar
 para Atenas tem muita calma a pena né na
 verdade

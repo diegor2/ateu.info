@@ -5,11 +5,7 @@ title: >
     Especial de Férias: Linck do QnS é um Nitzchenano do Bem - E vocês sabiam que eu componho música?
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-fig
+{{< youtube CGmgoVYAjL8 >}}fig
 [Música]
 falá meus queridos e minhas queridas
 amigas tudo bem com vocês eu espero que

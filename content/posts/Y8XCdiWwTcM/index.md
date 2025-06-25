@@ -5,11 +5,7 @@ title: >
     Göbekli Tepe: Natureza - do Agro à Cultura
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-I
+{{< youtube Y8XCdiWwTcM >}}I
 Just Got Just One Direction love
 it from Justin Johnson The sing and
 Ocean till the end

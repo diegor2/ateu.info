@@ -5,11 +5,7 @@ title: >
     É preciso combater o Brasil Paralelo: necessidade de "Igrejas" laicas
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube 5RodSRhgg08 >}}[Música]
 [Música]
 [Aplausos]
 [Música]

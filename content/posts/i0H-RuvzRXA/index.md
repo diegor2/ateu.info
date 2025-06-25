@@ -5,11 +5,7 @@ title: >
     Breve reflexão ética: Oração da Serenidade, Estoicismo e o Sapere Aude como projeto
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-No alto das colinas, um trovão eou. A
+{{< youtube i0H-RuvzRXA >}}No alto das colinas, um trovão eou. A
 terra tremeu quando a vaca
 chegou. Olhos de ferro, mente imortal,
 cada passo. Ela é um decreto

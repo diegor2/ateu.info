@@ -5,11 +5,7 @@ title: >
     GUSTAVO MACHADO (Orientação Marxista) - Marxismo vs Filosofia Metafísica (διάλογος #22)
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube twk6ixaDBKg >}}k
 [Música]
 [Música]
 fala meus queridos e minhas queridas

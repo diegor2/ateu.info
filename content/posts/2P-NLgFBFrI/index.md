@@ -5,11 +5,7 @@ title: >
     Ontologia e Materialismo: Contra Irracionalismo, de um lado, e Ceticismo Conservador, de outro
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-oi e eu da disney woodzeez and for every
+{{< youtube 2P-NLgFBFrI >}}oi e eu da disney woodzeez and for every
 woman cry every one creed every one of
 us is too high
 oi e aí meus amigos tudo bem com vocês

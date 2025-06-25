@@ -5,11 +5,7 @@ title: >
     Henry Bugalho (quase) tem razão de novo e isso é bom
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-Fala meus queridos e minhas queridas
+{{< youtube Vr4UBQlUQJI >}}Fala meus queridos e minhas queridas
 amigas, tudo bem com vocês? Espero que
 esteja tudo bem com
 vocês. No vídeo de agora eu vou comentar

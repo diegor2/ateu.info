@@ -5,11 +5,7 @@ title: >
     Renato 3oitão a nova arma da extrema direita: e as reações de Henry Bugalho e Daniel Cidade
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube 579y63rFXsE >}}[Música]
 [Música]
 fala meus queridos e minhas queridas
 amigas tudo bem com vocês eu espero que

@@ -5,11 +5,7 @@ title: >
     A Luta Pelo Estado Laico 5  (Contrato Social): O Leviatã e Os Deuses
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-bom o vídeo de hoje vai falar sobre
+{{< youtube VQ_vlCubyL4 >}}bom o vídeo de hoje vai falar sobre
 contrato social e aí você pode me
 perguntar mas o que é o contrato social
 pois bem Ótima pergunta meu amigo do

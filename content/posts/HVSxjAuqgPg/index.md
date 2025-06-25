@@ -5,11 +5,7 @@ title: >
     Por que estão bagunçando com a Verdade?
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-Digamos que eu sou aquilo que vocês
+{{< youtube HVSxjAuqgPg >}}Digamos que eu sou aquilo que vocês
 chamam de mundo ou então
 universo ou então Deus ou então verdade
 ou então tudo ou então

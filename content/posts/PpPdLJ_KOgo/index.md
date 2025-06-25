@@ -5,11 +5,7 @@ title: >
     Sistema de pensamento: Razão escrava das paixões (um acordo com David Hume) e Defeasible Reasoning
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube PpPdLJ_KOgo >}}k
 [Música]
 [Música]
 fala meus queridos e minhas queridas

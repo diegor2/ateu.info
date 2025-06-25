@@ -5,11 +5,7 @@ title: >
     China e Revolução Brasileira: A minha posição (Questões em debate #17)
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube DShbC5wUPGA >}}[Música]
 fala meus queridos e minhas queridas
 amigas como estão vocês eu espero que
 muitíssimo bem

@@ -5,11 +5,7 @@ title: >
     Prolegômenos determinados do determinismo Mecatrônico
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube s_aqMev2Qes >}}[Música]
 não pigo mais doido mais deixei PR lá
 viv em paz com Irracionais não vou me
 preocupar sig o meu caminho melhor é

@@ -5,11 +5,7 @@ title: >
     Porque eu desisti de política (duas funções da linguagem de se notar)
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-o dirigente
+{{< youtube ItKAt9zhFOg >}}o dirigente
 boa noite e aí galera tudo beleza
 bom eu vou fazer esse vídeo que de
 surpresa nem avisar nada para ninguém

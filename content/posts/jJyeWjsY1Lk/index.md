@@ -5,11 +5,7 @@ title: >
     Tudologia: Mudança de planos
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube jJyeWjsY1Lk >}}k
 [Música]
 [Música]
 [Música]

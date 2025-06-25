@@ -5,11 +5,7 @@ title: >
     O Linck tem ABSOLUTA razão - Os marxistas de internet querem parir um MANUAL DE COLONIZAÇÃO
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-Fala meus queridos e minhas queridas
+{{< youtube cvc2EEzLIWQ >}}Fala meus queridos e minhas queridas
 amigas, tudo bem com vocês? Eu espero
 que esteja tudo bem com vocês. No vídeo
 de hoje a gente vai ah falar

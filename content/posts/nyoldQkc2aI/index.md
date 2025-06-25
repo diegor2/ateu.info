@@ -5,11 +5,7 @@ title: >
     RISADAS: Brasil Parelo chora por causa do "ateísmo científico" da China HAHAHAHAHAHAHAHAHAHAHAHAHA
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube nyoldQkc2aI >}}k
 [Música]
 [Música]
 Nal meus queridos e minhas queridos

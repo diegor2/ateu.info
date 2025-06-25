@@ -5,11 +5,7 @@ title: >
     Religião e Política desde Constantino: Deixem "liberais", se quiserem, zoar religião. Não o façamos.
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-cara eu não sei como isso aqui tá tem
+{{< youtube gVnzV0zBmqQ >}}cara eu não sei como isso aqui tá tem
 alguém aí por acaso
 o tom line ou aparecer online só no
 futuro

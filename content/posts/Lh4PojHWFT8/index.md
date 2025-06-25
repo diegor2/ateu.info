@@ -5,11 +5,7 @@ title: >
     Quem foi - Eratóstenes: Um papo sobre historiografia e fontes
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube Lh4PojHWFT8 >}}[Música]
 mano que calou depois muito tempo vou
 fazer um vídeo sério aqui gravado com a
 edição bonitinho e hoje vamos tratar

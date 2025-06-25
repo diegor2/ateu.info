@@ -5,11 +5,7 @@ title: >
     O Pensamento Mágico da Gabriela Prioli Vs A Realidade do conflito social
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-Olá
+{{< youtube jss4smd0FgQ >}}Olá
 tudo bem com vocês
 e
 eu espero que esteja tudo bem Boa noite

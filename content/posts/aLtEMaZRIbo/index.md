@@ -5,11 +5,7 @@ title: >
     BRUNO REIKDAL - Libertação na Política e Religiosidade Cristã (διάλογος #28)
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube aLtEMaZRIbo >}}k
 [Música]
 [Música]
 [Música]

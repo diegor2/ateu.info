@@ -5,11 +5,7 @@ title: >
     Contra o terrorismo: Contra os sonsos de direita e de esquerda
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-Oi gente tem razão eu acho que temos que
+{{< youtube W0R1zcnRiD0 >}}Oi gente tem razão eu acho que temos que
 fazer um esforço para entender pessoas
 meio juvenis empolgados O problema é que
 não dá para saber quem é o emocionado e

@@ -5,11 +5,7 @@ title: >
     A Luta Pelo Estado Laico 1: Da História do Egito ao Jeová - Como nasce um Deus e a Teocracia
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-Ah se deuses não existem me explica
+{{< youtube l2uDh47xqQ4 >}}Ah se deuses não existem me explica
 porque todas as civilizações tinham
 crenças religiosas
 [Música]

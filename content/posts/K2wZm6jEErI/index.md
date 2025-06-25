@@ -5,11 +5,7 @@ title: >
     Tudologia Gameplay (take 2): Rockman X
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube K2wZm6jEErI >}}k
 [Música]
 fala meus queridos e minhas queridos
 amigas tudo bem com vocês eu espero que

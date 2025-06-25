@@ -5,11 +5,7 @@ title: >
     Colocando a bola no chão: Bate-papo com a galera Anti-Unidade Popular desavisada
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube idB9W6SLv5w >}}k
 [Música]
 [Música]
 fala meus queridos e minhas queridas

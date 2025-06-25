@@ -5,11 +5,7 @@ title: >
     Sistema de Educação, Excelente vídeo do Ian, Princípio da Caridade e Eng. Leo ataca novamente
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube uge16gFF-Ew >}}k
 [Música]
 fala meus queridos e minhas queridas
 amigas tudo bem com vocês eu espero que

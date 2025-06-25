@@ -5,11 +5,7 @@ title: >
     Ética e História: As Falsificações de Thiago Braga e a reação bizarra de Antônio Miranda
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube lzpU3CZWQR4 >}}k
 [Música]
 [Música]
 fala meus queridos e minhas queridas

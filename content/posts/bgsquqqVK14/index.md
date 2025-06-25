@@ -5,11 +5,7 @@ title: >
     Tour do Assassin's Creed Odyssey: Escravidão de Atenas e Moeda, Capitalismo brasileiro e Moeda
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-E aí
+{{< youtube bgsquqqVK14 >}}E aí
 e fala meus queridos amigos vamos antes
 mais ano deixa eu trocar meu cavalo aqui
 a personagens vou colocar o caso e aí

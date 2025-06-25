@@ -5,11 +5,7 @@ title: >
     Princípios básicos para uma Ética: Verdade e Honestidade (e a "treta" com o oportunismo)
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube HtUKmEPPnqs >}}k
 [Música]
 [Música]
 fala meus queridos e minhas queridas

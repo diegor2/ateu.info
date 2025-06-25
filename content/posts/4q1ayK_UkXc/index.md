@@ -5,11 +5,7 @@ title: >
     Tensões entre Ucrânia e Polônia: Realismo Político no caso concreto (Porque somos contra a Guerra)
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube 4q1ayK_UkXc >}}[Música]
 k
 [Música]
 fala meus queridos e minhas queridas

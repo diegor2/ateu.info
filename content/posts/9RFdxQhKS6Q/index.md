@@ -5,11 +5,7 @@ title: >
     Não Filósofo de nenhuma corrente reage a Daniel (Iluminismo Pós Moderno): e não manda nenhum aviso
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube 9RFdxQhKS6Q >}}k
 [Música]
 [Música]
 ala meus queridos e minhas queridas

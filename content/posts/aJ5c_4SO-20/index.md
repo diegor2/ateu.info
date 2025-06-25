@@ -5,11 +5,7 @@ title: >
     Cassandra, existe "Guerra Híbrida"? - Porque estou cansado
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-Oi
+{{< youtube aJ5c_4SO-20 >}}Oi
 bom dia meus amigos tudo bem com vocês
 eu espero que todos vocês estejam muito
 e se mudem

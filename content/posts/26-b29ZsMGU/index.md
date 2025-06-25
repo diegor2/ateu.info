@@ -5,11 +5,7 @@ title: >
     Dia Lektico #1 - Concepções Marxistas de Imperialismo (XIX e XX), por Luís Fernandes
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-bom dia fala meus queridos quantas
+{{< youtube 26-b29ZsMGU >}}bom dia fala meus queridos quantas
 pessoas tudo bom com vocês gastos filhos
 Leonardo Henrique drive The Voice eu não
 sei se não tá eu colei no Google Google

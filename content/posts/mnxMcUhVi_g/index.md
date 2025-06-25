@@ -5,11 +5,7 @@ title: >
     2° Passo no Teeteto: O Que é Sabedoria e Conhecimento? (143d-146a)
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-G1
+{{< youtube mnxMcUhVi_g >}}G1
 E aí
 e fala meus galera vamos ver como é que
 estão vocês senhor Rafael que já vai

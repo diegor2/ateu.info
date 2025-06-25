@@ -5,11 +5,7 @@ title: >
     Sacani lacrou para extrema direita contra a UFSC: Pós Modernismo e seus resultados
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube GLaqV4KUyEg >}}k
 [Música]
 [Música]
 [Música]

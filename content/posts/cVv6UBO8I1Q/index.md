@@ -5,11 +5,7 @@ title: >
     Sócrates e Derrida - E as causas do Olavo ser autofagocitado pelo Fernando
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube cVv6UBO8I1Q >}}[Música]
 [Música]
 ae
 coxim

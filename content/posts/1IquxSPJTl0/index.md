@@ -5,11 +5,7 @@ title: >
     Aula imperdível de TUDOLOGIA: Edição mefistofélica, contra Jordan Peterson
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube 1IquxSPJTl0 >}}k
 [Música]
 [Música]
 [Música]

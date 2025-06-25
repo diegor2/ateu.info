@@ -5,11 +5,7 @@ title: >
     Circulo da Morte: Burocracia VS o Irracionalismo Teórico do Hayek e a birra (Teórica?) de Trotsky
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-E aí
+{{< youtube T7WL2-8Vy7g >}}E aí
 Oi boa noite Guilherme Diego gastei
 estiloso E ela como vocês não espero que
 vocês estejam bem

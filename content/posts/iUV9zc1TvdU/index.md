@@ -5,11 +5,7 @@ title: >
     Maratonão: Retórica de Aristóteles
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-E aí
+{{< youtube iUV9zc1TvdU >}}E aí
 e fala seus Clube Náutico Capibaribe
 Timbu do Norte como é que vocês estão
 vocês estão bem Eu espero que sim ah mas

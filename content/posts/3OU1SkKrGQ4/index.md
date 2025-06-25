@@ -5,11 +5,7 @@ title: >
     Reação: A EXCELENTE resposta de Jones Manoel ao Eduardo Bueno, algumas considerações
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube 3OU1SkKrGQ4 >}}k
 [Música]
 [Música]
 [Aplausos]

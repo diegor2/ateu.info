@@ -5,11 +5,7 @@ title: >
     Reação: Primo Rico comenta Pacote do Ministério da Economia e faz política no Youtube
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-w
+{{< youtube 6d6831t11Nc >}}w
 [Música]
 [Música]
 [Música]

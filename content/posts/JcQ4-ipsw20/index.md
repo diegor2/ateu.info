@@ -5,11 +5,7 @@ title: >
     Passivos Agressivos Cínicos: Não TERÃO UM PINGO DE RESPEITO
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-e tira tiruru tira tira tira tira o pai
+{{< youtube JcQ4-ipsw20 >}}e tira tiruru tira tira tira tira o pai
 estamos ao vivo mas eu quero fazer esse
 registro aqui para deixar uma coisa
 Claro algum tempo a gente vem fazendo

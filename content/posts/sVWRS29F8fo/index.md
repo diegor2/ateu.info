@@ -5,11 +5,7 @@ title: >
     Meteoro Brasil e Álvaro Borba seguem fazendo trabalhos importantes para o Brasil
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-na calmaria da
+{{< youtube sVWRS29F8fo >}}na calmaria da
 Lagoa o sapo cheio de
 estilo a noite brilha na serração com
 sua luz todo

@@ -5,11 +5,7 @@ title: >
     Um Modus Operandi: Round 6 e o meme do MBL
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-E aí
+{{< youtube 1MZi1At2mWA >}}E aí
 Oi boa noite meu saco chegados como é
 que vocês estão aí eu espero que estejam
 todos bem

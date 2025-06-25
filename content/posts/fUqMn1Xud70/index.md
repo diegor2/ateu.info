@@ -5,11 +5,7 @@ title: >
     É Possível Ser Radical E Razoável: Mito do "Nós Contra Eles" e o que significa "tomar pela raiz"
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-e tira turu turu e aí minha galera tudo
+{{< youtube fUqMn1Xud70 >}}e tira turu turu e aí minha galera tudo
 bom com vocês cadê
 eu não estou online mas estou online
 assistir online a

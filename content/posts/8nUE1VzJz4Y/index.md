@@ -5,11 +5,7 @@ title: >
     Leitura Noturna: Iniciando "Marx e a História" de Gustavo Machado
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube 8nUE1VzJz4Y >}}[Música]
 k
 [Música]
 fala meus queridos e minhas

@@ -5,11 +5,7 @@ title: >
     Sextou Afinal (ft. Gláucio e Cidade) - Greve em 28 Universidades e a valorização do trabalhador
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube Mv3RxymT3D4 >}}[Música]
 k
 [Música]
 pirula vai morreu os crocodilos pirula

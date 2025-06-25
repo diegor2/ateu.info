@@ -5,11 +5,7 @@ title: >
     Retórica e o "dane-se" - Bolsonaro diz ao STF que associar ONGs às queimadas foi "discurso político"
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube t0lMiQJlmYU >}}[Música]
 boa noite tudo bem
 [Música]
 hoje saiu uma notícia que iludiam tá

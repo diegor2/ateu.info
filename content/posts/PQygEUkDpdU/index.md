@@ -5,11 +5,7 @@ title: >
     Citei Foucault: Podcasts têm que acabar, pode usar IA sim e a vassalagem como instrumento de poder
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube PQygEUkDpdU >}}[Música]
 Do irracionalismo ele se cansou, das
 brigas, intrigas ele desanimou, parou a
 treta e foi fazer robô. O até o robô

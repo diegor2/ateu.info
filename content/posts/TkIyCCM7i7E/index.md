@@ -5,11 +5,7 @@ title: >
     Meu canal implodiu - Só há uma saída
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube TkIyCCM7i7E >}}[Música]
 k
 [Música]
 fá meus queridos e minhas queridas

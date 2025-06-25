@@ -5,11 +5,7 @@ title: >
     Rushando Tucídides II - Tucídides e História Militar
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-em
+{{< youtube tqfdvAaz9sU >}}em
 romanos we let me be your Woman
 I can you a questão será que meu aqui da
 coisa do treco deixa eu ver se no

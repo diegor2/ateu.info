@@ -5,11 +5,7 @@ title: >
     Youtube e Paz de Espírito: Homenagem A Cavalli-Sforza
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-e aí
+{{< youtube _iL_R5rNA0I >}}e aí
 e aí
 e aí
 e aí

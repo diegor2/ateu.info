@@ -5,11 +5,7 @@ title: >
     Como Começar a Ler um Texto (Ex.: Teeteto)? A Exigência da Erudição
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-E aí
+{{< youtube XjLxffi4Cuk >}}E aí
 E aí
 G1
 e quanto é

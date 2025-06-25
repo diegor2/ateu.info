@@ -5,11 +5,7 @@ title: >
     Como funciona o discurso por associação negativa
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-oi oi
+{{< youtube K1EDYBsfY30 >}}oi oi
 está me ouvindo preciso saber se você
 está tudo certo beijo e
 eu vi muito bem o que aconteceu e o que

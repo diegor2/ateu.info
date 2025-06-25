@@ -5,11 +5,7 @@ title: >
     Glauber Ataíde do Filosofia Vermelha fala sobre Adorno e Horkheimer
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube nJOcnVDB2ds >}}k
 [Música]
 [Música]
 fala meus queridos e minhas queridas

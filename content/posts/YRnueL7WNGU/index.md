@@ -5,11 +5,7 @@ title: >
     DANIEL GONTIJO - Ateísmo e profissionalização da divulgação (διάλογος #27)
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube YRnueL7WNGU >}}k
 [Música]
 [Música]
 você valoriza a ciência a filosofia e

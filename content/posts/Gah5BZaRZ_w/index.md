@@ -5,11 +5,7 @@ title: >
     Sextou Afinal: Barroso determina instalação de "CPI da Pandemia"
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-o leite artigo 58 inciso terceiro né
+{{< youtube Gah5BZaRZ_w >}}o leite artigo 58 inciso terceiro né
 parágrafo terceiro perdão é lá que
 determina Quais são os critérios para
 você dar início a uma CPI comissão

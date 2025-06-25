@@ -5,11 +5,7 @@ title: >
     Página do Facebook "Fora Eduardo Paes" declara APOIO a Eduardo Paes (hahaha): Juízo de Preferência
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-G1
+{{< youtube lsroj7KHGUA >}}G1
 e vem cá
 i i i aê meus amigos Está tudo bem com
 você Você tá bem Eu espero que você

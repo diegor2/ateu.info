@@ -5,11 +5,7 @@ title: >
     Fedro e a Retórica (Parte 2 - Final): Como "Influenciadores" usam a Retórica? - Leitura Noturna
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube 9jIjHh3fI2s >}}[Música]
 fala meus queridos
 e minhas queridas amigas como estão
 vocês vocês estão na santa paz eu espero

@@ -5,11 +5,7 @@ title: >
     Oportunismo, segundo Gustavo Machado (Orientação Marxista) e a questão do PSTU
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-oi oi som testando não tô fazendo a
+{{< youtube e3SMxn7HyvQ >}}oi oi som testando não tô fazendo a
 gravação do vídeo com stream Labs dessa
 vez e aí eu preciso saber de fato se a
 conexão tá boa se o áudio tá bom tempo

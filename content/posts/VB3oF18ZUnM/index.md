@@ -5,11 +5,7 @@ title: >
     A morte de Júlio César de Oliveira: Funcionário Terceirizado e os riscos trabalhistas da produção
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-e fala meus amigos carinha Milan Boa
+{{< youtube VB3oF18ZUnM >}}e fala meus amigos carinha Milan Boa
 noite a vocês
 e o filme apenas para mim se a gente
 está online não momentinho como é que eu

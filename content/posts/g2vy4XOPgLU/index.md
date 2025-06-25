@@ -5,11 +5,7 @@ title: >
     Henry Bugalho tem total razão: Mas viajou na maionese
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-Fala meu, Fala, meus queridos e minhas
+{{< youtube g2vy4XOPgLU >}}Fala meu, Fala, meus queridos e minhas
 queridas amigas, vocês conseguem me
 ouvir? Eu preciso saber se vocês
 conseguem me ouvir. Eu tô tentando

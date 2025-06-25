@@ -5,11 +5,7 @@ title: >
     Omni Man - Uma excelente metáfora: política, afetos e violência
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-E esse seu jeito faz o que quer não meu
+{{< youtube 0enLM1XWYUI >}}E esse seu jeito faz o que quer não meu
 coração eu fico sem saber o que fazer
 quero te deixar você não quer então me
 ajude a segurar essa barra que é gostar

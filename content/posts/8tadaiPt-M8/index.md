@@ -5,11 +5,7 @@ title: >
     Utilidade de Debate? Avanço Da Extrema Direita no Mundo
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-galera Tô de saco cheio de saco cheio de
+{{< youtube 8tadaiPt-M8 >}}galera Tô de saco cheio de saco cheio de
 saco cheio de saco
 cheio Vamos ver se esse negócio entrou
 aqui

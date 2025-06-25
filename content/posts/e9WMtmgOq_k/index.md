@@ -5,11 +5,7 @@ title: >
     Porque não dou espaço pra sonso: A questão da minha defesa da China
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-G1
+{{< youtube e9WMtmgOq_k >}}G1
 e os carros peço perdão aí pela demora
 para boa tarde
 e vamos direto ao ponto do vídeo que

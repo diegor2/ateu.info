@@ -5,11 +5,7 @@ title: >
     O governo e a filosofia - Uma reflexão e uma exposição pessoal
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-será que vai entrar alguém aqui é sempre
+{{< youtube OR7xAAm5QIA >}}será que vai entrar alguém aqui é sempre
 uma dúvida mas com essa internet zoada
 que eu to
 ficar testando tio investir está

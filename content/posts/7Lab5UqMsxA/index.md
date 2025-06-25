@@ -5,11 +5,7 @@ title: >
     Mentira, Ineficiência, Coloridos de Hong Kong e Democracia
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-E aí
+{{< youtube 7Lab5UqMsxA >}}E aí
 e bora lá Ricardo gastei flores boa
 noite como é que você Espero que bem
 E aí

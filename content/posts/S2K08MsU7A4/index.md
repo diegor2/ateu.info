@@ -5,11 +5,7 @@ title: >
     Contra os "Anti-política" e A FAVOR DO REALISMO CRUEL da política
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-a fazer barulho xarope oi e aí beleza
+{{< youtube S2K08MsU7A4 >}}a fazer barulho xarope oi e aí beleza
 bom estou aqui na casa da minha mãe
 então eu vou preparar esse vídeo
 rapidamente para dizer uma coisa eu acho

@@ -5,11 +5,7 @@ title: >
     Interdição ideológica, Ilustrando meu ponto: Samuel Pêssoa debate c/ Ciro sobre política industrial
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< video src="video" >}}k
 [Música]
 [Música]
 fala meus queridos e minhas queridas

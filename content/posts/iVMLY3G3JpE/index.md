@@ -5,11 +5,7 @@ title: >
     Fusionismo está em alta? Amigo Liberal; Libertário; Minarquista ou Ancap Você apoia esse movimento?
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-Fala galera tudo bom talvez esse vídeo
+{{< youtube iVMLY3G3JpE >}}Fala galera tudo bom talvez esse vídeo
 aqui seja um dos mais importantes Desse
 Canal por causa da situação política que
 a gente tá vivendo aí uma rejeição do

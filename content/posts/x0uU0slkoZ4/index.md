@@ -5,11 +5,7 @@ title: >
     O Preâmbulo do Protágoras de Platão - Xandão "Que Faz Bem"?
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-e depois pratileira em cima da lambada
+{{< youtube x0uU0slkoZ4 >}}e depois pratileira em cima da lambada
 Peppa Pig em seus clientes ontem 30 que
 eu sei que faz aqui na diagonal Dragon
 Box One Tree Hill

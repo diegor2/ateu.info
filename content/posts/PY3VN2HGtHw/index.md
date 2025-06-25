@@ -5,11 +5,7 @@ title: >
     Jones Manoel debate com deputado do estado do Aécio, que fica só o pó e dá carreira pro banheiro
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube PY3VN2HGtHw >}}k
 [Música]
 [Música]
 [Risadas]

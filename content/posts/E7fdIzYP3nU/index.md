@@ -5,11 +5,7 @@ title: >
     A Verdadeira Guerra dos Tronos - Os Hebreus e Os Fenícios: No meio dos Grandes Rios  [Part 2]
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-muitos dos conceitos que nós utilizamos
+{{< youtube E7fdIzYP3nU >}}muitos dos conceitos que nós utilizamos
 ultimamente como política plebiscito
 República tirania ditadura democracia
 vem do nosso passado greco-romano e às

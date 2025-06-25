@@ -5,11 +5,7 @@ title: >
     Leitura noturna: Charles H. Kahn e os sentidos do Ser
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-E aí
+{{< youtube jC626VE6YzY >}}E aí
 E aí
 E aí
 E aí

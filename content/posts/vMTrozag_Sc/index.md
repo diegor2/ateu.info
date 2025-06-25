@@ -5,11 +5,7 @@ title: >
     Discursos SÃO AÇÕES - Não entender isso é um erro político fundamental
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube vMTrozag_Sc >}}[Música]
 boa tarde tudo bem vocês tranquilidade
 na posse já eu espero que esteja tudo
 bem bom

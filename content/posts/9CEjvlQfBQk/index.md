@@ -5,11 +5,7 @@ title: >
     G5- Da Precisão Histórica de Assassin's Creed ao Conhecimento da Língua (Acrópole e Pireu de Atenas)
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-g1
+{{< youtube 9CEjvlQfBQk >}}g1
 e aí
 o teste teste teste não vou largar eu
 não moro mais em

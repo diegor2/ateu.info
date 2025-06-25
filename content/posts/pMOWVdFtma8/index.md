@@ -5,11 +5,7 @@ title: >
     Eu REAJO: Henry Bugalho de Braços dados com Gaiofato e Daniel Cidade
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube pMOWVdFtma8 >}}k
 [Música]
 [Música]
 fala meus queridos e minhas queridas

@@ -5,11 +5,7 @@ title: >
     É Comunista e não é Irracionalista? O Anti-iluminismo e Anti-Lêninismo dos marxistas do Youtube
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube 4w_hmqcXO8w >}}[Música]
 fala meus queridos amigos e minhas
 queridas amigas uma ótima noite para
 vocês eu espero que estejam todos bem

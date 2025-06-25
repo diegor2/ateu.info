@@ -5,11 +5,7 @@ title: >
     Prolegomenos para a Ação Racional: Matéria, Vida e Sociedade
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-oi oi olha a explosão quando ela bate
+{{< youtube KKQnHX8bnBs >}}oi oi olha a explosão quando ela bate
 pronto istoeonline boa noite minha
 galera como é que vão vocês tudo bom com
 vocês eu espero que esteja tudo ótimo

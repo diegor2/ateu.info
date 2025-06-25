@@ -5,11 +5,7 @@ title: >
     Um elogio e uma crítica ao Humberto Matos: A questão do Gustavo Machado
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-h
+{{< youtube MTaDtapIWL8 >}}h
 [Música]
 [Música]
 fala meus queridos e minhas queridas

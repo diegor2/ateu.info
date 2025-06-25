@@ -5,11 +5,7 @@ title: >
     Tudologia: MOMENTO CITEI FOUCAULT
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube ECdjhATCUuU >}}[Música]
 [Música]
 trocou a música trocou a música do nada
 da contagem

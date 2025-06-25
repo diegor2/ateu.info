@@ -5,11 +5,7 @@ title: >
     Conflito no Levante - Algumas considerações iniciais rápidas sobre influenciadores na internet
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube ON2NCjOz2_c >}}[Música]
 k
 [Música]
 Boa noite eh no vídeo de hoje a gente

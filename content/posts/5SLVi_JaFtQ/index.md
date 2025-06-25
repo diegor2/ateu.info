@@ -5,11 +5,7 @@ title: >
     Homero e Hesíodo a DC e Marvel: O uso político do Mito, da Religião e da Animação (Platão)
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-vamos tendo em conta a história do
+{{< youtube 5SLVi_JaFtQ >}}vamos tendo em conta a história do
 sporting eo resto em dinheiro
 qual a média de chuva em goiás no
 domingo levando à tarde um avião com 11

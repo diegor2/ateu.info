@@ -5,11 +5,7 @@ title: >
     Repost: EU e a questão MENTIRA! - Do banheiro unissex ao Trótski (Questões em debate #15)
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-fala meus amigos e minhas amigas tudo
+{{< youtube GEK7bXrT4Js >}}fala meus amigos e minhas amigas tudo
 bom com vocês eu espero que esteja tudo
 bem com vocês no vídeo de hoje
 a gente vai conversar sobre a questão da

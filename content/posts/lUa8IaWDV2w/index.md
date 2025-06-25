@@ -5,11 +5,7 @@ title: >
     Elogio: O excelente vídeo de Gustavo Machado, do Orientação Marxista, sobre Marçal
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube lUa8IaWDV2w >}}k
 [Música]
 [Música]
 fala meus amigos e minhas queridas

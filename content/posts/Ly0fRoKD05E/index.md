@@ -5,11 +5,7 @@ title: >
     Ateu Informa: Campanha "Morre Lula" e "Política Anjos Vs Demônios"
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube Ly0fRoKD05E >}}[Música]
 [Música]
 C
 [Música]

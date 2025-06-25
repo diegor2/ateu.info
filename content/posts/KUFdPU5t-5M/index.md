@@ -5,11 +5,7 @@ title: >
     Luide, Henry Bugalho e Gustavo Gaiofato: um DESABAFO educadinho sobre organização social
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube KUFdPU5t-5M >}}[Música]
 fala meus queridos tudo bem com vocês
 Tudo bem com a senhora tudo bem com os
 senhores tudo bem com as senhoritas tudo

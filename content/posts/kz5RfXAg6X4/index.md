@@ -5,11 +5,7 @@ title: >
     Uma Bíblia dos Gregos? Biblioteca de Pseudo-Apolodoro (A tradução, um trabalho acadêmico)
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-A Liga da parada vamos falar que eu sumi
+{{< youtube kz5RfXAg6X4 >}}A Liga da parada vamos falar que eu sumi
 mas assumir na levado e vão da vida que
 eu vivi pois imaginava como filhos
 Miranda Horizonte que eu esculpi diá uma

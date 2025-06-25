@@ -5,11 +5,7 @@ title: >
     Razão e decisão: FALA SOBRE O ZUCKERBERG e os "Tribunais Secretos" UuuUui
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube kDjote0hmBo >}}k
 [Música]
 [Música]
 boa noite tudo bem com vocês eu espero

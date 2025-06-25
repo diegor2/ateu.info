@@ -5,11 +5,7 @@ title: >
     Gustavo Machado voltou a publicar e isso me deixa muito feliz
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube eTx8w__vqCM >}}k
 [Música]
 [Música]
 fala meus queridos e minhas queridas

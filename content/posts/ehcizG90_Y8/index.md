@@ -5,11 +5,7 @@ title: >
     Fechamento de Semestre - Bate-Papo sobre a profissão de professor
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube ehcizG90_Y8 >}}k
 [Música]
 [Música]
 fala meus queridos e minhas queridas

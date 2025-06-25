@@ -5,11 +5,7 @@ title: >
     Bate papo Sobre Revolução Francesa e Declaração de Direitos
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-e
+{{< youtube 2HEfhSFfLNk >}}e
 aqui
 jêsue esse
 na em Paris

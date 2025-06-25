@@ -5,11 +5,7 @@ title: >
     Metafísica Antiga e a Crítica De Nietzsche ao Niilismo
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-e com certeza vou morrer de cansaço
+{{< youtube XAbxYCJn1o8 >}}e com certeza vou morrer de cansaço
 oi amor lá vamos ver se esse negócio
 entra
 a frase sugestiva

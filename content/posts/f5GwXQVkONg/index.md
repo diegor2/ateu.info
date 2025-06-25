@@ -5,11 +5,7 @@ title: >
     SHUÁ - VINICIUS WALTER (UNIDAD) - A Arte e o Trabalho em tempos de Inteligência Artificial
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-เฮ
+{{< youtube f5GwXQVkONg >}}เฮ
 [Música]
 Fala meus queridos e minhas queridas
 amigas tudo bem com vocês eu espero que

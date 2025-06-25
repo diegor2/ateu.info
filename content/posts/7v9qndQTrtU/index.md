@@ -5,11 +5,7 @@ title: >
     FERNANDO MOURA É PRAGMÁTICO POLITICAMENTE - Isentões não entendem ou estão jogando?
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-e aí beleza com vocês eu espero que sim
+{{< youtube 7v9qndQTrtU >}}e aí beleza com vocês eu espero que sim
 bom esse vídeo que é uma continuação do
 vídeo passado que eu fiz é o terceiro
 vídeo vou fazer agora sobre a

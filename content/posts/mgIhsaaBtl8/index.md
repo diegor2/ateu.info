@@ -5,11 +5,7 @@ title: >
     AI Nova Temporada - Explicações do sumiço, Novidades, Eleições 2014 e Apoio ao Lúcio Big
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube mgIhsaaBtl8 >}}[Música]
 [Aplausos]
 É eu sei eu também tava com saudade de
 vocês por que eu sumi por tá tô com

@@ -5,11 +5,7 @@ title: >
     Especial de Natal Radical(is): Capitalismo Dirigido e Conselho Popular
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-E aí como é que estão vocês estão bem
+{{< youtube yqIDoWLxu4g >}}E aí como é que estão vocês estão bem
 Vocês estão curtindo Natal vocês tão de
 boa cês tão suave na nave como é que tá
 Quer dizer vocês ninguém né Tá todo

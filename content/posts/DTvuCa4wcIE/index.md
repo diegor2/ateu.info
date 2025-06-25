@@ -5,11 +5,7 @@ title: >
     Pedro Zambarda está à esquerda de Humberto Matos: O "bate-boca" com a extrema direita
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube DTvuCa4wcIE >}}[Música]
 [Música]
 Fala meus queridos e minhas queridas
 amigas, tudo bem com vocês? Eu espero

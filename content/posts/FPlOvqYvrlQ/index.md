@@ -5,11 +5,7 @@ title: >
     Crítica às futurologias marxistas: ciência e política enquanto tomada de posição
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-E aí
+{{< youtube FPlOvqYvrlQ >}}E aí
 E aí
 Oi boa tarde Tudo bem com você
 o time assistir neste canal Eu espero

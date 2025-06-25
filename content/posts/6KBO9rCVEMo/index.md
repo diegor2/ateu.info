@@ -5,11 +5,7 @@ title: >
     Tudologia: Não existe esse negócio de "o segredo que seu professor não te conta"
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-C
+{{< youtube 6KBO9rCVEMo >}}C
 [Música]
 [Música]
 fala meus queridos e minhas queridos

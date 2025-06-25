@@ -5,11 +5,7 @@ title: >
     Elogios ao grande Ferrez! - Uma conversa sobre Comunicação e Educação
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube mx6MzPb1ewI >}}[Música]
 [Música]
 fala meus queridos e minhas queridas
 amigas vocês me escutam vocês me ouvem

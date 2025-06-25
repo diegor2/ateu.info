@@ -5,11 +5,7 @@ title: >
     Live da guerra cultural (kulturkampf), do "Democracia em vertigem" e das tretinhas de Youtóba
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube ao0xm4xoQ7c >}}[Música]
 opa e aí bom soar como vocês tudo bem eu
 espero que sim
 hoje hoje vamos tratar de um problema

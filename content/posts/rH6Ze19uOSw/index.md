@@ -5,11 +5,7 @@ title: >
     Triângulo da Morte - Um Socialista, um Libertário e um Libertário do Estado e olha o que aconteceu!
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-e não recording
+{{< youtube rH6Ze19uOSw >}}e não recording
 e fala meus queridíssimos como é que
 vocês estão Espero que bem novamente
 fomos chamados para uma conversa com

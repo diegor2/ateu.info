@@ -5,11 +5,7 @@ title: >
     A morte de Sócrates e Bolsonaro: Democracia e Socialismo
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-é [ __ ] cara já tô ao vivo aquele negócio
+{{< youtube gccs4kOKBrs >}}é [ __ ] cara já tô ao vivo aquele negócio
 rápido espera aí ó
 e aí é isso
 a chover e eu abrir aqui as paradas

@@ -5,11 +5,7 @@ title: >
     Aprendendo Grego: Para quê? Apresentação e contrato Pedagógico
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-E aí
+{{< youtube mdfLce3z5I0 >}}E aí
 [Música]
 E aí
 [Música]

@@ -5,11 +5,7 @@ title: >
     Henry Bugalho, o Sócrates de Platão e um Papel Ideológico do Ceticismo
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube 4DBsOMrFgB0 >}}[Música]
 [Aplausos]
 k
 [Música]

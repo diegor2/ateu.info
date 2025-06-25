@@ -5,11 +5,7 @@ title: >
     3ª Navegação - Os Gurus, Política e Sofistas de ontem e hoje
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-e vamos aqui vamos aqui onde aqui fazer
+{{< youtube gLZnKUlajPk >}}e vamos aqui vamos aqui onde aqui fazer
 um naquela magnésio pa
 é plaquete beleza e aí galera então eu
 vou gravar aqui dessa vez a gente vai

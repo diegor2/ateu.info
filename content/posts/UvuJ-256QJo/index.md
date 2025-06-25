@@ -5,11 +5,7 @@ title: >
     Prolegômenos para Alegoria da Caverna - DIALÉTICA, Símile do Sol e Linha Segmentada - Livro VI
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-Oi piri piri pirin alguém ligou para mim
+{{< youtube UvuJ-256QJo >}}Oi piri piri pirin alguém ligou para mim
 piririm piririm piririm alguém ligou
 para mim quem é Sou eu bola de fogo o
 calor tá de matar vai ser na Praia da

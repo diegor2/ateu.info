@@ -5,11 +5,7 @@ title: >
     Democracia Cubana: Referendo do Novo Código de Famílias (Questões em debate #10)
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube JVyWFyBNwkk >}}[Música]
 Boa tarde meus queridos e minhas
 queridas amigas que que vocês acharam do
 ângulo dessa câmera o eu derrubei a

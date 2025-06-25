@@ -5,11 +5,7 @@ title: >
     Leitura: Anton Amo - O Iluminista avant la lettre de Gana
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube W9FnYG1eqEg >}}[Música]
 [Música]
 fala meus queridos e minhas queridas
 amigas tudo bem com vocês eu espero que

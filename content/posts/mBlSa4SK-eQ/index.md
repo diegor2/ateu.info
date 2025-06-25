@@ -5,11 +5,7 @@ title: >
     Não tem "treta", tem produção de conteúdo e a gente tá fazendo dinheiro com vocês
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-o galho fraco o Zé malandro do Pedaço pã
+{{< youtube mBlSa4SK-eQ >}}o galho fraco o Zé malandro do Pedaço pã
 modernos zer tudo só embaraço cheio de
 lero lero sempre na increnca contra
 iluminismo mente toda tensa é aquilo né

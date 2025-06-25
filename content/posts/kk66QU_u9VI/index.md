@@ -5,11 +5,7 @@ title: >
     A estratégia retórica de Kim : complemento à reação do Gustavo
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-G1
+{{< youtube kk66QU_u9VI >}}G1
 E aí longas fukin some go Live de Hubble
 Family religioso Street Black Sheep and
 News watch your name is Young and

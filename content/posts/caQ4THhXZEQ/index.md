@@ -5,11 +5,7 @@ title: >
     Caça às bruxas no séc. XXI - "Direita e Esquerda" e a estupidez política do brasileiro médio
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-hoje eu vou tentar fazer você entender
+{{< youtube caQ4THhXZEQ >}}hoje eu vou tentar fazer você entender
 que Ciências Sociais não são brincadeira
 de criança não
 [Música]

@@ -5,11 +5,7 @@ title: >
     Ateu Informa: Detonando a Aposta de Pascal Com o Deus Ateu
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube 70I5u0U0y80 >}}[Música]
 [Música]
 aposta de
 Pascal arug para quem não sabe aposta de

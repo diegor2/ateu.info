@@ -5,11 +5,7 @@ title: >
     Não ignore o SUJEITO. Devo usar ficção para "entender" política? Matrix e 1984 podem ser patéticos
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-E aí
+{{< youtube _QRhaQshmw8 >}}E aí
 a vala seus Revolução dos Bichos como é
 que você está você está bem Eu espero
 que você esteja bem esse vídeo de hoje é

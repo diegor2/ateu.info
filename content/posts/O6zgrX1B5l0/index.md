@@ -5,11 +5,7 @@ title: >
     Símbolos de um conservadorismo fracassado: Surto do Olavo, estátua de Traficante de Escravos do XVII
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-o uirapuru tira juro uau ai galera tudo
+{{< youtube O6zgrX1B5l0 >}}o uirapuru tira juro uau ai galera tudo
 bom com vocês boa tarde cidadão de bem
 não cara esse nick não pelo amor de deus
 gastrite nós augusto joão boa tarde meus

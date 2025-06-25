@@ -5,11 +5,7 @@ title: >
     Live: Democracia x Ciência x Educação (uma conversa sobre Autoridade e Verdade)
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-e aí
+{{< youtube N6GuAT-JgrU >}}e aí
 e aí
 e aí
 e aí

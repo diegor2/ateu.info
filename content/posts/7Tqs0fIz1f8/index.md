@@ -5,11 +5,7 @@ title: >
     A Justiça e a "Bela Cidade" em Palavras - Livro I-II da República de Platão (Parte 3)
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-e como quem Partiu ou morreu vai dar
+{{< youtube 7Tqs0fIz1f8 >}}e como quem Partiu ou morreu vai dar
 égua
 e o fundo então cresceu Alô meus
 queridos eu tô online vocês estão a mil

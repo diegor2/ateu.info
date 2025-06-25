@@ -5,11 +5,7 @@ title: >
     Time To Gregolis e Protagolis: Entreguei o 2° TCC. E Agora?
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-Oi Tainara não dá nada não menina tam
+{{< youtube PG7ZUgMwzHY >}}Oi Tainara não dá nada não menina tam
 tam Tanana
 Tanana
 bumbum

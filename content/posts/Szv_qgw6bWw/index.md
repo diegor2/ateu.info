@@ -5,11 +5,7 @@ title: >
     Ucrânia, Tomando Posição: Minha ótica Internacional Realista, defesa do interesse dos trabalhadores
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-E aí
+{{< youtube Szv_qgw6bWw >}}E aí
 Oi boa noite tudo bem Eu preciso de
 chegar se wi-fi tá direitinho Se o vídeo
 tá rodando bem se vocês me escutam bem e

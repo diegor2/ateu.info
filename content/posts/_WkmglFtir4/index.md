@@ -5,11 +5,7 @@ title: >
     Não temos que ser nem a favor nem contra "senso comum", temos que PRODUZIR senso comum com VERDADE
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-Vamos já
+{{< youtube _WkmglFtir4 >}}Vamos já
 rachado. Fões da
 rachadinha. Somos os bravos com ideias
 no

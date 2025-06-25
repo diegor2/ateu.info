@@ -5,11 +5,7 @@ title: >
     Rushando Tucídides IX: 3° Ano - Atenas bloqueia Corinto
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-o desejo de género de nylon
+{{< youtube bZvadpYViM8 >}}o desejo de género de nylon
 E aí
 E
 [Música]

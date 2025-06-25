@@ -5,11 +5,7 @@ title: >
     Live de novo Cenário - questões pessoais, História e dificuldades conceituais
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-frequentar um link logo fica falando
+{{< youtube BfjntCq4MWs >}}frequentar um link logo fica falando
 sozinho
 eu vi que o chan
 primeiro vim alguém nesse lugar aqui há

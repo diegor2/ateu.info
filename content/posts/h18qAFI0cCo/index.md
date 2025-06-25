@@ -5,11 +5,7 @@ title: >
     A Arte é mais importante que a ciência!? - A pergunta sobre para onde vamos
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube h18qAFI0cCo >}}k
 [Música]
 [Música]
 fala meus queridos e minhas queridas

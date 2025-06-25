@@ -5,11 +5,7 @@ title: >
     USP e sua "cópia" do Canal Ateuinforma II e Agradecimentos
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-E aí
+{{< youtube C2zHO3Cq9lQ >}}E aí
 e colocar implantou ricarcatto no turnê
 tabuto e HP solene barriga e ter ai
 [Música]

@@ -5,11 +5,7 @@ title: >
     ESPECIAL: GRAVAMOS 1.000 VÍDEOS PARA O YOUTUBE, Ateísmo na UnB e mundo de Donald Tariffs
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-vem dragão chinês passa o carro no
+{{< youtube pEeWnlCFMtw >}}vem dragão chinês passa o carro no
 fortalece com o brick rebolando ao som
 do funk joga C no tempero sobe a faixa
 do Mandela toca o soos nerine junto ao

@@ -5,11 +5,7 @@ title: >
     Especial de Proclamação da República: TODO MUNDO É ATEU - Epifania Experiência (escala 6x1 e Henry)
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube SOrW4_um17I >}}k
 [Música]
 [Música]
 papai do

@@ -5,11 +5,7 @@ title: >
     Inconsciente ou não, é fato: na esquerda há uma máquina de destruição de reputação anti-petista
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube _t2PTHBK5BQ >}}k
 [Música]
 [Música]
 [Música]

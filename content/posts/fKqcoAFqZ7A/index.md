@@ -5,11 +5,7 @@ title: >
     Tudologia: Em defesa do determinismo
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube fKqcoAFqZ7A >}}k
 [Música]
 [Música]
 [Música]

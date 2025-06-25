@@ -5,11 +5,7 @@ title: >
     Entrei na UP no DF - E agora? Agora organizem-se também
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube n3cNn0LHO7I >}}[Música]
 quero te encontrar quero te amar você
 para mim é tudo
 minha terra meu céu meu fala minhas

@@ -5,11 +5,7 @@ title: >
     Sergio Sacani precisa de uma resposta SÉRIA e não de uma resposta pós-moderna
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube nm_vNhzVHes >}}k
 [Música]
 [Música]
 fala meus queridos e minhas queridas

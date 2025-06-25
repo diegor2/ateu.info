@@ -5,11 +5,7 @@ title: >
     Discurso do Ernerto Araújo - O "argumento" contra pedantismo; a "ideologia" e o pragmatismo
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-por isso admiramos a nova itália por
+{{< youtube Xavz0KOEkZ0 >}}por isso admiramos a nova itália por
 isso admiramos hungria polônia - aqueles
 que afirmam que não aqueles que se negam
 o problema do mundo não é a xenofobia

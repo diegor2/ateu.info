@@ -5,11 +5,7 @@ title: >
     Tudologia: A importância do RELATIVISMO para minha formação e as acusações de "positivismo"
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-oh
+{{< youtube Td6gvQYhBd0 >}}oh
 [Música]
 é tanta sede no mercado tão boraz
 vendendo queb o povo que vergonha que

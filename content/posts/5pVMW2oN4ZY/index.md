@@ -5,11 +5,7 @@ title: >
     Tente NÃO RIR: 2ª Parte do choro do Leo, algumas considerações e MINHA INTRANSIGÊNCIA
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-fala meus queridos tudo bem com vocês eu
+{{< youtube 5pVMW2oN4ZY >}}fala meus queridos tudo bem com vocês eu
 espero que esteja tudo bem com vocês eu
 preciso colocar aqu o negócio para
 monetizar porque eu sofro de burrice

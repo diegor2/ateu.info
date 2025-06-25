@@ -5,11 +5,7 @@ title: >
     Xi marrão e o Meteoro Brasil: Comentário sobre realismo e política
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-E aí
+{{< youtube 05iD0qa4sSE >}}E aí
 o tempo inteiro no tempo MG tem Pirim
 Pirim pim pim pim pim pim pim pim aí
 meus amigos você está bem você está na

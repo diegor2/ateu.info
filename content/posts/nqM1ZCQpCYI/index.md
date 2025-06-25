@@ -5,11 +5,7 @@ title: >
     Questões Fundamentais Parte 2 - Da "Questão ontológica" do ENEM de 2016 à Estrutura da Norma Humana
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-oh alô
+{{< youtube nqM1ZCQpCYI >}}oh alô
 e é isso aí a gente não vai desistir não
 no primeiro vídeo de hoje a gente foi
 até a questão que queria falar dos

@@ -5,11 +5,7 @@ title: >
     Vídeo Rápido sobre projeto ateu: Bugigangas, Cursos, Encontros etc
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube BKzKxkQ5Q68 >}}k
 [Música]
 [Música]
 afon

@@ -5,11 +5,7 @@ title: >
     Resposta a Odinilson Bom - Fluxismo E Objetividade (Teste)
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-oi e aí galera vocês estão me ouvindo
+{{< youtube z8D_d4PAh_g >}}oi e aí galera vocês estão me ouvindo
 vocês estão vivendo tem alguém aí como é
 que tá essa situação tô fazendo um teste
 quero ver se esse negócio vai funcionar

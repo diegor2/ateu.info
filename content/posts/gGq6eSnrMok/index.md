@@ -5,11 +5,7 @@ title: >
     A Filosofia do 2° ep. de Black Mirror - Verdade enquanto "Autenticidade" como ingenuidade
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-Oi esse vídeo que você vai assistir
+{{< youtube gGq6eSnrMok >}}Oi esse vídeo que você vai assistir
 agora na verdade faz parte de um teste
 uma espécie de projeto piloto de uma
 pretendida série de vídeos que relaciona

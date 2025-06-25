@@ -5,11 +5,7 @@ title: >
     Se não for pela verdade, nem vale lutar: Webcomunistas contra a deputada Erika Hilton
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-NG
+{{< youtube nrJ-0umCSS8 >}}NG
 [Música]
 [Música]
 fala meus queridos e minhas queridas

@@ -5,11 +5,7 @@ title: >
     Reação à maravilhosa participação do Gustavo Machado contra o cara do "ELEEES"
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube cvdm4Efr0xY >}}[Música]
 no mundo de
 confusão onde a razão se perdeu
 combatemos a ilusão a verdade prevaleceu

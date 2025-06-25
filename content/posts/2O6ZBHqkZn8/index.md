@@ -5,11 +5,7 @@ title: >
     Tudologia especial: Início de aulas 2° Semestre de 2024, felicidade e os absurdos de Thiago Braga
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube 2O6ZBHqkZn8 >}}k
 [Música]
 [Música]
 fala meus queridos e minhas queridas

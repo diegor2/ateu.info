@@ -5,11 +5,7 @@ title: >
     Um comentário ao Henry - Crítica ao Ceticismo Como Conservadorismo
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-E aí
+{{< youtube orrXfoKrqyY >}}E aí
 tô testando
 123
 eu preciso saber se o áudio tá tudo

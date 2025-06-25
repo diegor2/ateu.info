@@ -5,11 +5,7 @@ title: >
     A Insistente Falsa Acusação de que Ateus Não Criticam o Islã (Entendendo os motivos dessa inverdade)
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-Fala galera tudo bom com vocês Bom eu
+{{< youtube Mc_FD5lfVZU >}}Fala galera tudo bom com vocês Bom eu
 acho muito provável já que você tá vendo
 esse vídeo agora que você sendo
 religioso ou ateu já ouviu esse tipo de

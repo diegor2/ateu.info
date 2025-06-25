@@ -5,11 +5,7 @@ title: >
     Wilker Leão sambando, PhilosophyTube sobre Nietzsche e Gustavo Machado fazendo discussão importante
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-sobre a higiene a minha resposta técnica
+{{< youtube r-cr1a70AoY >}}sobre a higiene a minha resposta técnica
 e antropológica para você é que higiene
 é relativo você achar que
 necessariamente lavar as mãos é melhor é

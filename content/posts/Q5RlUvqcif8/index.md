@@ -5,11 +5,7 @@ title: >
     Ateu Informa: Detonando "Ateu é Imoral"
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-foi você que deu beijo na morte daquele
+{{< youtube Q5RlUvqcif8 >}}foi você que deu beijo na morte daquele
 cara não foi se você ateu que que te
 impede de me dar um tiro na cara hein
 rato

@@ -5,11 +5,7 @@ title: >
     [D. Con. 02] Deus e CF - Preâmbulo é norma?: Entre o texto e a normatividade constitucional
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube mjLjhWml01o >}}[Música]
 o cágado do cágado
 nós representantes do povo brasileiro
 reunidos em assembléia nacional

@@ -5,11 +5,7 @@ title: >
     Como vencer o Pós-modernismo: Introdução ao "Do Socialismo Utópico ao Socialismo Científico"
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube NTz4kYHqh1Q >}}[Música]
 [Música]
 [Música]
 há uma dificuldade de a gente fazer uma

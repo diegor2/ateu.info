@@ -5,11 +5,7 @@ title: >
     O Mito de Atlântida e o Verdadeiro Ser - Prólogo do Timeu de Platão
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-manam
+{{< youtube WVkGyiM0VsM >}}manam
 Cage make
 [Música]
 a meus brother minhas brodas como é que

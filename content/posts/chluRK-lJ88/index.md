@@ -5,11 +5,7 @@ title: >
     Tudologia do Vou no show do Santinelli domingo: + China + Humberto Matos + Verdade Importa, menos..
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube chluRK-lJ88 >}}k
 [Música]
 [Música]
 fala meus amigos e minhas queridas

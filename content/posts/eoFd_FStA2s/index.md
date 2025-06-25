@@ -5,11 +5,7 @@ title: >
     Saiba porque SP perder controle acionário assim da SABESP é INCONSTITUCIONAL
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube eoFd_FStA2s >}}[Música]
 fala meus queridos e minhas queridas
 amigas tudo bem com você Tudo bem com
 vocês você tá bem Eu espero que esteja

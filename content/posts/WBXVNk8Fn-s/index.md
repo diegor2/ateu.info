@@ -5,11 +5,7 @@ title: >
     A Ingenuidade: Nas Análises Históricas e Nos Debates
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-NG
+{{< youtube WBXVNk8Fn-s >}}NG
 [Música]
 [Música]
 fala meus queridos e minhas queridas

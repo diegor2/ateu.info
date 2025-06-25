@@ -5,11 +5,7 @@ title: >
     Bruno Pierozi e Bruno Reikdal - Em defesa de um círculo racional de filosofia no Youtube
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube PAzbtDBsjc4 >}}k
 [Música]
 [Música]
 fala meus queridos e minhas queridas

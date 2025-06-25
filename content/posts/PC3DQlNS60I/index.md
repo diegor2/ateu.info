@@ -5,11 +5,7 @@ title: >
     Tente não rir: Machado x Flávio - Olavismo, fase superior do jardim de infância do anarcocapitalismo
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube PC3DQlNS60I >}}[Música]
 Vem, Gustavo Machado é fer
 rival, desconstrói argumento de
 liberal. Com livros na mão, ele vai

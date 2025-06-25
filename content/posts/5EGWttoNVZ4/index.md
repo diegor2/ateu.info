@@ -5,11 +5,7 @@ title: >
     [D. Con. 01] Anistia: Entre a Constituição atual e lei passada (Norma X Texto)
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-o idioma você acha que tanto resolve
+{{< youtube 5EGWttoNVZ4 >}}o idioma você acha que tanto resolve
 alguma coisa
 a verdadeira batalha começa quando você
 acha que não dá mais

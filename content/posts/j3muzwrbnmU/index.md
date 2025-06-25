@@ -5,11 +5,7 @@ title: >
     Crítica à Melancolia De Hesíodo: Trabalho - Condição Humana
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-o que é que dá para fazer sim deixa eu
+{{< youtube j3muzwrbnmU >}}o que é que dá para fazer sim deixa eu
 ver deixa eu ver deixa eu ver talvez há
 5 horas vão eu vou ficar fora da espera
 aí pronto acho que sim né

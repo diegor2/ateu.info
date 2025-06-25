@@ -5,11 +5,7 @@ title: >
     Resposta educada ao Henry Bugalho: Quando pensa exatamente o mesmo que eu e ainda assim diz que não
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube A-qgRZQPFBI >}}k
 [Música]
 [Música]
 fala meus queridos amigos tudo bem com

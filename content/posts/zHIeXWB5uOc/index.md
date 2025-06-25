@@ -5,11 +5,7 @@ title: >
     Filosofia: como eu vejo a cultura atual - escapismo, um afeto que move a política hoje.
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube zHIeXWB5uOc >}}k
 [Música]
 [Música]
 queridos o vídeo de agora ele é movido

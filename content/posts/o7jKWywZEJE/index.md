@@ -5,11 +5,7 @@ title: >
     BRUNO PIEROZI - A Razão e a Verdade em Espinoza (διάλογος #26)
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube o7jKWywZEJE >}}k
 [Música]
 [Música]
 fala meus queridos e minhas queridas

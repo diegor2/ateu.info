@@ -5,11 +5,7 @@ title: >
     Humildade epistêmica, humanidades e simbolismo pró conhecimento
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-E aí de boa eu espero que sim deixa eu
+{{< youtube g0m39XY6wIU >}}E aí de boa eu espero que sim deixa eu
 dizer uma coisa para vocês eu entrei em
 contato com o Igor da dople Store e aí
 ele me

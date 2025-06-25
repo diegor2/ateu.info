@@ -5,11 +5,7 @@ title: >
     Consciência: Atentado na Esplanada, Escala 6x1 e microreact ao Epifania Experiência
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube W_-G5DtYdUU >}}k
 [Música]
 [Música]
 fala meus queridos e minhas queridas

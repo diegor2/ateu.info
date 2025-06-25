@@ -5,11 +5,7 @@ title: >
     Tudologia da comédia do mundo completamente maluco
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube S3B6Yp7h6Ak >}}[Música]
 Barões da
 rachadinha o Doo Barões da
 rachadinha somos os bravos com ideias no

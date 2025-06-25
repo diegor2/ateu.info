@@ -5,11 +5,7 @@ title: >
     Live de Reestruturação do Canal e Introdução Geográfica à História de Atenas
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-é só mais um Silva brilha ele era
+{{< youtube 5gdVbQAXgCE >}}é só mais um Silva brilha ele era
 funkeiro mas era pai de família só mais
 um Silva que a estrela não brilha E aí
 meus amigos tudo bem com vocês

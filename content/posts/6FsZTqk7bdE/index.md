@@ -5,11 +5,7 @@ title: >
     Resposta: Respeito, Desmoralização e Retórica
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-Oi boa noite a quem for entrando Ai Deus
+{{< youtube 6FsZTqk7bdE >}}Oi boa noite a quem for entrando Ai Deus
 do céu
 e hoje eu prometo Será que tá certo aqui
 o negócio do áudio tá tudo certo

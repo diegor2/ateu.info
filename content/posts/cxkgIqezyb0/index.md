@@ -5,11 +5,7 @@ title: >
     O Mito da "Culpa" do Voto útil e pautas identitárias: último vídeo educado (Questões em debate #12)
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube cxkgIqezyb0 >}}[Música]
 [Música]
 fala meus queridos e minhas queridas
 amigas eu espero que esteja tudo a

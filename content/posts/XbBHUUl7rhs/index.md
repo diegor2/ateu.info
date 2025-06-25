@@ -5,11 +5,7 @@ title: >
     Estilometria e Cronologia - Platão - (Leonard Brandwood, 1992, Cambridge Companion to Plato)
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-eu odeio players têm ajeitar um negócio
+{{< youtube XbBHUUl7rhs >}}eu odeio players têm ajeitar um negócio
 que eu deveria ter ajeitado então aqui
 o futebol de bola
 e eu uso aqui esse aqui Não será nada tá

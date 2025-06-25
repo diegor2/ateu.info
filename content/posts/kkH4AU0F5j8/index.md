@@ -5,11 +5,7 @@ title: >
     Live da Explicação de Consciência
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-G1
+{{< youtube kkH4AU0F5j8 >}}G1
 E aí
 E aí
 a gente já tá bom

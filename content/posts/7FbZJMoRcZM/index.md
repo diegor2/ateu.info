@@ -5,11 +5,7 @@ title: >
     Banquete de Platão: Reagindo ao genial Samuel de Araújo Mateus
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube 7FbZJMoRcZM >}}[Música]
 [Música]
 fal queridos e minhas queridas amigas
 dois Aris e quatro águas quatro águas

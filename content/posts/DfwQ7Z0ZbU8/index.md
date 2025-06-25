@@ -5,11 +5,7 @@ title: >
     Caso Monark - Imagine o quanto esse anti-político se sentiu inteligente ao digitar isso
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-E aí
+{{< youtube DfwQ7Z0ZbU8 >}}E aí
 o
 santo coco que na te enche no You ni
 shou

@@ -5,11 +5,7 @@ title: >
     Tudologiazinha: Zelensky é humilhado por Trump ao vivo (EUA mostra fraqueza diplomática)
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-eu avisei não
+{{< video src="video" >}}eu avisei não
 avisei você plantou a bomba a bomba e eu
 avisei um ano atrás eu avisei eu avisei
 não

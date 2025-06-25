@@ -5,11 +5,7 @@ title: >
     Ae! Jones Manoel contra o pós-modernismo anti-acadêmico :D
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube 1wX7gK04htQ >}}k
 [Música]
 [Música]
 Fala ué

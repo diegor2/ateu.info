@@ -5,11 +5,7 @@ title: >
     É Dever Moral ser contra o MBL?
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-e não Coma desocupo no kaidan Ducato
+{{< youtube OYj-VB-WnB8 >}}e não Coma desocupo no kaidan Ducato
 noturna Boots
 [Música]
 e HTC One Mini One e carga cache te

@@ -5,11 +5,7 @@ title: >
     Previa do Véio dos Bichos e o Sextou Afinal: Sobre a Lula Live de Quarta e sobre o COVID-19
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-e o pé faz assim mãozinha para o alto
+{{< youtube RaBZc2Cg8Ww >}}e o pé faz assim mãozinha para o alto
 balança o pescoço para lá e para cá fala
 seus Lula livre como é que vocês estão
 vocês estão tranquilos Eu espero que sim

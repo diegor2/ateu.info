@@ -5,11 +5,7 @@ title: >
     Defesa de Prometeu Acorrentado: Resiliência libertadora contra o Pessimismo Do Velho do Restelo
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-oi oi oi explosão
+{{< youtube WASQZRWtECI >}}oi oi oi explosão
 e quando ela bate ca de não entra não
 e aí entramos um aline tudo bom com
 vocês na santa paz tranquilidade deixa

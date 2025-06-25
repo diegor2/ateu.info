@@ -5,11 +5,7 @@ title: >
     WANDERLEY CODO - O Livro "A BÍBLIA PROTOFASCISTA" (διάλογος #25)
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< video src="video" >}}k
 [Música]
 [Música]
 [Música]

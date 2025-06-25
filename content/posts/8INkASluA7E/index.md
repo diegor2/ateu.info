@@ -5,11 +5,7 @@ title: >
     Leitura Notura: Guthrie e os Sofistas
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-eu venho aqui que agora eu tô mandando
+{{< youtube 8INkASluA7E >}}eu venho aqui que agora eu tô mandando
 vem meu cachorrinho a sua dona tá
 chamando vem aqui porque eu fiz eu
 cometi um erro na hora que eu fui abrir

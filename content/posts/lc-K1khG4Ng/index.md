@@ -5,11 +5,7 @@ title: >
     LINCK e o ESTALINISMO ATACANDO OS PÓS MODERNOS
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube lc-K1khG4Ng >}}[Música]
 não brigo mais não brigo mais deixa lá
 viva em paz irracionais não vou me
 preocupar sigo meu caminho melhor é

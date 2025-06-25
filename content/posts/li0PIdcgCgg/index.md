@@ -5,11 +5,7 @@ title: >
     Tudologia Classic: do jogo determinista
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube li0PIdcgCgg >}}k
 [Música]
 [Música]
 Esse é o time do Botafogo que o eix

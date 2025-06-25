@@ -5,11 +5,7 @@ title: >
     Tudologia: Mas Tudologia de VERDADE
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube Skp8CO_TuIg >}}[Música]
 [Aplausos]
 [Música]
 doidão do pensamento onde a verdade é

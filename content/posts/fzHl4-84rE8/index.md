@@ -5,11 +5,7 @@ title: >
     O Discurso do Trump, Bullying como política, anti-petismo, extrema esquerda e o DIREITO DE DEFESA
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube fzHl4-84rE8 >}}[Música]
 olha os Car vindo cheios de malícia
 dizendo que além do bem e do mal só que
 sua notícia fake distorcida sem base na

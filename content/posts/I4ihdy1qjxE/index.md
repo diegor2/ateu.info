@@ -5,11 +5,7 @@ title: >
     Ciro Gomes no Flow e Democracia Direta: breve comentário
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-E aí
+{{< youtube I4ihdy1qjxE >}}E aí
 E aí
 E aí
 E aí

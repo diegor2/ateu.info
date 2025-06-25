@@ -5,11 +5,7 @@ title: >
     Ateísmo, morte e moral - dedicado à memória de Ricardo Boechat
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube z_64ULmr6UU >}}[Música]
 fazendo essa claquete aqui como vocês
 podem ver eu estou com um microfone novo
 quero saber a opinião de vocês inclusive

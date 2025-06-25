@@ -5,11 +5,7 @@ title: >
     A desonestidade dos irracionalistas e o VERDADEIRO problema político do irracionalismo: Isolamento
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-Fala meus queridos e minhas queridas
+{{< youtube qMgvNO6-NIU >}}Fala meus queridos e minhas queridas
 amigas, tudo bem com vocês? Eu espero
 que esteja tudo bem com vocês. Hoje
 vídeo um pouco sem retórica, tá? Um

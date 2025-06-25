@@ -5,11 +5,7 @@ title: >
     Ética e Martelo [Parte 2] - "Poesia" e Razão - Uma questão de Educação Pública
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-Como ter uma ética num local onde muitas
+{{< youtube gCIlE5lwZkE >}}Como ter uma ética num local onde muitas
 pessoas falam de perda de referencial
 outras falam de pluralismo de convicções
 Então a partir de um conceito de ética

@@ -5,11 +5,7 @@ title: >
     Leitura noturna V, Season Finale: Charles H. Kahn - Retrospectiva e Platão e Parmênides
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-E aí
+{{< youtube x6zO_ohOoyA >}}E aí
 E aí
 E aí
 [Música]

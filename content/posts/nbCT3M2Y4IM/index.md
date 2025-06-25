@@ -5,11 +5,7 @@ title: >
     Ft. Sued Carvalho - Privatização da gestão das escolas públicas
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube nbCT3M2Y4IM >}}k
 [Música]
 [Música]
 fala meus queridos e minhas queridas

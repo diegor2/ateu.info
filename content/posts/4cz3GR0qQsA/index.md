@@ -5,11 +5,7 @@ title: >
     Uma conversa séria, porém tranquila sobre as eleições e a realidade brasileira
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube 4cz3GR0qQsA >}}k
 [Música]
 [Música]
 [Música]

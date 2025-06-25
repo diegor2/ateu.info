@@ -5,11 +5,7 @@ title: >
     O Papel Social da Universidade: Anti-universitários, grande doença da atualidade pós-moderna
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-Oi e a up meus amigos e minhas amigas
+{{< youtube 6-xOKcdi6FY >}}Oi e a up meus amigos e minhas amigas
 como é que vocês estão vocês estão bem
 Tem alguém aí tem alguém neste planeta
 meu brother como é que você tá tá bem

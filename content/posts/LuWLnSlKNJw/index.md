@@ -5,11 +5,7 @@ title: >
     Leitura noturna IV: Charles H. Kahn - Existência na Filosofia Grega?
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-E aí
+{{< youtube LuWLnSlKNJw >}}E aí
 [Música]
 e fala meus amigos estamos de volta
 vamos aqui discutir mais um texto do

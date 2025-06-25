@@ -5,11 +5,7 @@ title: >
     Balanço do Paulo Guedes: Liberalismo Econômico X Liberalismo Político X Liberalismo de esquerda
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-e fala meus amigos e minhas amigas tudo
+{{< youtube iZTRcV96gjo >}}e fala meus amigos e minhas amigas tudo
 bom com vocês eu espero que sim nesse
 vídeo de hoje pretendemos começar um
 pouco acerca de liberalismo político e

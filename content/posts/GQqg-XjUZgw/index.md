@@ -5,11 +5,7 @@ title: >
     Leitura: Desmistificando os Sofistas - Sabedoria e Política
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube GQqg-XjUZgw >}}[Música]
 ge das V lieben TR he
 schrei nicht
 [Música]

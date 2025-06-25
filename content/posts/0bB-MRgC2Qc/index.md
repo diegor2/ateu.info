@@ -5,11 +5,7 @@ title: >
     Presente para o canal: iluminação (Ring Leds)
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-oi minha luz papelão bairro china era
+{{< youtube 0bB-MRgC2Qc >}}oi minha luz papelão bairro china era
 para ensinar a criança a não vou falando
 de quem é a pessoa pediu sigilo
 uma mulher difícil

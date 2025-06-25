@@ -5,11 +5,7 @@ title: >
     Crítica à Rita Von Hunty por André Machado - Língua e Linguística é maravilhosa
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube xUcUDqsh-8k >}}k
 [Música]
 [Música]
 fala meus queridos e minhas queridas

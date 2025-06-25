@@ -5,11 +5,7 @@ title: >
     Objetividade e Linguagem-Prática: Que É Canal Ateuinforma?
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-eu vou na Bahia é assim
+{{< youtube 2rojYXiugYI >}}eu vou na Bahia é assim
 a gente não tem que estalo mas que
 quente não tem fim não há coisas então
 bonitão colorido que agitar ele o

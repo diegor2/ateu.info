@@ -5,11 +5,7 @@ title: >
     "Liberdade de Expressão" - Jovem Pan, que responde Ação Civil Pública, mira em Ian Neves?
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube CeQdt24n8JM >}}[Música]
 fala meus queridos e minhas queridas
 amigas que estão aqui online comigo
 agora e que virão assistir o vídeo

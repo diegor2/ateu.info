@@ -5,11 +5,7 @@ title: >
     Henry Bugalho PRECISA ser contestado: CETICISMO NÃO É A ÚNICA FILOSOFIA DO MUNDO
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube pq8lrSAvys4 >}}[Música]
 fala meus queridos e minhas queridas
 amigas tudo bem com vocês no vídeo de
 agora a gente vai fazer uma

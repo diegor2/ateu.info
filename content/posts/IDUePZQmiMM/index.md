@@ -5,11 +5,7 @@ title: >
     Liberalismo e o Fascismo: Precisamos Falar Do Elefante Na Sala
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-Oi
+{{< youtube IDUePZQmiMM >}}Oi
 bom dia vocês me ouvem bem
 atrás eu tô impressionado com como esse
 4G tá durando mais enfim a

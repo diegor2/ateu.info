@@ -5,11 +5,7 @@ title: >
     China, que vai dar uma surra no Trump, tem órgão universitário de divulgação do ateísmo
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-essa cidade está
+{{< youtube 9MNSAoxiVMM >}}essa cidade está
 ediante com tanta
 mentira a verdade foi esquecida em seus
 versos

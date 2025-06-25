@@ -5,11 +5,7 @@ title: >
     Tudo é pessoal. Às cachorrinhas de Youtuber: Os Youtuber, Jones Manoel, Tiago Braga e Henry Bugalho
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube CTF8jdjKl1M >}}k
 [Música]
 [Música]
 [Aplausos]

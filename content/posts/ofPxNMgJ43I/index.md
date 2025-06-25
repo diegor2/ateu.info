@@ -5,11 +5,7 @@ title: >
     O RIDÍCULO Comercial da Pepsi: Motivos para estar sem a mínima paciência
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-G1
+{{< youtube ofPxNMgJ43I >}}G1
 E aí
 tu tá online
 e cadê a

@@ -5,11 +5,7 @@ title: >
     ISABELLA GURGEL - Educação de Surdos e Linguagem Visual (AI διάλογος #17)
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube OLbnVBwikMk >}}[Música]
 fala meus queridos e minhas queridas
 amigas eu espero que esteja tudo bem com
 vocês é com muita felicidade que eu

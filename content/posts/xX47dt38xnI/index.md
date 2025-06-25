@@ -5,11 +5,7 @@ title: >
     Complementando o vídeo do Pirula sobre Preconceito com ateus (e com comunistas)
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube xX47dt38xnI >}}k
 [Música]
 [Música]
 fala meus queridos e minhas queridas

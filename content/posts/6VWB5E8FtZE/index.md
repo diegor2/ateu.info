@@ -5,11 +5,7 @@ title: >
     Tudologia: Do ENEM ao Iluminismo do Nicolelis + Projetos de Igreja do Santineli e APCE (só salada)
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube 6VWB5E8FtZE >}}k
 [Música]
 [Música]
 [Aplausos]

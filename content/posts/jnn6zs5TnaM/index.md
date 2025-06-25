@@ -5,11 +5,7 @@ title: >
     Reagindo a Nicolelis: Como desenvolver a ciência do país?
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube jnn6zs5TnaM >}}[Música]
 fala meus queridos e minhas queridas
 amigas tudo bem com vocês eu espero que
 esteja tudo bem com vocês no vídeo de

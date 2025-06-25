@@ -5,11 +5,7 @@ title: >
     Ateu Joga: Revolução Francesa da Ubisoft e as paranoia loka IlLuminati
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube GXtyw3JCUHg >}}k
 [Música]
 [Música]
 churasco com chimarão fandango trago e

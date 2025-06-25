@@ -5,11 +5,7 @@ title: >
     "Pré-Socráticos", por Casertano: Nossas fontes (e porque Aristóteles é meu Nemesis)
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-e eles podem o sonho brilhar a escuridão
+{{< youtube 52iQgUX6oD4 >}}e eles podem o sonho brilhar a escuridão
 vai terminar laços de amizade no campo
 se rompeu Boa noite Beto boa noite Alan
 Boa noite Charles Alan Meus parabéns

@@ -5,11 +5,7 @@ title: >
     Contra Ciro - A Miséria do Ateísmo não militante e a importância das pautas identitárias
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-e amigos e minhas queridas amigas como é
+{{< youtube H1ElOEakaTM >}}e amigos e minhas queridas amigas como é
 que vocês estão eu espero que vocês
 estejam muito esse mundo bem
 no vídeo de hoje eu quero comentar a

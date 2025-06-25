@@ -5,11 +5,7 @@ title: >
     你好！- China, Coringa e Protagonismo Circulante (assuntos avulsos)
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-o uso do push nos brasil sendo
+{{< youtube 6K5bTRHtHXg >}}o uso do push nos brasil sendo
 transmitindo nenhum antes fui eu
 [Música]
 o que há de errado

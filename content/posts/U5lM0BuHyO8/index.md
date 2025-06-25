@@ -5,11 +5,7 @@ title: >
     Realismo do 1° Turno: Boulos no 2° Turno, Felipe Neto no Rio e Extrema Direita em queda
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-E aí
+{{< youtube U5lM0BuHyO8 >}}E aí
 Oi boa noite tudo bom com você a gente
 vai falar um pouquinho baixo agora
 porque está tarde eu quero fazer um

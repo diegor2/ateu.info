@@ -5,11 +5,7 @@ title: >
     Softpower: The Boys, Homelander e a Visão Brasileira Dos EUA
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-E aí
+{{< youtube M-USmGjCqvQ >}}E aí
 Oi buenas noches como vocês tranquilo
 tudo bem
 bom então

@@ -5,11 +5,7 @@ title: >
     Por que essa briga? - Porque eu tô brabo (2022)
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-E aí
+{{< youtube h1Srgd6WAY8 >}}E aí
 eu nem acredito que deu certo
 inacreditável
 Olá meus amigos

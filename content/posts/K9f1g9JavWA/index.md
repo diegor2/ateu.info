@@ -5,11 +5,7 @@ title: >
     Tudologia: Ser brabo é só estética
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube K9f1g9JavWA >}}[Música]
 lá vem
 PB Val
 sagis enfrentando os

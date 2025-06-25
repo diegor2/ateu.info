@@ -5,11 +5,7 @@ title: >
     Tudologiazinho: Melhor participação do Humberto Matos em podcasts
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-o massa sobe mas não é craque é a cabeça
+{{< youtube 1gwKBXxIISQ >}}o massa sobe mas não é craque é a cabeça
 do Liberal entrando em
 Piripac Vai vendo primeiro foi a Renata
 depois veio koca catag caporo e o cara

@@ -5,11 +5,7 @@ title: >
     Um papo para Pirulla, Clarion, Henry Bugalho, Omaro, Izzy Nobre, Maurício Ricardo e outros amigos
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-ae
+{{< youtube sBnwDPE5V_0 >}}ae
 ah
 e aí pessoal beleza
 há um tempo atrás eu estou fazendo

@@ -5,11 +5,7 @@ title: >
     Jones Manoel desafia o deputado federal chorão Nikolas Ferreira: DEBATE ESCALA 6x1
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube mDY6HqF2hfI >}}k
 [Música]
 [Música]
 [Música]

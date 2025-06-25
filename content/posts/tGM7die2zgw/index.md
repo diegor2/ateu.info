@@ -5,11 +5,7 @@ title: >
     Yu-Gi-Oh, Evangelion e Rockman X: questões humanas e questões de infância
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube tGM7die2zgw >}}k
 [Música]
 [Música]
 fala meus queridos e minhas queridas

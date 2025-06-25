@@ -5,11 +5,7 @@ title: >
     Vamos rir um pouco do Léo chorando depois de tomar uma surra do Gustavo Machado
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube cOnsVtWN1YY >}}[Música]
 Gustavo Machado é feroz sem
 rival desconstrói argumento
 com livros na mão ele vai

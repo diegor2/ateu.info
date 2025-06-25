@@ -5,11 +5,7 @@ title: >
     Um compilado de verdades: A incrível bizarrice da sociedade do espetáculo
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube nVnX1Zb0es8 >}}k
 [Música]
 [Música]
 fala meus queridos e minhas queridas

@@ -5,11 +5,7 @@ title: >
     Humor: Mídia Popular - O Melhor e Maior Produto do Mercado!!!! Adquira já a sua!!!!
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-você é inteligente e um livre Pensador
+{{< youtube 8u12gLRBShU >}}você é inteligente e um livre Pensador
 você tem opinião própria embasada sobre
 qualquer desses assuntos sua visão de
 mundo é complexa e você não avalia as

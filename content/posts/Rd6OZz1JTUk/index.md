@@ -5,11 +5,7 @@ title: >
     Tire as mãos de Trotsky, camarada Safatle: a esquerda NÃO morreu, só parou de visitar clássicos
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube Rd6OZz1JTUk >}}[Música]
 h
 [Música]
 boa noite tudo bem com

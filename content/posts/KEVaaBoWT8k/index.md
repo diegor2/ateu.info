@@ -5,11 +5,7 @@ title: >
     Sapo na Água Quente: Ser "Radicales" na Democracia Liberal
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-o nosso amor não deu certo gargalhadas e
+{{< youtube KEVaaBoWT8k >}}o nosso amor não deu certo gargalhadas e
 lado e mais de perto vamos fazer nada
 que bom de amor que não pode dar certo o
 outro negócio aberto aqui e aí meus

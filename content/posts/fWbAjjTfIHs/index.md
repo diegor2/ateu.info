@@ -5,11 +5,7 @@ title: >
     Paulo Guedes Ludibria e Kant e Wilsonianismo: O que NÃO é Idealismo em Relações Internacionais
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube fWbAjjTfIHs >}}[Música]
 fala meus queridos e minhas queridas
 amigas tudo bem com vocês eu espero que
 esteja tudo bem com

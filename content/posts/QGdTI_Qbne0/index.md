@@ -5,11 +5,7 @@ title: >
     Em Defesa Do Átila: Como os Conservadores Modulam o Discurso
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-E aí
+{{< youtube QGdTI_Qbne0 >}}E aí
 E aí galera
 Oi beleza
 E aí

@@ -5,11 +5,7 @@ title: >
     O que eu penso? E se levarmos a República a sério? (Em todos os sentidos)
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube jWP19OyMswY >}}k
 [Música]
 [Música]
 fala meus

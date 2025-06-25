@@ -5,11 +5,7 @@ title: >
     Leitura da Tarde: A Concepção Científica de Mundo - Círculo de Viena
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube PXJfE-PeI_c >}}k
 [Música]
 [Música]
 fala meus queridos e minhas queridas

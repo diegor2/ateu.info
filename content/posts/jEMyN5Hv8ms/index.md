@@ -5,11 +5,7 @@ title: >
     (Fédon de Platão) Pode Socialista investir na Bolsa? - A crítica de Nietzsche a Platão
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< video src="video" >}}[Música]
 e a meus queridos como é que vocês estão
 eu espero que bem Tem uma mosca maldita
 voando aqui e ela não sai sai daqui e aí

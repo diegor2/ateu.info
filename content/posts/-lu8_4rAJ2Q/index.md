@@ -5,11 +5,7 @@ title: >
     Cunha X Dilma - Maquiavelismo e macaquinhos políticos
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-Ah fala galera tudo bom com vocês dia 13
+{{< youtube -lu8_4rAJ2Q >}}Ah fala galera tudo bom com vocês dia 13
 de Março de 2015 Eu fiz um vídeo chamado
 entender direito em pachman no qual eu
 pretendo falar um pouco sobre o o esse

@@ -5,11 +5,7 @@ title: >
     Tudologia: Virada INDUSTRIAL do canal Ateuinforma, o Impostrump e os meus desafios
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube N5Np0lj8LBA >}}[Música]
 essa cidade está
 ediante com tanta mentira a verdade foi
 esquecida em seus versos

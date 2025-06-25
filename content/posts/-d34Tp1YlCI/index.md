@@ -5,11 +5,7 @@ title: >
     Tudologia React: BBC sobre a Espanha e crise europeia
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-Pouca gente esperava. A Espanha virou
+{{< youtube -d34Tp1YlCI >}}Pouca gente esperava. A Espanha virou
 motor do crescimento econômico da
 Europa. Em 2024, o país cresceu
 3.2%, muito mais do que os outros

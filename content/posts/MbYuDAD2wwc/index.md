@@ -5,11 +5,7 @@ title: >
     No claro cessa interpretação? Importância da Ciência e Hermenêutica em perspectiva material-objetiva
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-e para parapapá parapapá parapapá
+{{< youtube MbYuDAD2wwc >}}e para parapapá parapapá parapapá
 parapapá o puro puro cadê tu cadê eu
 onde estou fazer vamos pai eu não existo
 não entra online eu entrei online

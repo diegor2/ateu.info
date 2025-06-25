@@ -5,11 +5,7 @@ title: >
     Corrente dos Ídolos
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-Pedro Mas você some
+{{< youtube DcInjAPB_C8 >}}Pedro Mas você some
 [Música]
 muito Fala galera tudo bom com vocês e
 eu vou falar um pouco melhor sobre a

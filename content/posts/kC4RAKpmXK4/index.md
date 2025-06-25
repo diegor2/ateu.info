@@ -5,11 +5,7 @@ title: >
     TUDOLOGIA: Sobre TUDO, absolutamente TUDO
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube kC4RAKpmXK4 >}}[Música]
 não brigo mais não brigo mais deixe PR
 lá viv em paz com Racionais não vou me
 preocupar sigo o meu caminho O melhor é

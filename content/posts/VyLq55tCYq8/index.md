@@ -5,11 +5,7 @@ title: >
     Algumas dicas contra o pedantismo barato de Thiago Braga e Cia Ltda.
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube VyLq55tCYq8 >}}k
 [Música]
 [Música]
 fala meus queridos e minhas queridas

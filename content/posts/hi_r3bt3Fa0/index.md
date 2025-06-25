@@ -5,11 +5,7 @@ title: >
     Sobre Debates (a questão Ciro - Gregório): Perspectiva, Pós Modernidade e Sofisma
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-Olá meus queridos amigos e minhas
+{{< youtube hi_r3bt3Fa0 >}}Olá meus queridos amigos e minhas
 queridas amigas como estão vossas
 excelências
 nossas decisões estão bem Eu espero que

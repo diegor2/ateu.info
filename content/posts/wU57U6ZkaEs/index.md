@@ -5,11 +5,7 @@ title: >
     Reação a Marcio Rolim sobre escala 6x1: Um canal que eu tenho amado conhecer
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube wU57U6ZkaEs >}}k
 [Música]
 [Música]
 fala queridos e queridos amigas tudo bem

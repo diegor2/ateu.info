@@ -5,11 +5,7 @@ title: >
     Sem Deus, mas com objetividade: o problema pós-moderno além de Senhorita Bira e Daniel Cidade
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube FbgMgxgzuY0 >}}k
 [Música]
 [Música]
 fala meus queridos e minhas queridas

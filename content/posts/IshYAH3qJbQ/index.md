@@ -5,11 +5,7 @@ title: >
     Embargos do EUA e a prisão de Meng Wanzhou: Por que não levamos anarcocapitalistas a sério?
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-E aí
+{{< youtube IshYAH3qJbQ >}}E aí
 Oi boa noite meus amigos e minhas amigas
 como é que vocês estão aí Espero que
 vocês estejam na mais santa paz veja

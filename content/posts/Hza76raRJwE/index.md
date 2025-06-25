@@ -5,11 +5,7 @@ title: >
     Comentando Comentários: Aos Paraquedistas que Caíram Aqui
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-G1
+{{< youtube Hza76raRJwE >}}G1
 G1
 E aí
 e fala mil os amigos tudo bom com vocês

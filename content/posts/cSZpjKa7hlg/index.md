@@ -5,11 +5,7 @@ title: >
     A função retórica do discurso "anti-idolatria": Os "gados" "anti-gado"
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube cSZpjKa7hlg >}}[Música]
 [Música]
 fala meus queridos e meus queridos
 amigos com dores no pescoço como é que

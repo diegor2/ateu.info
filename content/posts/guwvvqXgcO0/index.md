@@ -5,11 +5,7 @@ title: >
     Reação - 1ª Guerra Mundial
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-เฮ
+{{< youtube guwvvqXgcO0 >}}เฮ
 [Música]
 [Música]
 [Música]

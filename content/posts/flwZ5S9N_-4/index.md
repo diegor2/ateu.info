@@ -5,11 +5,7 @@ title: >
     Corte da Natureza Humana: Ser Genérico (Gattungswesen) Temporal Vs Essencialismo Transcendental
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-Marxismo fala o tempo todo que não há
+{{< youtube flwZ5S9N_-4 >}}Marxismo fala o tempo todo que não há
 natureza humana eu vou chorar gente eu
 vou chorar muito eu vou chorar muito eu
 tenho um vídeo que eu gravei aqui sobre

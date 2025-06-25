@@ -5,11 +5,7 @@ title: >
     Leitura de "A Essência do Cristianismo" de Ludwig Feuerbach
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube VwOUV8gIzV0 >}}k
 [Música]
 [Música]
 [Música]

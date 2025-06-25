@@ -5,11 +5,7 @@ title: >
     Leitura de tarde: Meditações 7 e 9 de Marco Aurélio e Carta 66 de Sêneca
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube DuP5941v5U0 >}}k
 [Música]
 [Música]
 [Música]

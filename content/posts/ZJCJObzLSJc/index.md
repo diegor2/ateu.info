@@ -5,11 +5,7 @@ title: >
     Prag-ma-tis-mo! (Eu disse? Sim): Bolsonaro visita a China e defende o lado chinês sobre China única?
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-não é meu deus eu to eye e aí nossa
+{{< youtube ZJCJObzLSJc >}}não é meu deus eu to eye e aí nossa
 entrega online muito rápido pela ahb do
 choque é e alguns dias atrás eu fiz um
 vídeo em que eu mencionei que política

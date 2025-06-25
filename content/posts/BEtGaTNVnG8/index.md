@@ -5,11 +5,7 @@ title: >
     Existe Capitalismo sem Estado? Versão Com Oratória Simples
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-oi oi amigos tudo bom com vocês
+{{< youtube BEtGaTNVnG8 >}}oi oi amigos tudo bom com vocês
 e eu espero que sim eu espero entramos
 Online 1
 e vai ter uma introdução esse vídeo

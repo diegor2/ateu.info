@@ -5,11 +5,7 @@ title: >
     É isso? É exatamente isso.
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-com OC silen ele luta pela justiça pela
+{{< youtube jeIYtlBy_q4 >}}com OC silen ele luta pela justiça pela
 igualdade é isso é exatamente isso
 despert sem medo não abido não se deixe
 levar pela alta do relativismo encado a

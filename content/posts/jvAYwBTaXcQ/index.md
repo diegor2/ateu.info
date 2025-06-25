@@ -5,11 +5,7 @@ title: >
     Gustavo Machado gravou o melhor react que eu já vi + Pirula eu te respondi, cadê você?
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-Oh.
+{{< youtube jvAYwBTaXcQ >}}Oh.
 Pirula, vai morrer os crocodilos.
 Pirula, se te deixar privatizar essa
 Bés. Fala meus queridos, tudo bem com

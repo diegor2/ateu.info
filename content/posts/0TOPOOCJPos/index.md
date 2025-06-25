@@ -5,11 +5,7 @@ title: >
     Política Militar e Acumulação em Atenas: Uma introdução
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-E aí
+{{< youtube 0TOPOOCJPos >}}E aí
 E aí
 Um Tantão
 o

@@ -5,11 +5,7 @@ title: >
     Notícia: Trump Com Corona! Trump, Vera Magalhães e McCarthy
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-G1
+{{< youtube 2u3zHyKXsUw >}}G1
 E aí
 E aí
 E aí

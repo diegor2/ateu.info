@@ -5,11 +5,7 @@ title: >
     Friedman e Ditadura - Notícia: A Constituição de Pinochet será revogada!
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-E aí
+{{< youtube FqqwveDBT9Q >}}E aí
 Olá tudo bom com vocês eu espero que sim
 comigo está relativamente bem
 e vamos lá meus galera itos o que

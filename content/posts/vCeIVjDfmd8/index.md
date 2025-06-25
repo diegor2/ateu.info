@@ -5,11 +5,7 @@ title: >
     Contra os "Lógicos" e os "Anti-dogmáticos"
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-Oi boa noite meus amigos boa noite
+{{< youtube vCeIVjDfmd8 >}}Oi boa noite meus amigos boa noite
 Leonardo é que você está Eu espero que
 você esteja bem
 G1

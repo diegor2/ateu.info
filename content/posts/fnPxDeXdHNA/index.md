@@ -5,11 +5,7 @@ title: >
     Materialismo: Contra psicologismo Sem Platão e Aristóteles
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-g1
+{{< youtube fnPxDeXdHNA >}}g1
 e aí
 e aí
 e no seu número não deu certo gargalhada

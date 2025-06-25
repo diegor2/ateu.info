@@ -5,11 +5,7 @@ title: >
     Demócrito, Socialismo e Elitismo
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-e vai ser burro assim meu Deus ai meu
+{{< youtube 7JxTh9BXYPc >}}e vai ser burro assim meu Deus ai meu
 Deus do céu alguém que tiver lá na outra
 live por favor fala que não vai rolar lá
 vai rolar aqui né que ia eu querendo

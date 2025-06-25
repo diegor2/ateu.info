@@ -5,11 +5,7 @@ title: >
     O Papel Social da Universidade: O anti-academicismo da esquerdoca piadista
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-de todo mal combater despertar o poder
+{{< youtube 6tF8tgaw2Fw >}}de todo mal combater despertar o poder
 só a constelação hoje de novo Como é que
 você tá Você tá bem Você tá na santa paz
 e tem um comentário importante meu vídeo

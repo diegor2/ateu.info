@@ -5,11 +5,7 @@ title: >
     Mais uma contra o MBL: "Gostava mais do canal quando só falava de ateísmo"
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-E aí
+{{< youtube d_fl3IEBF54 >}}E aí
 o roxo susto
 quando
 [Música]

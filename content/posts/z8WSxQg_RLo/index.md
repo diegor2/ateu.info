@@ -5,11 +5,7 @@ title: >
     Tudologia: Humanos e questões materiais, uma reflexão breve sobre compatibilismo
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube z8WSxQg_RLo >}}[Música]
 Povo já
 racha o povo barões da
 rachadinha. Somos os bravos com ideias

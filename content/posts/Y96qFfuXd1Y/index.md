@@ -5,11 +5,7 @@ title: >
     CARLITO NETO (O Historiador): Fim da escala 6x1 e a união de esquerdas (διάλογος #31)
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube Y96qFfuXd1Y >}}k
 [Música]
 [Música]
 [Aplausos]

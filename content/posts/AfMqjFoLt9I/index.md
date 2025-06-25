@@ -5,11 +5,7 @@ title: >
     Retorno do Canal - Não confie no Hamas e introdução à Maçonaria
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube AfMqjFoLt9I >}}[Música]
 Fala galera tudo bem Bom primeiro eu
 gostaria de avisar que eu tô voltando a
 fazer vídeos como podem ver cara nova

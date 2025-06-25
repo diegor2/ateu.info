@@ -5,11 +5,7 @@ title: >
     Um, o Todo: Reflexão Sobre a Vida e a Conjutura Mundial
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-Oi boa noite
+{{< youtube vjRsqjrZKuM >}}Oi boa noite
 Olá como estão vocês estão bem
 Eu espero que sim
 Olá no vídeo de hoje

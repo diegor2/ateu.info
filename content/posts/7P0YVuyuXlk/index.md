@@ -5,11 +5,7 @@ title: >
     Debate do Renan sobre anarcocapitalismo: "Sociedade democrática do espetáculo"? O preço dos juízos
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-São Paulo
+{{< youtube 7P0YVuyuXlk >}}São Paulo
 É sim vindos a um vídeo de choro você
 está a fim de chorar você está triste
 você está deprimido você está revoltado

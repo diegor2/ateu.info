@@ -5,11 +5,7 @@ title: >
     A minha "Panelinha" e Pedro Puto  Questões em Debate #5
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-E aí
+{{< youtube vZ7UyFAgbNs >}}E aí
 Oi boa noite
 será que eu tô online Será que tá tudo
 certo eu observo ninguém talvez eu nem

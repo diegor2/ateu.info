@@ -5,11 +5,7 @@ title: >
     A questão Olavo: Uma resposta tranquila ao Gustavo
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-E aí
+{{< youtube 6a9pp97GT0Y >}}E aí
 E aí
 tu já guardou
 E aí tudo bem com vocês eu espero que

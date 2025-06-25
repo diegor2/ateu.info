@@ -5,11 +5,7 @@ title: >
     Bate-papo sobre Sofistas Clássicos e Imagens Contemporâneas
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-Como saber se estão me ouvindo bem está
+{{< youtube CO4Mk54-nCM >}}Como saber se estão me ouvindo bem está
 tudo tranquilo aí para gente começar o
 vídeo de hoje peço desculpa aí para
 vocês por ter feito a confusão ter um

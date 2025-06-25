@@ -5,11 +5,7 @@ title: >
     Nietzsche - Uma resposta que fecha um ciclo
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube KFU1Ufx0aTI >}}[Música]
 k
 [Música]
 boa

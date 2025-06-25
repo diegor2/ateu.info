@@ -5,11 +5,7 @@ title: >
     Você está sendo manipulado - Ressignificação não avisada QUASE sempre é ação Mal Intencionada
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-eu tava mal nada mais eu era boa noite
+{{< youtube QDaeCWdh_hk >}}eu tava mal nada mais eu era boa noite
 tudo bem com vocês boa noite ravel
 rodrigo mateus a vulto contra o leona
 aram tudo bom bom nesse vídeo aqui que

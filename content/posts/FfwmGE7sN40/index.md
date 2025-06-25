@@ -5,11 +5,7 @@ title: >
     Desabafo: Em favor do Ateísmo declarado. Há um "ataque ao cristianismo"? "Ateus são todos chatos"?
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-online com fui
+{{< youtube FfwmGE7sN40 >}}online com fui
 é isso isso eu li
 para nós é muito difícil
 bom parece que eu tô online

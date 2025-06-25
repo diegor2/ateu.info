@@ -5,11 +5,7 @@ title: >
     O que é Relativo? De Herodoto à Lei 10.639/2003
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-tô precisando e o baile hipnotizado e eu
+{{< youtube Rkd33gAnhDY >}}tô precisando e o baile hipnotizado e eu
 falei que tava bom mas ainda vai
 melhorar é fato que eu quero ela esse
 fato eu vou consuma 10 minutos de ideia

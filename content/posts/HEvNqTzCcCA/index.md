@@ -5,11 +5,7 @@ title: >
     Heidegger (SZ §27) e o fascismo na cultura pop - Complemento ao canal Ora Thiago
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube HEvNqTzCcCA >}}[Música]
 [Música]
 fala meus queridos e minhas queridas
 amigas tudo bem com vocês eu espero que

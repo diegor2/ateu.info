@@ -5,11 +5,7 @@ title: >
     PEDAGOLÍTICA - Pedagogia enquanto ciência revolucionária (διάλογος #23)
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-p
+{{< youtube NfpmZqmpZhA >}}p
 [Música]
 [Música]
 fala meus queridos e minhas queridas

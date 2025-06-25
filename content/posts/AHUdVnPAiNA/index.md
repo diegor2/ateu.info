@@ -5,11 +5,7 @@ title: >
     Ateu Informa: Detonando "O Elo perdido"
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-se evolução é real por que não existe um
+{{< youtube AHUdVnPAiNA >}}se evolução é real por que não existe um
 bicho meio peixe e meio anfíbio
 [Música]
 [Música]

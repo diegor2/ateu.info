@@ -5,11 +5,7 @@ title: >
     Reação ao Wilker Leão e Renato Amoedo no 3 Irmãos: A PIOR coisa que eu já assisti no youtube
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube tO7ZAzQyd7Q >}}k
 [Música]
 [Música]
 [Aplausos]

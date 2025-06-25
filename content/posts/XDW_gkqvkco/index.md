@@ -5,11 +5,7 @@ title: >
     O 1˚ debate do Gustavo Machado que não era com um doidinho de bairro
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-fumaça sobe mas não é craque é a cabeça
+{{< youtube XDW_gkqvkco >}}fumaça sobe mas não é craque é a cabeça
 do Liberal entrando em
 Piripac Vai vendo primeiro foi a Renata
 depois veio koca kataguiri caporo e o

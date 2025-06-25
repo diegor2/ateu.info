@@ -5,11 +5,7 @@ title: >
     [D. Con. 03] Revisão e Princípios Fundamentais (Teste 2 do Prezi)
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-E aí
+{{< youtube rOYbV_gtkOc >}}E aí
 E aí
 E aí
 E aí

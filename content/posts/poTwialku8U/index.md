@@ -5,11 +5,7 @@ title: >
     Crítica ao Meteoro Brasil: falta de assertividade na estética da Esquerda "radical"
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< video src="video" >}}k
 [Música]
 [Música]
 fala meus queridos e minhas queridas

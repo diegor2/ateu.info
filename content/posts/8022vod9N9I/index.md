@@ -5,11 +5,7 @@ title: >
     Arthur do Val e Wilker Leão são INACREDITÁVEIS geradores de preconceito: eu estou cansado
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-Gente, na moral, eu tô muito cansado,
+{{< youtube 8022vod9N9I >}}Gente, na moral, eu tô muito cansado,
 velho. muito cansado, muito cansado.
 Ontem, ontem e à noite eu fui ã ler e e
 ver vídeos e etc e tal em relação a ao

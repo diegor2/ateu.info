@@ -5,11 +5,7 @@ title: >
     Como ler Pré-socraticos (Ex.: Protágoras): Materialismo rula? Protágoras foi aluno de Demócrito?
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-E aí
+{{< youtube uukkg3ta7no >}}E aí
 E aí
 e vamos lá
 o BO a tarde meus amigos eu espero que

@@ -5,11 +5,7 @@ title: >
     O Último Sócrates: Rushando DOIS livros de Xenofonte em 1 vídeo
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-E aí
+{{< youtube OvIMZDeN9g4 >}}E aí
 eu
 sou eu o sonheiro
 chimes

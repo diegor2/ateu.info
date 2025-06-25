@@ -5,11 +5,7 @@ title: >
     O erro do Cauê sobre Alá: Função X Finalidade do Discurso
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-E aí
+{{< youtube s6o1iIxBMls >}}E aí
 Oi
 boa noite meus amigos de minhas amigas
 como estão vocês como estava sem Ícaro

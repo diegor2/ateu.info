@@ -5,11 +5,7 @@ title: >
     Leitura da tarde: A Religião na URSS (1934), de Yemelyan Yaroslavsky
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube mOIj9AEgRCs >}}k
 [Música]
 [Música]
 [Aplausos]

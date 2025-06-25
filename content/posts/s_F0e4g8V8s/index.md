@@ -5,11 +5,7 @@ title: >
     Live: O Poço - John Rawls, liberalismo pluralista e interpretação da crise da sociedade
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-e aí
+{{< youtube s_F0e4g8V8s >}}e aí
 e aí
 e aí
 e aí

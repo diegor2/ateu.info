@@ -5,11 +5,7 @@ title: >
     Vídeo completamente aleatório só para os brothers
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-e fala meus queridíssimos Cadê tu online
+{{< youtube rHuMik0-G3k >}}e fala meus queridíssimos Cadê tu online
 F5 mas nós cinco cadernos não aparece
 não
 e agora entrou entrou e aí como é que

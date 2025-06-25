@@ -5,11 +5,7 @@ title: >
     DOUTRINA SECRETA de Protágoras: Segredo secreto oculto escondido do UM e Movimento [Th. 152d/153d]
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-drown and Deep in my Sea
+{{< youtube Ag5ZlvBTelk >}}drown and Deep in my Sea
 floating Broken to your servant
 i give it to me it
 seems my Human Side is slowly

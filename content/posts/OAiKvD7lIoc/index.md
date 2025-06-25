@@ -5,11 +5,7 @@ title: >
     GLAUBER ATAÍDE - Consciência do trabalhador e Marxismo no jovem Lukács - AI διάλογος #8
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-E aí
+{{< youtube OAiKvD7lIoc >}}E aí
 E aí
 [Música]
 E aí

@@ -5,11 +5,7 @@ title: >
     DAVID AYROLLA - Divulgação Científica em tempos de negação da ciência - AI διάλογος #5
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-E aí
+{{< youtube Q9PbeM4kRSA >}}E aí
 E aí
 [Música]
 [Música]

@@ -5,11 +5,7 @@ title: >
     Encontro dos Guarás: Bate-papo sobre Razão, Crise de Saúde e Greve dos Caminhoneiros
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-E aí
+{{< youtube 8E_tEBQrkX4 >}}E aí
 e fala meus ele disse você minhas
 queridíssimas como é que vocês estão Eu
 imagino que não deva ter ninguém aqui

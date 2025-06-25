@@ -5,11 +5,7 @@ title: >
     O que é História? (Heródoto, Aristóteles, Cícero e... Jon Snow!?)
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube GzIXwOpvvA0 >}}[Música]
 lalá no mercado tudo bem com vocês é
 muito comum que quando a gente fica
 diferente para essa pergunta o que é

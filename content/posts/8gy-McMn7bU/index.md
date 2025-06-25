@@ -5,11 +5,7 @@ title: >
     "Pré-Socráticos", por Casertano: De Creta a Mileto
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-E aí
+{{< youtube 8gy-McMn7bU >}}E aí
 e fala meus caros amigos e amigas uma
 boníssima tarde vamos continuar aqui em
 nossa leitura de pequeno manual acerca

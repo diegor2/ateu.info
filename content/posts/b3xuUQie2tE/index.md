@@ -5,11 +5,7 @@ title: >
     Round 3 - MBL e a normalização do Absurdo
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-o vídeo eu queria eu preciso saber se o
+{{< youtube b3xuUQie2tE >}}o vídeo eu queria eu preciso saber se o
 áudio tá boa você tá tranquilo é bom que
 eu vou treinando que ao mês que vem eu
 vou fazer uma viagem que a gente vai

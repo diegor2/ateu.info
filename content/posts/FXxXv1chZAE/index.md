@@ -5,11 +5,7 @@ title: >
     "Megaman" e o Herói Mal: Nietzsche x Platão - Mito Platônico do Imaculado
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-o documento de tissoco colocar iran tu
+{{< youtube FXxXv1chZAE >}}o documento de tissoco colocar iran tu
 tá catando motor e kabuto e agradeço
 renew a recarga feche te boku no kokoro
 tokashite ai entramos ouvir como vocês

@@ -5,11 +5,7 @@ title: >
     Precisamos falar de China e meu posicionamento político em geral: China zera tarifas
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube vmN3rSIchCg >}}k
 [Música]
 [Música]
 [Música]

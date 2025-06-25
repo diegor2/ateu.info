@@ -5,11 +5,7 @@ title: >
     Em defesa da Democracia, contra Kogos: Terra Não É Plana - Relativismo, Ceticismo e Objetividade
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-per
+{{< youtube 0vlEOvg6I5I >}}per
 [Aplausos]
 [Música]
 nam

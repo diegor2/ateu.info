@@ -5,11 +5,7 @@ title: >
     Gustavo Machado X Alexandre Porto: Por uma retórica séria, a necessidade da referência
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-o esmalte road is where it's at three
+{{< youtube RdJwYWQkizI >}}o esmalte road is where it's at three
 boys novo diy opa aqui ó
 e fala meus queridos meu deus eu não
 posso argumentar com o cabelo ridículo

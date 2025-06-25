@@ -5,11 +5,7 @@ title: >
     Há uma filosofia Cínica em Nando Moura? (Questões em debate #20)
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube BbzPp2uJfN0 >}}[Música]
 [Música]
 travando
 fala meus queridos e minhas queridas

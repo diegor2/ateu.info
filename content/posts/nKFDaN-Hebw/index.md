@@ -5,11 +5,7 @@ title: >
     Gr. 03 - Razão, Interesse, Política e todos os casos dos artigos gregos (República de Platão)
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-e o de Atena e o engraçado é que eu
+{{< youtube nKFDaN-Hebw >}}e o de Atena e o engraçado é que eu
 cresci dentro da se dentro de bares seus
 maus olhares não me são problema eu
 atravessei equitares para tentar quebrar

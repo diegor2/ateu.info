@@ -5,11 +5,7 @@ title: >
     RICARDO RUSSELL - Anarquismo, Comunismo e a História do Ateísmo no Brasil (διάλογος #26)
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube pD4s82OGNDI >}}k
 [Música]
 [Música]
 fala meus queridos e minhas queridas

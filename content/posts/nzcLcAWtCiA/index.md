@@ -5,11 +5,7 @@ title: >
     Live: Pandemia e irracionalidade - Sobre o Ser Racional, Ser Social e a historicidade do homem
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-e aí
+{{< youtube nzcLcAWtCiA >}}e aí
 g1
 é um mané mané tivesse oi beleza é deixa
 eu ver se eu ajeitando aquele negócio

@@ -5,11 +5,7 @@ title: >
     CNU 3: REGIME DISCIPLINAR (da Lei 8.112/90)
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube SMpPWYYDZi8 >}}[Música]
 fala meus queridos amigos tudo bem com
 vocês Deixa eu baixar essa câmera aqui
 coisa estranha eu espero que esteja tudo

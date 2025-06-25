@@ -5,11 +5,7 @@ title: >
     A Verdadeira Guerra dos Tronos - A Origem das Cidades: O Berço da Política:  [Part 1]
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube MlCCanGJcJc >}}[Música]
 [Aplausos]
 [Música]
 muitos dos conceitos que nós utilizamos

@@ -5,11 +5,7 @@ title: >
     Gr. 07: O Capitão descobre o golpe! Reflexão filosófica sobre os Elementos fundamentais do verbo
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-E aí
+{{< youtube qJVtnX_SXyY >}}E aí
 [Música]
 o cartão e aí para mim no rock internet
 se catar ponho o cita rocket-car ó polys

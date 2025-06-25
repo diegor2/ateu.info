@@ -5,11 +5,7 @@ title: >
     Live do desabafo: sobre Bolsonaro e Moro e os "influencers" como políticos
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-e aí
+{{< youtube v9_9W5lvkrs >}}e aí
 e aí
 e aí
 e aqui estojo vamos lá

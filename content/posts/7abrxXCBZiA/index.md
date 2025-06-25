@@ -5,11 +5,7 @@ title: >
     Tudologia: Dia Nacional da União das Esquerdas, Bolsonaro foi indiciado por tentativa de Golpe
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-hoje o gaiofato vai estar no meu canal
+{{< youtube 7abrxXCBZiA >}}hoje o gaiofato vai estar no meu canal
 Mas você disse que não ia aceitar anti
 Iluminista aqui não importa não importa
 Braga Apesar de todas as ras eu não

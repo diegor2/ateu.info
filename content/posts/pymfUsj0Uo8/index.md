@@ -5,11 +5,7 @@ title: >
     Lançamento da Iglésias do Teeteto e síntese da questão estilística (Cambridge Companion to Plato)
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-E aí
+{{< youtube pymfUsj0Uo8 >}}E aí
 E aí
 E aí
 E aí

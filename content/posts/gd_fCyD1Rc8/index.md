@@ -5,11 +5,7 @@ title: >
     Live Pedagógica: Discussão sobre a importância do conteúdo para o processo cognitivo do jovem
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube gd_fCyD1Rc8 >}}k
 [Música]
 [Música]
 fala meus queridos e minhas queridas

@@ -5,11 +5,7 @@ title: >
     Neoludismo hoje é ainda pior do que ludismo original: Não se vence pelo consumo
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube sC2xKyfL5Tk >}}[Música]
 Olha os car vindo cheios de malícia
 dizendo que além do bem do é sua notícia
 fake distorcida, sem base narração,

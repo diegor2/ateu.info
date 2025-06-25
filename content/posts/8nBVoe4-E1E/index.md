@@ -5,11 +5,7 @@ title: >
     Rushando Tucídides III - Democracia e o Xadrez da Guerra
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-E aí
+{{< youtube 8nBVoe4-E1E >}}E aí
 quem
 porém não
 né

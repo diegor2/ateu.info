@@ -5,11 +5,7 @@ title: >
     Tudologia: PEC 66/23 e o capitalismo do eterno recuo, papo honesto
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube fIHbUz9Ag1w >}}k
 [Música]
 [Música]
 fala meus queridos e minhas queridas

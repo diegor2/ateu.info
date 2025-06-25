@@ -5,11 +5,7 @@ title: >
     Fuja para o Ateísmo Militante Estoico Construtivo que não briga mais
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-h
+{{< youtube IUqLiOjXyd0 >}}h
 [Música]
 [Música]
 [Aplausos]

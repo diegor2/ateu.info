@@ -5,11 +5,7 @@ title: >
     À memória de Felipe Baratta Alcântara
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-um dia o velho fazendo esse vídeo aqui
+{{< youtube 8kYHbS8Zp8k >}}um dia o velho fazendo esse vídeo aqui
 pra fazer uma homenagem a uma pessoa um
 rapaz de 32 anos acabou de falecer pouco
 tempo lhe notícia direito mas eu

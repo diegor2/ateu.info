@@ -5,11 +5,7 @@ title: >
     Live Surpresa da Esperança na Educação (Visita ao Setor Leste)
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-estou online
+{{< video src="video" >}}estou online
 no meio da semana quinta feira se tem o
 dia para não bater em ninguém aqui
 esse desvio está metido em bater em

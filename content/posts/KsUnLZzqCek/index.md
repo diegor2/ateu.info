@@ -5,11 +5,7 @@ title: >
     Live: Contra os Anticiências humanas - Erro de Dilthey na Divisão entre "Humanas" e "Naturais"
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-e aí
+{{< youtube KsUnLZzqCek >}}e aí
 bom dia
 e aí
 e aí

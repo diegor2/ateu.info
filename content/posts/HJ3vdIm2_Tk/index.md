@@ -5,11 +5,7 @@ title: >
     TUDOLOGIA COMEMORATIVO: 49.947 inscritos!
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube HJ3vdIm2_Tk >}}[Música]
 [Aplausos]
 [Música]
 é tanta sede no mercado tão voris

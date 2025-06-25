@@ -5,11 +5,7 @@ title: >
     Tudologiazinho algébrico: atualizações e defesa de Descartes
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-เฮ
+{{< youtube A21fR0UwuVg >}}เฮ
 [Música]
 [Música]
 [Música]

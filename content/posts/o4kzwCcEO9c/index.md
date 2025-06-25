@@ -5,11 +5,7 @@ title: >
     Tudologia: Abelhas, Biologia, Socialismo e uma mensagem ao Pirulla
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube o4kzwCcEO9c >}}k
 [Música]
 [Música]
 fala meus queridos e minhas queridas

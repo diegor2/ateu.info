@@ -5,11 +5,7 @@ title: >
     DANIEL CIDADE - PODER E REAÇÃO PÓS-MODERNA (AI διάλογος #14)
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube PHIp-ifduPk >}}[Música]
 [Música]
 [Aplausos]
 [Música]

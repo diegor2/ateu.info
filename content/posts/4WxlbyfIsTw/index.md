@@ -5,11 +5,7 @@ title: >
     Reação: o interessante vídeo do Jones Manoel sobre Industrialização e pós-modernismo
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube 4WxlbyfIsTw >}}k
 [Música]
 [Música]
 fala meus queridos e minhas queridas

@@ -5,11 +5,7 @@ title: >
     Reação - A 2a Guerra e a formação da China Moderna
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-เฮ
+{{< youtube MkBZZYREc14 >}}เฮ
 [Música]
 Fala meus queridos e minhas queridas
 amigas, tudo bem com vocês? Eu espero

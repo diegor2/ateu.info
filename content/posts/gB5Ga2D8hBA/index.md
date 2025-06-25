@@ -5,11 +5,7 @@ title: >
     Escala 6x1: Gustavo Machado e José Kobori detonam VAMPIROS (Kim, Nikolas e Nando) do trabalhador
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube gB5Ga2D8hBA >}}k
 [Música]
 fala meus queridos e minhas queridas
 amigas tudo bem com

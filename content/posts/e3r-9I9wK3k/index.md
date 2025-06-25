@@ -5,11 +5,7 @@ title: >
     Bolsonaro reconhece Biden (e Cover de Andre Antunes): Estética e Política (Comunistislis?)
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-E aí
+{{< youtube e3r-9I9wK3k >}}E aí
 [Música]
 E aí
 [Música]

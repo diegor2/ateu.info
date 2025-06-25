@@ -5,11 +5,7 @@ title: >
     Um desabafo: Qual a finalidade do Youtube? A tragédia da semana
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube dx-LWqjBaP4 >}}[Música]
 [Música]
 boa tarde Tudo bem com vocês eu espero
 que esteja tudo bem com

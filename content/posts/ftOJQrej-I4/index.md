@@ -5,11 +5,7 @@ title: >
     Humor: O caso do Rafael Bastos Hocsman
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-a Vanessa Camargo vai processar o
+{{< youtube ftOJQrej-I4 >}}a Vanessa Camargo vai processar o
 Rafinha Bastos Como já se estenderam
 muito por esse tema eu vou dizer uma
 coisa só tudo bem que a piada do Rafinha

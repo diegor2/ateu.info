@@ -5,11 +5,7 @@ title: >
     Live de agradecimento aos Deuses, os que existem e os que não existem
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube RaXOOO5Bync >}}[Música]
 estou a ouvir o frei
 não
 cadeia nunca fez está certo precisa de

@@ -5,11 +5,7 @@ title: >
     Questões Fundamentais Parte 1 - Da "Questão ontológica" do ENEM de 2016 à Estrutura da Norma Humana
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-a amizade com o tempo de Cronos sempre
+{{< youtube PZjUuvseW_o >}}a amizade com o tempo de Cronos sempre
 passa parece que Poseidon só nos trouxe
 desgraça desde As Caravelas portuguesas
 nada muda todas as riquezas do Brasil

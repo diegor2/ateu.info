@@ -5,11 +5,7 @@ title: >
     Crítica à Gabriela Prioli e seu Estado-capitalismo na questão Petrobrás
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-o novo joia Boy que ser Supremo os novos
+{{< youtube PqEEEZ_SioE >}}o novo joia Boy que ser Supremo os novos
 de eleny e mudou Júnior e aí meus amigos
 tudo bom com vocês eu espero que você
 esteja bem hoje a gente vai tratar de

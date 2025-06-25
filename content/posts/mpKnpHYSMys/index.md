@@ -5,11 +5,7 @@ title: >
     Sextou Afinal: Live Randômica do RPG, Falando mal de todo mundo
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-E aí
+{{< youtube mpKnpHYSMys >}}E aí
 e fala meus amigos acabou que no sorteio
 aqui randômico a gente vai me parar aqui
 nesse caraio é que tá cara vocês tem que

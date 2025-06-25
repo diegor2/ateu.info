@@ -5,11 +5,7 @@ title: >
     Astrologia não é ciência: Como Orvalho de Baralho bagunçou o meio de campo no Brasil?
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube ZUbA7bXEve0 >}}[Música]
 não consigo apertar o botão na hora
 certa bo
 Bom dia meus queridos e minhas queridas

@@ -5,11 +5,7 @@ title: >
     Da origem dos governos divinos aos Helenos: Livro I da Biblioteca de Pseudo-Apolodoro
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-E aí
+{{< youtube gQpvbr0RiVk >}}E aí
 E aí
 E aí
 oi oi

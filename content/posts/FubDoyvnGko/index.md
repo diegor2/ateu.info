@@ -5,11 +5,7 @@ title: >
     JONES MANOEL LIMPA O CHÃO com a dignidade do Mico Leão Gozado: CONSTRANGEDOR, mas necessário
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-Fala meus queridos e minhas queridas
+{{< youtube FubDoyvnGko >}}Fala meus queridos e minhas queridas
 amigas, tudo bem com vocês? Hoje a gente
 vai virar noite, tá? Hoje a gente vai
 virar a noite porque a gente vai o

@@ -5,11 +5,7 @@ title: >
     Gr. 04 - O que é Grécia e por que estudá-la é tão importante? (Lendo o primeiro texto)
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-mais rodas will a forte evento é o reino
+{{< youtube vO8G-rljLlg >}}mais rodas will a forte evento é o reino
 dos céus de londres no próximo mês chega
 a 16 de maio ao time
 o mal também diz carlos lupi e ano sobre

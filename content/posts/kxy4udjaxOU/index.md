@@ -5,11 +5,7 @@ title: >
     TUDOLOGIA FELIZ: Em DEFESA da Candidatura do Humberto Matos pelo PCdoB
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-Rachador. O que é? É um cara que
+{{< youtube kxy4udjaxOU >}}Rachador. O que é? É um cara que
 vai fal
 meus
 amigas, está tudo bem com vocês? Comigo

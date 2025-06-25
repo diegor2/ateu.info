@@ -5,11 +5,7 @@ title: >
     MELISSA CAMBUHY - Razão e Planejamento no Desenvolvimento da China (SASAC's) - AI διάλογος #9
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-E aí
+{{< youtube 6qsb-2oY_Fk >}}E aí
 E aí
 E aí
 [Música]

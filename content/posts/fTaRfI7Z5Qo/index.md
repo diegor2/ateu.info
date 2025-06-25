@@ -5,11 +5,7 @@ title: >
     Prolegômenos para uma Ética Materialista: Conceitos Básicos (Tarefa, Excelência e Animal Político)
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube fTaRfI7Z5Qo >}}[Música]
 abertura
 [Música]
 fala mus deixa eu fechar a porta aqui

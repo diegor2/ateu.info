@@ -5,11 +5,7 @@ title: >
     Entender Direito - Impeachment
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube -x44_sMkxcA >}}[Música]
 [Aplausos]
 [Música]
 pso nunca se direito

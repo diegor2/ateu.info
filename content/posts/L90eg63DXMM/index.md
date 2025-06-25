@@ -5,11 +5,7 @@ title: >
     Tudologia Materialista e Dialélica: Respondendo questões sobre o vídeo anterior
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube L90eg63DXMM >}}k
 [Música]
 [Música]
 fala meus queridos e minhas queridas

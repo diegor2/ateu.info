@@ -5,11 +5,7 @@ title: >
     Convocação para participação do público em apoio ao Jones Manoel
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-h
+{{< youtube 2_qIWgYUBWA >}}h
 [Música]
 [Música]
 [Música]

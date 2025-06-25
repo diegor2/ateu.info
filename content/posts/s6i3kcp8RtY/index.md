@@ -5,11 +5,7 @@ title: >
     Defensor de Ciro Gomes prova meu ponto ao vivasso (Eleições 2022) - Questões em Debate #4
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-e fala meus lá costados fala meus
+{{< youtube s6i3kcp8RtY >}}e fala meus lá costados fala meus
 Barbixas do serj Tankian como é que
 vocês estão eu espero que vocês estejam
 todos bem

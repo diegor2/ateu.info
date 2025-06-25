@@ -5,11 +5,7 @@ title: >
     Falando todos os nomes: porque eu não tenho nenhuma fé no marxismo da internet
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube Cl3iweugdX4 >}}[Música]
 [Música]
 Fala meus queridos e minhas queridas
 amigas, tudo bem com vocês? Eu espero

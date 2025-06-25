@@ -5,11 +5,7 @@ title: >
     Existe Capitalismo sem Estado? Hahahahahahahahahahahahahaha
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-e os amigões tudo bom com vocês fazer um
+{{< video src="video" >}}e os amigões tudo bom com vocês fazer um
 entra imagem nunca mais é isso mesmo
 Será que eu tô com um negócio aqui não
 estou

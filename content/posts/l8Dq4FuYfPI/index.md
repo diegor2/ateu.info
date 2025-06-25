@@ -5,11 +5,7 @@ title: >
     GLÁUCIO GONZALES - Anarquismo: prática, política e cultura - AI διάλογος #10
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-E aí
+{{< youtube l8Dq4FuYfPI >}}E aí
 E aí
 [Música]
 E aí

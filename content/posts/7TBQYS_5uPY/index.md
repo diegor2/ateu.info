@@ -5,11 +5,7 @@ title: >
     Lições de Paulo Gala: o que é o Iluminismo e o que quero dizer por Iluminismo Brasileiro
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube 7TBQYS_5uPY >}}k
 [Música]
 [Música]
 exato isso tem consequências dentro do

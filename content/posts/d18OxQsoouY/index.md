@@ -5,11 +5,7 @@ title: >
     Gr. 05 - Ouça um pilantra em Grego Ático!
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-E aí
+{{< youtube d18OxQsoouY >}}E aí
 [Música]
 a turma LT Ótica eu fale caipiblack
 pegou quero te na tropa inteira noroi o

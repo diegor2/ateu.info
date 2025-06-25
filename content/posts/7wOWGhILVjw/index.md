@@ -5,11 +5,7 @@ title: >
     Ateu Informa: A Mente e Hipóteses Absolutamente Inverificáveis
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube 7wOWGhILVjw >}}[Música]
 ó atpr tu que chegastes a ser alto como
 monte tu que te levastes na forma de
 montanha primordial na mansão de benu em

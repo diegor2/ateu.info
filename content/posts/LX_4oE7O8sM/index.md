@@ -5,11 +5,7 @@ title: >
     ANTÔNIO MIRANDA - Ateísmo: produção social e a questão do Jesus histórico - AI διάλογος #6
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-E aí
+{{< youtube LX_4oE7O8sM >}}E aí
 E aí
 [Música]
 [Música]

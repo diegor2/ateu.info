@@ -5,11 +5,7 @@ title: >
     A NATUREZA das coisas: Marxismo, o que é? E por que estão quase todos infelizes?
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube PN3ewylXB0w >}}[Música]
 k
 fala meus queridos e minhas queridas
 amigas tudo bem com vocês eu espero que

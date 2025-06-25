@@ -5,11 +5,7 @@ title: >
     PROVANDO MEU PONTO -  (Lyotard) E o problema INSUPERÁVEL da FILOSOFIA PÓS-MODERNA
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube NUizU8z3BYg >}}k
 [Música]
 [Música]
 [Aplausos]

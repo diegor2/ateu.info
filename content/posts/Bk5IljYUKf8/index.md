@@ -5,11 +5,7 @@ title: >
     Sim, a Gabriela JANTOU o Monark: crítica à posição do Henry Bugalho
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-eu era só mais um Silva que a estrela
+{{< youtube Bk5IljYUKf8 >}}eu era só mais um Silva que a estrela
 não brilha ele era funkeiro mas era pai
 de família só mais um Silva que a
 estrela não brilha ele era funkeiro mas

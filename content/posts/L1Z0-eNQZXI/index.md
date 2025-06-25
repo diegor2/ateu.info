@@ -5,11 +5,7 @@ title: >
     Tudologia: Preconceito anti-ateísta de esquerda no Social Oportunismo como "argumento"
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube L1Z0-eNQZXI >}}k
 [Música]
 [Música]
 [Aplausos]

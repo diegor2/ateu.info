@@ -5,11 +5,7 @@ title: >
     Flow do Guilherme Freire: Deixem "debate teológico" para liberais, nós debatemos economia e cultura
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-[Música]
+{{< youtube WUJkz0J2vik >}}[Música]
 k
 [Música]
 fala meus queridos e minhas queridas

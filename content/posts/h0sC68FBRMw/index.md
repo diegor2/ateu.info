@@ -5,11 +5,7 @@ title: >
     Teoria Materialista do Conhecimento (Pt. 1 - Onde Berkeley errou)
 featured_image: "thumbnail.webp"
 ---
-
-{{< video src="video" >}}
-
-
-k
+{{< youtube h0sC68FBRMw >}}k
 [Música]
 [Música]
 neba vem brv

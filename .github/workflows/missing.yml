@@ -63,16 +63,16 @@ jobs:
     with:
       video_id: ${{ needs.pick.outputs.video_id }}      
   
-  video:
-    needs: pick
-    uses: diegor2/ateu.info/.github/workflows/video.yml@main
-    with:
-      video_id: ${{ needs.pick.outputs.video_id }}      
+  # video:
+  #   needs: pick
+  #   uses: diegor2/ateu.info/.github/workflows/video.yml@main
+  #   with:
+  #     video_id: ${{ needs.pick.outputs.video_id }}      
   
   convert:
     needs: [download, metadata]
     uses: diegor2/ateu.info/.github/workflows/sub2md.yml@main
 
   publish:
-    needs: [thumb, video, convert]
+    needs: [thumb, convert]
     uses: diegor2/ateu.info/.github/workflows/hugo.yml@main

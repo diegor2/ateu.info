@@ -5,7 +5,7 @@ title: >
     Cyberpunk: Edgerunners e Guterres na ONU  - Comentário ao Meteoro Brasil (Questões em Debate #9)
 featured_image: "thumbnail.webp"
 ---
-{{< video src="video" >}}E aí
+{{< youtube iEfw1xcxifo >}}E aí
 [Música]
 e fala peste som alô meus
 queridos amigos como é que vocês estão

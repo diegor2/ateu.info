@@ -5,7 +5,7 @@ title: >
     Teaser: Deuses da Esplanada
 featured_image: "thumbnail.webp"
 ---
-{{< video src="video" >}}Ok gravando
+{{< youtube IRX3CbxjBio >}}Ok gravando
 gravando toca guitarra aí pra gente ver
 vocêa fazer um back aqui PR
 gente posso depois alguma

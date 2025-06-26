@@ -5,7 +5,7 @@ title: >
     Vamos enfrentar: o exército Zé Cruzadinha de Nandinho Moura, Tiago Braga e Antônio Miranda
 featured_image: "thumbnail.webp"
 ---
-{{< video src="video" >}}e ele mandou esse áudio aqui
+{{< youtube njteztl6eak >}}e ele mandou esse áudio aqui
 historiografico muito ruim muito ruim
 mesmo e eu digo isso baseado nas fontes
 né eu assisti o vídeo inteiro e olhei

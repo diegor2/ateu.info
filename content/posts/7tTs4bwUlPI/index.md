@@ -5,7 +5,7 @@ title: >
     Entre a Unidade Conceitual e a Pluralidade: Sofistas de Diels-Kranz
 featured_image: "thumbnail.webp"
 ---
-{{< video src="video" >}}E aí
+{{< youtube 7tTs4bwUlPI >}}E aí
 e
 fala meus
 queridos e minhas queridas

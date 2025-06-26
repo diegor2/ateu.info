@@ -5,7 +5,7 @@ title: >
     A razão está derrotada? Ou a razão instrumental está vencendo?
 featured_image: "thumbnail.webp"
 ---
-{{< video src="video" >}}as pessoas tudo bem com vocês
+{{< youtube e59hu756wSQ >}}as pessoas tudo bem com vocês
 bom agora eu quero fazer um vídeo
 falando sobre as conseqüências de uma
 análise que eu fiz em relação a todos os

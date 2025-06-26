@@ -5,7 +5,7 @@ title: >
     Laicidade e erro: DEVE o ateu militante defender comunistas religiosos? Sim ou Com certeza?
 featured_image: "thumbnail.webp"
 ---
-{{< video src="video" >}}k
+{{< youtube iQ3p_j5nkjw >}}k
 [Música]
 [Música]
 fala meus queridos e minhas queridas

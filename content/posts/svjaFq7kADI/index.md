@@ -5,7 +5,7 @@ title: >
     Protejam As Janelas! Socorro! - Em Defesa dos Ponderalis
 featured_image: "thumbnail.webp"
 ---
-{{< video src="video" >}}o nosso amor não deu certo gargalhadas e
+{{< youtube svjaFq7kADI >}}o nosso amor não deu certo gargalhadas e
 Lágrimas de perto fomos quase nada tipo
 de amor que não pode dar certo a luz do
 amanhã e desperdiçamos os blues do

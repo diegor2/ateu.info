@@ -5,7 +5,7 @@ title: >
     JOÃO PEDRO FRAGOSO - Socialismo real e posições de Mao Zedong (διάλογος #29)
 featured_image: "thumbnail.webp"
 ---
-{{< video src="video" >}}k
+{{< youtube J_7R6H7haZQ >}}k
 [Música]
 [Música]
 [Música]

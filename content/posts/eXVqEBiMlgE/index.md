@@ -5,7 +5,7 @@ title: >
     Maçonaria, imaginário e Política: O há por trás da questão "Maçonaro"?
 featured_image: "thumbnail.webp"
 ---
-{{< video src="video" >}}[Música]
+{{< youtube eXVqEBiMlgE >}}[Música]
 [Música]
 [Risadas]
 fala

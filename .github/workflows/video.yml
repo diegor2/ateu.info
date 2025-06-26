@@ -36,6 +36,7 @@ jobs:
       - uses: tor-actions/setup-tor@main
         with:
           daemon: true
+          lfs: true
           
       - name: Install yt-dlp
         run: pip install -U yt-dlp

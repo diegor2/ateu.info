@@ -1,6 +1,6 @@
 
 ---
-date: "2024-12-05"
+date: "2024-12-04"
 title: > 
     Reação: Primo Rico comenta Pacote do Ministério da Economia e faz política no Youtube
 featured_image: "thumbnail.webp"

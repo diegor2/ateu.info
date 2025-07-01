@@ -1,8 +1,8 @@
 
 ---
-date: "2022-04-02"
+date: "2022-04-01"
 title: > 
-    Crítica ao Bitcoin do Iberê: História como Mito de Origem
+    youtube video #h-dUwesW3mo
 featured_image: "thumbnail.webp"
 ---
 {{< youtube h-dUwesW3mo >}}o

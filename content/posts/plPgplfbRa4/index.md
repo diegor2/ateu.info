@@ -1,6 +1,6 @@
 
 ---
-date: "2022-07-08"
+date: "2022-07-09"
 title: > 
     Ateísmo se liga a Socialismo? - Questões em Debate #1
 featured_image: "thumbnail.webp"

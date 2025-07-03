@@ -1,6 +1,6 @@
 
 ---
-date: "2024-01-22"
+date: "2024-01-21"
 title: > 
     Bate-papo CNU 1: Código de Ética (Decreto 1.171/94) e Improbidade Administrativa (Lei 8.429/92)
 featured_image: "thumbnail.webp"

@@ -1,6 +1,6 @@
 
 ---
-date: "2024-12-21"
+date: "2024-12-20"
 title: > 
     Sergio Sacani precisa de uma resposta SÉRIA e não de uma resposta pós-moderna
 featured_image: "thumbnail.webp"

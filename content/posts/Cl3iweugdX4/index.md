@@ -2,7 +2,7 @@
 ---
 date: "2025-05-18"
 title: > 
-    Falando todos os nomes: porque eu não tenho nenhuma fé no marxismo da internet
+    youtube video #Cl3iweugdX4
 featured_image: "thumbnail.webp"
 ---
 {{< youtube Cl3iweugdX4 >}}[Música]

@@ -1,6 +1,6 @@
 
 ---
-date: "2022-08-03"
+date: "2022-08-04"
 title: > 
     ANTÔNIO MIRANDA - Ateísmo: produção social e a questão do Jesus histórico - AI διάλογος #6
 featured_image: "thumbnail.webp"

@@ -2,7 +2,7 @@
 ---
 date: "2021-09-11"
 title: > 
-    youtube video #tqfdvAaz9sU
+    Rushando Tucídides II - Tucídides e História Militar
 featured_image: "thumbnail.webp"
 ---
 {{< youtube tqfdvAaz9sU >}}em

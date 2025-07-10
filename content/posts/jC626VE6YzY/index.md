@@ -1,8 +1,8 @@
 
 ---
-date: "2021-06-10"
+date: "2021-06-09"
 title: > 
-    Leitura noturna: Charles H. Kahn e os sentidos do Ser
+    youtube video #jC626VE6YzY
 featured_image: "thumbnail.webp"
 ---
 {{< youtube jC626VE6YzY >}}E aí

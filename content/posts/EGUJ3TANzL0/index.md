@@ -1,6 +1,6 @@
 
 ---
-date: "2024-11-05"
+date: "2024-11-06"
 title: > 
     VERGONHA ALHEIA: Henry Bugalho, "ceticismo" e seu posicionamento sobre Calejon e Jones Manoel
 featured_image: "thumbnail.webp"

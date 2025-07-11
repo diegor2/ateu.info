@@ -1,6 +1,6 @@
 
 ---
-date: "2022-05-10"
+date: "2022-05-11"
 title: > 
     Aprendendo Grego: Para quê? Apresentação e contrato Pedagógico
 featured_image: "thumbnail.webp"

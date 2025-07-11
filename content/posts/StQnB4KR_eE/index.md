@@ -1,6 +1,6 @@
 
 ---
-date: "2024-05-20"
+date: "2024-05-21"
 title: > 
     Vamos continuar brigando, só assim é política: defesa da disputa ABERTA de consciência sem frescura
 featured_image: "thumbnail.webp"

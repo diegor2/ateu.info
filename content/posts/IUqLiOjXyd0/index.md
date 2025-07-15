@@ -1,6 +1,6 @@
 
 ---
-date: "2024-09-22"
+date: "2024-09-21"
 title: > 
     Fuja para o Ateísmo Militante Estoico Construtivo que não briga mais
 featured_image: "thumbnail.webp"

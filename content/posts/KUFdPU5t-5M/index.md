@@ -1,6 +1,6 @@
 
 ---
-date: "2024-02-01"
+date: "2024-02-02"
 title: > 
     Luide, Henry Bugalho e Gustavo Gaiofato: um DESABAFO educadinho sobre organização social
 featured_image: "thumbnail.webp"

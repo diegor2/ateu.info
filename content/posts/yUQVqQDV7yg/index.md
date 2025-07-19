@@ -1,6 +1,6 @@
 
 ---
-date: "2021-02-14"
+date: "2021-02-15"
 title: > 
     A Eclésia de Atenas: Sócrates visita o Pnyx
 featured_image: "thumbnail.webp"

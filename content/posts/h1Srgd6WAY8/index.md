@@ -2,7 +2,7 @@
 ---
 date: "2022-07-06"
 title: > 
-    Por que essa briga? - Porque eu tô brabo (2022)
+    youtube video #h1Srgd6WAY8
 featured_image: "thumbnail.webp"
 ---
 {{< youtube h1Srgd6WAY8 >}}E aí

@@ -1,6 +1,6 @@
 
 ---
-date: "2021-05-08"
+date: "2021-05-07"
 title: > 
     Sextou Afinal - CPI do Sextou, qual a responsabilidade dos comunicadores profissionais?
 featured_image: "thumbnail.webp"

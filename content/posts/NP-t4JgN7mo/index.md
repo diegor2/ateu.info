@@ -1,6 +1,6 @@
 
 ---
-date: "2024-04-01"
+date: "2024-03-31"
 title: > 
     Em defesa de Aristóteles? - Reconhecimento do "valor", que antecipa Marx (2ª Parte de A Política)
 featured_image: "thumbnail.webp"

@@ -1,6 +1,6 @@
 
 ---
-date: "2019-07-23"
+date: "2019-07-24"
 title: > 
     Porque eu desisti de política (duas funções da linguagem de se notar)
 featured_image: "thumbnail.webp"

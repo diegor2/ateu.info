@@ -1,6 +1,6 @@
 
 ---
-date: "2024-05-27"
+date: "2024-05-26"
 title: > 
     A Ingenuidade: Nas Análises Históricas e Nos Debates
 featured_image: "thumbnail.webp"

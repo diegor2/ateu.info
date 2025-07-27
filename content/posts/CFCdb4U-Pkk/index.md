@@ -1,6 +1,6 @@
 
 ---
-date: "2021-03-17"
+date: "2021-03-16"
 title: > 
     Comentário crítico à Crítica ao "Campismo" feita por Gustavo Machado
 featured_image: "thumbnail.webp"

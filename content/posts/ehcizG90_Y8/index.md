@@ -1,6 +1,6 @@
 
 ---
-date: "2024-12-11"
+date: "2024-12-10"
 title: > 
     Fechamento de Semestre - Bate-Papo sobre a profissão de professor
 featured_image: "thumbnail.webp"

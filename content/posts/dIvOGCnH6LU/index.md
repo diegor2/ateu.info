@@ -1,6 +1,6 @@
 
 ---
-date: "2021-03-01"
+date: "2021-03-02"
 title: > 
     Heródoto no Pelo: Fonte e "Prova Científica" - Início (I a V) do Livro I (Clio)
 featured_image: "thumbnail.webp"

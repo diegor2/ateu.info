@@ -1,6 +1,6 @@
 
 ---
-date: "2021-02-26"
+date: "2021-02-25"
 title: > 
     Crítica à Gabriela Prioli e seu Estado-capitalismo na questão Petrobrás
 featured_image: "thumbnail.webp"

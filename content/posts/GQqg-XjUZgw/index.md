@@ -1,6 +1,6 @@
 
 ---
-date: "2020-10-13"
+date: "2020-10-14"
 title: > 
     Leitura: Desmistificando os Sofistas - Sabedoria e Política
 featured_image: "thumbnail.webp"

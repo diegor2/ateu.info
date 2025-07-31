@@ -2,7 +2,7 @@
 ---
 date: "2020-05-30"
 title: > 
-    youtube video #TsrVo7N6fsQ
+    Materialidade e Simbolismo: Eu apoio mais a Comunicação do Jones Manoel do que do Henry?
 featured_image: "thumbnail.webp"
 ---
 {{< youtube TsrVo7N6fsQ >}}e aí

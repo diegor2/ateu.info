@@ -1,6 +1,6 @@
 
 ---
-date: "2024-01-26"
+date: "2024-01-27"
 title: > 
     REACT ao PIRULA: Jones Manoel na Política e o Argumento do Velho Cansado
 featured_image: "thumbnail.webp"

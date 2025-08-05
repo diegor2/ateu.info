@@ -1,6 +1,6 @@
 
 ---
-date: "2024-04-28"
+date: "2024-04-27"
 title: > 
     Teoria Materialista do Conhecimento (Pt. 1 - Onde Berkeley errou)
 featured_image: "thumbnail.webp"

@@ -2,7 +2,7 @@
 ---
 date: "2012-05-24"
 title: > 
-    A Política: Função Estatal, Efeito "Quis custodiet ipsos custodes" e Função Popular
+    youtube video #LpO887NUbF8
 featured_image: "thumbnail.webp"
 ---
 {{< youtube LpO887NUbF8 >}}se você tá indignado com o governo e tem

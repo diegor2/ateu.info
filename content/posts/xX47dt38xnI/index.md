@@ -1,6 +1,6 @@
 
 ---
-date: "2024-12-18"
+date: "2024-12-17"
 title: > 
     Complementando o vídeo do Pirula sobre Preconceito com ateus (e com comunistas)
 featured_image: "thumbnail.webp"

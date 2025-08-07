@@ -1,6 +1,6 @@
 
 ---
-date: "2021-04-09"
+date: "2021-04-08"
 title: > 
     Relativo X Subjetivo: O dinheiro em Aristóteles (EN 1133b) e a Episteme de Protágoras  (Tht. 152a)
 featured_image: "thumbnail.webp"

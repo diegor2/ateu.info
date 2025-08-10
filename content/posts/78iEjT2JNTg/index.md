@@ -1,6 +1,6 @@
 
 ---
-date: "2024-01-18"
+date: "2024-01-19"
 title: > 
     Ressignificando "Guerra de Posição" em Gramsci: O combate ao MBLismo Olavista e ao Pessimismo
 featured_image: "thumbnail.webp"

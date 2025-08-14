@@ -1,6 +1,6 @@
 
 ---
-date: "2023-11-19"
+date: "2023-11-18"
 title: > 
     Reagindo a Nicolelis: Como desenvolver a ciência do país?
 featured_image: "thumbnail.webp"

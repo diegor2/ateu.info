@@ -1,6 +1,6 @@
 
 ---
-date: "2024-11-05"
+date: "2024-11-04"
 title: > 
     Leitura: Anton Amo - O Iluminista avant la lettre de Gana
 featured_image: "thumbnail.webp"

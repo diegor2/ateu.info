@@ -1,6 +1,6 @@
 
 ---
-date: "2021-06-01"
+date: "2021-05-31"
 title: > 
     Gr. 06 - Avançando para o Verbo
 featured_image: "thumbnail.webp"

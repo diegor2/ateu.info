@@ -1,6 +1,6 @@
 
 ---
-date: "2024-08-27"
+date: "2024-08-28"
 title: > 
     Não Filósofo de nenhuma corrente reage a Daniel (Iluminismo Pós Moderno): e não manda nenhum aviso
 featured_image: "thumbnail.webp"

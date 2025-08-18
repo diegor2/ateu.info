@@ -1,6 +1,6 @@
 
 ---
-date: "2022-09-02"
+date: "2022-09-03"
 title: > 
     Combater o NPC do NOVO e funções do discurso público: Questões em Debate #6
 featured_image: "thumbnail.webp"

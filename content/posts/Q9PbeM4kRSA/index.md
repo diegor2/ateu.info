@@ -1,6 +1,6 @@
 
 ---
-date: "2022-07-27"
+date: "2022-07-28"
 title: > 
     DAVID AYROLLA - Divulgação Científica em tempos de negação da ciência - AI διάλογος #5
 featured_image: "thumbnail.webp"

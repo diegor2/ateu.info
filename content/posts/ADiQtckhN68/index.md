@@ -1,6 +1,6 @@
 
 ---
-date: "2019-11-27"
+date: "2019-11-26"
 title: > 
     O pior meme "consertado" da história (6 ou 9?)! - Interpretação como uma técnica complexa
 featured_image: "thumbnail.webp"

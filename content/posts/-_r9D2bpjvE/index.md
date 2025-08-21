@@ -1,6 +1,6 @@
 
 ---
-date: "2021-05-29"
+date: "2021-05-28"
 title: > 
     Sextou Afinal: Felipe Neto e Capitalismo + Notícia de possível racionamento de energia
 featured_image: "thumbnail.webp"

@@ -1,6 +1,6 @@
 
 ---
-date: "2022-03-27"
+date: "2022-03-28"
 title: > 
     Entre a Unidade Conceitual e a Pluralidade: Sofistas de Diels-Kranz
 featured_image: "thumbnail.webp"

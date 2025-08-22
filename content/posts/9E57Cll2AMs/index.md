@@ -1,6 +1,6 @@
 
 ---
-date: "2021-02-27"
+date: "2021-02-28"
 title: > 
     #2 Encontro dos Guarás: Petrobrás e Conjuntura
 featured_image: "thumbnail.webp"

@@ -1,6 +1,6 @@
 
 ---
-date: "2022-08-11"
+date: "2022-08-10"
 title: > 
     ALLAN TOSTA - Computação Quântica e Materialidade: Pressupostos e Aplicação - AI διάλογος #7
 featured_image: "thumbnail.webp"

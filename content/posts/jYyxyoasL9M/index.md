@@ -1,6 +1,6 @@
 
 ---
-date: "2019-09-22"
+date: "2019-09-21"
 title: > 
     Religião e Terra Plana "Inofensivo"? - Um papo sério para o Eli Vieira
 featured_image: "thumbnail.webp"

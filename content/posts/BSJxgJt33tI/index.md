@@ -1,6 +1,6 @@
 
 ---
-date: "2024-11-03"
+date: "2024-11-04"
 title: > 
     Tudologia - ENEM pós-moderno de humanas, algumas considerações
 featured_image: "thumbnail.webp"

@@ -1,6 +1,6 @@
 
 ---
-date: "2023-10-24"
+date: "2023-10-25"
 title: > 
     É Comunista e não é Irracionalista? O Anti-iluminismo e Anti-Lêninismo dos marxistas do Youtube
 featured_image: "thumbnail.webp"

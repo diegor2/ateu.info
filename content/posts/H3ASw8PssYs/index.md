@@ -1,6 +1,6 @@
 
 ---
-date: "2021-02-16"
+date: "2021-02-17"
 title: > 
     "Pré-Socráticos", por Casertano: De Mileto a Hípon, o Ateu (naturalismo e condenações de "ateísmo")
 featured_image: "thumbnail.webp"

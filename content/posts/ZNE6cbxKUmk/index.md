@@ -1,6 +1,6 @@
 
 ---
-date: "2025-07-29"
+date: "2025-07-28"
 title: > 
     Tdlogics: Trump nega Netanyahu sobre fome em Gaza, Brasil sai do mapa da Fome e Lula Estala Chicote
 featured_image: "thumbnail.webp"

@@ -1,6 +1,6 @@
 
 ---
-date: "2021-03-03"
+date: "2021-03-04"
 title: > 
     Estilometria e Cronologia - Platão - (Leonard Brandwood, 1992, Cambridge Companion to Plato)
 featured_image: "thumbnail.webp"

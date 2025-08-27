@@ -1,6 +1,6 @@
 
 ---
-date: "2019-09-07"
+date: "2019-09-06"
 title: > 
     Live de como dizer algo "sem dizer algo"
 featured_image: "thumbnail.webp"

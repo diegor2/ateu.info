@@ -1,6 +1,6 @@
 
 ---
-date: "2020-11-29"
+date: "2020-11-30"
 title: > 
     O Que É Justica - Livro I da República de Platão
 featured_image: "thumbnail.webp"

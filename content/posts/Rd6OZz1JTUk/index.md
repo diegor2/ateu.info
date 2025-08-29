@@ -1,6 +1,6 @@
 
 ---
-date: "2024-03-01"
+date: "2024-02-29"
 title: > 
     Tire as mãos de Trotsky, camarada Safatle: a esquerda NÃO morreu, só parou de visitar clássicos
 featured_image: "thumbnail.webp"

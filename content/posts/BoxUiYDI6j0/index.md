@@ -1,6 +1,6 @@
 
 ---
-date: "2024-07-21"
+date: "2024-07-22"
 title: > 
     WANDERLEY CODO - O Livro "A BÍBLIA PROTOFASCISTA" (διάλογος #25)
 featured_image: "thumbnail.webp"

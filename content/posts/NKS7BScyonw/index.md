@@ -1,8 +1,8 @@
 
 ---
-date: "2022-10-30"
+date: "2022-10-31"
 title: > 
-    youtube video #NKS7BScyonw
+    Bate-papo sobre a Eleição de Lula (Questões em debate #16)
 featured_image: "thumbnail.webp"
 ---
 {{< youtube NKS7BScyonw >}}teste

@@ -1,6 +1,6 @@
 
 ---
-date: "2021-06-28"
+date: "2021-06-27"
 title: > 
     Leitura Noturna: Por que tu critica o Aristotelerson?
 featured_image: "thumbnail.webp"

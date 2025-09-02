@@ -1,6 +1,6 @@
 
 ---
-date: "2020-06-04"
+date: "2020-06-03"
 title: > 
     Direito Formal e Racismo Estrutural: A Canalhice Do 13/50
 featured_image: "thumbnail.webp"

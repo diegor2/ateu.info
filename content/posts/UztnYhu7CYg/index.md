@@ -1,6 +1,6 @@
 
 ---
-date: "2021-09-04"
+date: "2021-09-03"
 title: > 
     Sextou - Amor e Ódio na Política: Ancaps, dividir a rachadinha fere o PNA?
 featured_image: "thumbnail.webp"

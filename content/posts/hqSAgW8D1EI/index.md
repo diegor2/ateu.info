@@ -1,6 +1,6 @@
 
 ---
-date: "2020-04-16"
+date: "2020-04-15"
 title: > 
     Live: Há problema em ter "Fé na ciência"? - ἀλήθεια: Verdade, Convicção e crença justificada
 featured_image: "thumbnail.webp"

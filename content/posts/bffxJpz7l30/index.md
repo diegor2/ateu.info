@@ -1,6 +1,6 @@
 
 ---
-date: "2022-09-08"
+date: "2022-09-09"
 title: > 
     Discursos e poder: O fálico (imbrochável), Morte da rainha e Ascensão da China Questões em Debate #6
 featured_image: "thumbnail.webp"

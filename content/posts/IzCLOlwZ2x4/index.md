@@ -1,6 +1,6 @@
 
 ---
-date: "2020-10-07"
+date: "2020-10-08"
 title: > 
     A Arte e a Vida: Uma Metáfora em The Boys x "Maior Julgamento de Fascistas Desde Nuremberg"
 featured_image: "thumbnail.webp"

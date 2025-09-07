@@ -2,7 +2,7 @@
 ---
 date: "2025-06-27"
 title: > 
-    youtube video #L_bIid9ZVjs
+    Tudologia: RAIOS DE CADEIA E TELEVISÃO, Elias na UnB, Luide e eu estamos em acordo nisso
 featured_image: "thumbnail.webp"
 ---
 {{< youtube L_bIid9ZVjs >}}[Música]

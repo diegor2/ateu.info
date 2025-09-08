@@ -1,6 +1,6 @@
 
 ---
-date: "2019-06-24"
+date: "2019-06-23"
 title: > 
     Live da guerra cultural (kulturkampf), do "Democracia em vertigem" e das tretinhas de Youtóba
 featured_image: "thumbnail.webp"

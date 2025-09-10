@@ -1,6 +1,6 @@
 
 ---
-date: "2022-08-19"
+date: "2022-08-20"
 title: > 
     GLAUBER ATAÍDE - Consciência do trabalhador e Marxismo no jovem Lukács - AI διάλογος #8
 featured_image: "thumbnail.webp"

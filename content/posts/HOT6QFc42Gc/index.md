@@ -1,6 +1,6 @@
 
 ---
-date: "2022-05-14"
+date: "2022-05-15"
 title: > 
     Gr. 08: A fuga dos pilantras - Contração verbal e advérbios
 featured_image: "thumbnail.webp"

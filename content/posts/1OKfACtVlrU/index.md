@@ -1,6 +1,6 @@
 
 ---
-date: "2021-01-13"
+date: "2021-01-12"
 title: > 
     Aгитация #1 - A Decisão Política da Ford: Causa? Paulo Guedes, falta de Paulo Gados ou Capitalismo?
 featured_image: "thumbnail.webp"

@@ -1,0 +1,2139 @@
+
+---
+date: "2025-07-08"
+title: > 
+    Bernie Sanders opina sobre o motivo do sucesso de Zohran Mamdani: AGENDA POSITIVA (POSITIVISMILIS)
+featured_image: "thumbnail.webp"
+---
+{{< youtube xNTUeBW_ZOM >}}[Música]
+Fala meus queridos e amigas, queridos e
+amigos, tudo bem com vocês? Espero que
+esteja tudo bem com vocês. O
+escaralhamento da minha imagem na
+internet não para, não para, não para,
+não para não. E nós responderemos o
+escaralhamento que estamos recebendo com
+proposições
+propositivamente.
+Certo. Tem uma piada no título, né? Tem
+tem
+tá escrito errado. Tá tá burn de de
+queimado. Pera aí, [ __ ] Pera aí, deixa
+eu corrigir aqui.
+Burn. Burn, Burn.
+Certo? Então vai ser um vídeo curtinho,
+tá?
+Vídeo curtinho. A gente tem que lembrar
+de quando a gente recebe escaralhamento
+da na internet, certo? Quando a gente
+recebe escaralhamento na internet, a
+gente tem que lembrar de Jesus Cristo,
+certo? Tem que lembrar de Jesus Cristo.
+Jesus Cristo não agradou a todos.
+Quem sou eu?
+Quem sou eu para agradar a todos?
+Não quero agradar todos. Não é possível.
+E ainda direi, ainda direi:
+"Perdoai, Senhor, esses que me
+escaralham. Eles não sabem
+o que fazem.
+Tem até apelidinho agora, né, pra gente.
+Tem até apelidinho pra gente. Veja só,
+veja só. Deixa eu
+eh
+veja só, eu achei esse vídeo aqui acabou
+de sair no canal do Burn Sanders, tá?
+Eh, se vocês puderem, por favor,
+subscrevam-se no canal do Burn Sanders e
+deem like no Burn Sanders, tá? O Burn
+Sanders é um velhinho muito legal. Eh,
+veja só, o o por algum motivo estranho,
+não tá entrando os subtitles aqui, não
+tá entrando a legenda. Então vocês aí do
+inglês, vocês vão me ajudar, tá?
+Eh,
+não, tá? Taís, Thaís, Thís disse assim,
+ó: "Até sabem". Vamos, vamos, vamos
+conversar aqui sobre religião. Thaís
+disse assim: "Até sabem, são apenas
+desonestos mesmo. Mas veja, tem um pouco
+de Platão no cristianismo. As pessoas
+fazem o que elas fazem porque elas
+acreditam que é o certo.
+Certo.
+Elas não sabem o que é o certo. Elas não
+estão com a verdade. Você sabe que
+conheceis a verdade, a verdade vos
+libertará. Tá escrito?
+Então, não sabendo que é o certo, o
+correto, eles cometem equívocos.
+Eles cometem equívocos. Tem, tem que tem
+que saber perdoar, Thís. A gente tem que
+a gente tem que saber perdoar. Mas veja
+só, eh,
+veja só. Eh, cara, assim, não tem como,
+já eu já disse para vocês, não tem como
+não levar mais no muro agora. Tá, agora
+já tá muito engraçado, pô. Agora já tá
+muito engraçado, não tem como não levar
+no M. Veja só. Eh, então, como eu disse,
+não tá rodando aqui bem o subtitle, né?
+Eh, aliás, hoje a gente deu passos a
+mais, tá? Sobre a a APCE. A PCE tá
+rolando.
+Ah,
+né? Eh, não, mas [ __ ] Jim, foi, foi o
+maior. Pera aí, pera aí. Não, você pera
+aí. Vamos conversar sério. Vamos
+conversar sério, né?
+Eh,
+veja só, vamos conversar sério, né? Eu
+fiz a piada, brinquei com Lula, falei
+que Lula é painho, não sei quê. L gente
+boa para [ __ ] [ __ ] né? Brinquei e
+tal e falei o seguinte: "Olha, também St
+cometeu seus erros." É porque todos eles
+são metidos a dizer a mesma coisa, né?
+Não, eu assumo que Stalin cometeu seus
+erros, mas eu não faria a mesma coisa
+que Kruchev fez, né? quer jogar na lata
+de lixo toda a história do comunismo por
+causa disso, como eu acho que é errado
+jogar toda na lata de lixo, né, toda
+a história do planeta da esquerda e do
+PT e etc e tal, porque o Lula não é
+perfeito assim, né, né? Vamos, vamos
+combinar que a analogia é boa e é
+engraçada. Era uma piada, né? Era era
+uma piada. Agora, se os caras forem
+levar a piada a sério, é assim,
+se os se os caras levarem a piada a
+sério, é porque eles sentiram muito, né?
+Mas vamos lá. Eh,
+que que eu tava dizendo?
+JC, [ __ ] tem que se comparar a JC. JC
+é gente boa, pô. Que mata é o fã clube,
+né? Que maté fã clube já tá ser gente
+boa.
+Então
+eu sinceramente ficaria muito mais puto
+se me chamasse de cruevita. Exato.
+Eu sei que nós vão pegar coisevita,
+pô. Os caras são cruevit. Vou ficar
+puto. Vamos pegar. Mas veja só. Vamos
+falar série, gente. Vocês não me deixam
+falar série. 30 segundos, cara. Cara,
+não tem como não levar
+a Ah, não tem condição, gente. Condição.
+Ah, não tem condição. Não tem con vocês
+vão me desculpar. Não tem condição. Eh,
+tá. Então, deixa então. O que que eu
+quero destacar nessa fala? Eu já tinha
+visto essa fala do ã do Burn na MSNBC,
+tá? Que é o original. De onde vem isso.
+Aliás, eu podia achar, né? Deixa eu ver.
+Mas aí vai ter que achar o trecho. Vai
+ser difícil. Bernanders.
+Eu tenho uma uma e eh
+eu tenho uma MSN NBC. Deixa eu, deixa eu
+são 12 minutos. A gente pode 12 minutos
+de entrevista. Deixa eu ver se tá em
+português.
+É por algum motivo estranho. Não tá.
+Deixa eu dar um F5 aqui. Por algum
+motivo estranho não tá entrando a
+legenda.
+Rapidão.
+Pera aí, pera aí, pera aí. Tá,
+por algum motivo muito esquisito não tá
+entrando a legenda, mas enfim, não tá
+entrando outro também.
+Ah, subtitles.
+Eu não sei porque que não tá entrando a
+legenda. Auto generated.
+Pera aí. Autogenerated tá entrando. Pera
+aí.
+Autanslate. Ah, vai entrar sim. Quer
+ver? Quer ver que vai entrar assim? Lá
+ele.
+Pera aí. Auto. Auto. Aí.
+[Risadas]
+Sou mago das internet. Sou mago das
+internet. Tá bom. Eh, vamos lá.
+Vamos lá.
+Você, você quer entrar mesmo? Ô, ô, ô,
+Link, se você quiser entrar mesmo,
+se você quiser entrar mesmo,
+você me fala se você tá falando sério,
+porque o bagulho vai ficar doido. Mas eu
+queria que vocês assistissem esse vídeo
+aqui. Ah, porque eu quero mostrar assim,
+pela visão de um velhinho como Burne,
+que venceu eleições com, né, ganhou já,
+eu acho que foi uma prefeitura ou foi um
+governo, não sei, gente, eu não conheço
+a história do Banny, mas tem uma coisa
+que ele vence, vence de novo com
+aprovação gigantesca e etc e tal e etc e
+tal. Tá, o Banny só não veio pra
+presidência da República porque ele
+cedeu lá nas disputas internas, tomou
+uma uma golpagem lá interna e não veio,
+mas era para view burn pra presidência
+da República, etc e tal. E agora ele tá
+fazendo o elogio do Zoran. Aí o que que
+ele vai dizer? Ele vai dizer: "O Zorhan
+faz sucesso,
+certo? O Zohan faz sucesso. Manda link,
+né? [ __ ] convidar link é uma caralha
+mesmo. Aparece aqui do nada. Que vontade
+de mijar, velho. Eu não posso levantar
+que eu tô de cueca. Gmail.
+Tá. Eh,
+como é que é o nome do Alexandre?
+Alexandre que ele me mandou. Alexandre
+não, link.
+Link. Achei.
+Ai, [ __ ]
+Responder quadrinhos,
+tá? Te mandei o link aí, tá? Eu só não
+vou te deixar entrar agora porque você
+deixar eu terminar o raciocínio, tá ali?
+Só para deixar terminar o raciocínio, tá
+bom?
+Só para deixar o terminar o raciocínio.
+Então, ah,
+o que eu quero mostrar para vocês é que
+o Burn tá apontando, olha só, não basta
+ter um ter um um aborretórico, o que ele
+tem, não basta ser bonitão, o que ele é,
+não basta pá pá pá, que é também, né? O
+que que tem que ter? Você tem que ter
+uma proposição, você tem que ser
+propositivo, você tem que ser animador.
+Em resumo, o que o que o Zoran tá o que
+o Burn tá falando aqui é a mesma coisa
+que o Link fala, inclusive, certo? Não
+pode ser reativo. Ou seja, o que eu tô
+tentando apontar lá na política do
+Jones, inclusive a gente vai poder ter
+ter uma um papo desse muito bom, porque
+o Link pensa a mesma coisa que eu.
+Quando é que o Jones escaralha mesmo e
+ele faz sucesso e todo mundo ama e etc e
+tal, quando ele apresenta-se como um
+lord. Em que sentido? Que como um lord é
+um cara que veio propor umas paradas,
+que ele sabe o que tá fazendo e etc e
+tal, e tem muita proposta e vai vir e
+vai acontecer. Ã, quando você tá só
+reagindo ao que os outros estão fazendo,
+isso desgasta a sua própria imagem. É o
+que eu tô tentando dizer pro pro Jones o
+tempo todo e pra galera toda que tá
+seguindo, né? Então eu não tô tentando
+jogar contra, eu tô tentando mostrar
+isso. Vai dar uma merda do [ __ ] e eu
+não quero ficar apertado nessa mão de
+pântano aí porque vai dar uma merda e tá
+todo mundo enxergando que vai dar uma
+merda. Então veja a aqui a gente tem o
+caso em que ele fala: "Olha, ele não fez
+uma política voltada para falar mal do
+governo do Trump". Isso não tem
+funcionalidade. O que tem funcionalidade
+é apresentar proposição, tá? Então você
+vai ver agora
+grit
+around agors
+because
+you know what
+time
+income and wealth inequality yeah we are
+going to ask the richest people in New
+York City to pay their fair share of tax
+so among other things we can we can add
+the ma cris newer
+[Risadas]
+Pereira o homem é bonit carismático e
+também propõe ah não. caso
+boa boa.
+Uma agenda positiva. Vocês entenderam?
+Vocês Vocês entenderam o que eu quero
+dizer? Tem que ter agenda positiva, pô.
+Tem que ter agenda positiva. O que que
+você tá propondo? do que que você vem,
+etc e tal. Tem que ser propositivo. Se
+ficar nessa
+espécie de rancorosismo com o PT, só vai
+[ __ ] a esquerda inteira,
+certo? Então você tem, olha, a minha
+proposta é essa, eu venho com isso, a
+gente vai para cá, tal, e é isso e tal.
+Cadê?
+Eu mandei o link lá, eu eu fiz uma piada
+com isso, tá, gente? Agenda positivista
+é positivismo. Eu tô brincando, tá? Para
+quem, né? Não, não entendeu? Eu sei que
+o Mateus também provavelmente tá tá de
+de brincadeira, né? Mas assim,
+positivismo tem nada a ver com isso, é
+só uma piada, né? Importante dizer isso
+pras pessoas, porque as pessoas às vezes
+elas escutam as coisas e acham que é
+verdade, né? Quando a gente tá só
+brincando,
+certo? Não apenas ficar falando mal do
+governo.
+É uma frase, é um, é um, é um, é
+simples, né?
+Vocês nem vocês nem estavam vendo, né?
+Tava fora da tela, mas ai, [ __ ]
+Bota.
+Vou botar. Calma, gente. Calma, gente.
+Vocês também são muito apressadinhos.
+Vou botar, vou botar. Calma. Vamos
+voltar aqui só paraa parte, né?
+Certo? Não ficar só correndo atrás do
+governo. Ah, ele fez isso. Ah, ele falou
+assado. Ah, você viu isso. Ah, você viu
+que isso é chato. Isso é chato. Você
+além de tudo é chato para [ __ ] Chato
+para [ __ ] Então, cadê uma agenda
+propositiva do ponto de vista retórico?
+A gente tá falando como é que você
+aglomera pessoas à sua volta com a
+proposta.
+Certo. Uma mensagem bem bem simples, né?
+Ah, o
+Pronto, eu acabei meu vídeo.
+Eu eu acabei meu vídeo.
+Não sei. Eu eu vi que o, por exemplo, o
+Jones deu parabéns para ele. Eu eu vi
+isso que ele deu parabéns paraa vitória
+lá do cara, etc e tal. Mas seria legal,
+né? A galera se dispa, a perder um bom
+tempo falando sobre isso e tal.
+Mas cadê o cadê o link, [ __ ] Eu
+preciso. Cadê o link? Eu acabei o vídeo.
+O vídeo era sobre isso, sim. Eu não
+tenho mais muito o que dizer.
+Vou mijar. Vou mijar porque assim, por
+muito menos as pessoas já tiveram muitos
+problemas piores de saúde, sabe? Então
+vou mijar.
+Tchau para vocês.
+Vou mijar.
+Então, mas se for falar do Petro, fala
+do quanto o Petro faz elogio pro PT
+também.
+ou eh teve uma vez que
+teve uma vez que eu fui no banheiro.
+Teve uma vez que eu fui no banheiro.
+É por, cara, é porque assim,
+é que vocês estavam ouvindo,
+é que eu falei aqui, [ __ ] [ __ ]
+vocês são chato para [ __ ] tá ligado?
+Tá, e esse esse esse não é o meu quarto,
+tá? informação importante. Eh, esse não
+é o meu quarto, é o quarto que a gente a
+gente alugou de propósito esse lugar com
+dois ah, com dois
+a gente alugou com dois quartos. Esse é
+o quarto de gravar, tá? Esse é o quarto
+de gravar importante. Esse não é o meu
+quarto, eu não durmo aqui, tá? Isso é
+importante. Não durmo aqui. E eu lavei a
+mão, sim. Você tá de sacanagem, pô. Eu
+lavei a mão. Dessa vez eu lavei a mão.
+Mas teve uma vez que teve uma vez teve
+uma vez que eu fiz exatamente isso que
+eu saí pro Bij e voltei sem lavar a mão.
+Eu lavei a mão. Vou tomar no cu. Eu
+lavei a mão sim.
+Eu lavei a mão sim. Mas teve uma vez,
+teve uma vez. Mas lavei, lavei dentro
+vez porque teve uma vez que foi, ó, você
+tá de sacanagem, pô. Mas teve uma vez,
+deixa eu contar para vocês, teve uma vez
+que eu fui no banheiro mesmo, tá? Eu
+lavei a mão
+e e que realmente eu fui lá mijar e
+voltei correndo aqui e não lavei a mão e
+a galera ficou ficou zoando, né, Link?
+Deixa eu te contar essa história. Deixa
+eu te contar essa história. Ah, meu
+áudio tá voltando.
+Conta.
+Meu áudio tá voltando.
+Tu
+tá a Ah, tá te ouvindo? É, pera aí. Bot,
+eu boto o fone de ouvido. Pera aí.
+P só me dá trabalho, cara.
+A vida não é fácil para ninguém. Tá, tá
+indo.
+Pronto. Tá feliz agora?
+Melhor.
+Eh, então, ó, eh, eu acabei de ir no
+banheiro ali, aí o pessoal tava me
+zoando que eu não lavei a mão. Só que eu
+fiz muita questão de lavar a mão, muita
+questão, porque teve uma vez que eu fui
+no no banheiro e eu não lavei a mão.
+Exatamente. Mesma coisa. E aí a galera
+ficou me zoando. Eu só lembrava do
+episódio de South Park. Do episódio de
+South Park. que eu vi, eu fui correndo e
+vim correndo e tal, aí a galera, ah,
+você não lavou a mão? E eu não tinha
+lavado a mão mesmo. Isso era verdade.
+Essa vez tinha acontecido mesmo. E aí eu
+e eu lembro do episódio de Soft Park que
+o pessoal falava assim: "Ué, mas eu
+tenho que lavar a mão é para para pegar
+nas minhas partes, né? Depois não,
+minhas minhas partes são limpinhas, pô".
+Ah, por que que eu precisaria lavar a
+mão depois?
+É, vai depender do quanto que as partes
+estão limpas, né? Assim,
+Exato. Eu tô limpinho, pô. Eu lavo, eu
+lavo antes e depois porque eu não tomo
+banho direito, né, cara? Então eu eu
+costumo lavar antes e depois,
+mas tem vezes que eu esqueço, tá ligado?
+Às vezes eu também esqueço, eu também
+sou esquecido nessa parte assim.
+É, o meu o meu problema na real é
+esquecer de puxar descarga, cara. Eu
+costumo visitar o meu cocô. Eu eu
+costumo visitar muito o meu cocô depois
+porque, sei lá, eu sou meio apegado.
+Aí, ó,
+mas mas e e a parada de não baixar a a a
+tampa da privada e e fazer as outras
+pessoas caírem no na persa?
+Ah, isso. Ah, isso também também.
+Muit muitas inimizades são feitas,
+muitos casamentos acabam.
+Sim, sim, sim. Não, eu eu comecei, por
+exemplo, eh eh o homem geralmente acorda
+de pau duro, né, cara? Então, por
+exemplo, eu crio o hábito de fazer xixi
+quando eu acordo sentado, porque, [ __ ]
+eu mijava no teto, né? Assim, tinha,
+eu tinha o hábito de sair mijando tudo
+assim e aí eu disse: "Não, [ __ ] se eu
+vou conviver com outras pessoas, né, com
+outras mulheres, [ __ ] vamos, né, mijar
+sentado, pelo menos na a primeira mijada
+do dia tem que ser sentado."
+É, porque assim, se você mijar no chão,
+tudo bem, mas no teto é pai porque fica
+pigando depois, né?
+Não é não. É terrível, terrível. Tu não
+tem, tu já não aconteceu assim de, por
+exemplo, já te fazer xixi, aí tu vai lá,
+tu mira, de repente vai pro outro lado,
+completamente parece que uma bangueira
+ligou assim, ah, [ __ ]
+Aí tu olha assim para baixo, tipo, onde
+é que tá errado,
+como é que isso aconteceu?
+Tem tem umas mágicas, tem umas mágicas
+que é difícil de entender, cara. Tem as
+mágicas que você difícil de entender que
+a coisa vai vira três funil assim, você
+fala: "Caraca, é um buraco só, mano. É
+um buraco só".
+É, né? O o mijo duplo é um negócio que é
+é fantástico. Dá dois jatos ao mesmo
+tempo. Como é que tá acontecendo?
+Eu minha reação n sempre é um susto, né?
+Eu fico, eu vou olhar aí quando eu vou
+olhar pior ainda.
+E vai, cara, é uma merda isso.
+Deixa,
+deixa eu reclamar uma coisa com você.
+Deixa eu reclamar uma coisa com você. Eu
+tenho uma coisa aqui. Você conhece o
+quadro branco?
+O quadro, o canal, né?
+Um canal. É,
+sim, sim, sim.
+Que que tu acha do quadro branco?
+[ __ ] tu quer me botar numa increme?
+Não, não, não, não, não quero, não, não
+quero, não, não quero, não. É porque eu
+gost, é porque eu vou dizer de mim,
+então. Ah, eu, eu, eu gostava, não tem
+muito tempo que eu não assisto, ele
+parou de aparecer para mim, mas eu
+gostava muito, muito mesmo. E tem uma
+coisa que tanto você quanto quadro
+branco, então eu vou direcionar só a
+você, né? Eu só queria contar que o que
+é uma coisa que passava com o quadro
+branco também. Eh, quando eu assisti, eu
+assisto você, eu assisti um negócio, tem
+um de um velhinho, de um velhinho da
+Netflix que tem que tem gibi, e tem
+agora na Netflix um velhinho que na
+verdade ele luta.
+Hum.
+Ele ele é assassino. Como é que é o nome
+do
+Ah, Sacamoto?
+Sacamoto aí eu assisti, eu falei: "Cara,
+car,
+tem vídeo no canal." É,
+tem. Não, não. Então, é isso que é disso
+que eu tô falando. Aí eu assisti o vídeo
+que você fez, eu falei assim: "Caralho,
+mano, isso aqui é muito bom, brother".
+Isso aqui é fant, isso acontece muitas
+vezes com vocês que são malditos
+comentaristas que que são bons. Aí aí eu
+assisti assim, eu falei assim, não é 20%
+e não é sempre que acontece,
+não é? É, eu vou assistir um negócio
+empolgadaço. Tem um que você fez dos
+zumbis que também tava na Netflix.
+Zumbi, [ __ ]
+Do zumbi que era de desenho também. do
+zumbi que o cara tá no mundo
+pós-apocalíptico, ele falava: "Ah,
+graças a Deus eu não tenho que
+trabalhar".
+Ah, tá. O Zonsen, esse deu certo. Quando
+você me indicou, eu assisti, eu falei:
+"Caralho, isso é iradíssimo, eu gostei
+muito." Mas assim, o o do Sacamoto Days,
+eu não aguentei dois episódios. Cara,
+como é que vocês conseguem enganar a
+gente assim? Me explica como é que a
+Não, e olha que detalhe que se eu
+dissesse assim: "Ah, te enganei porque
+eu recebo, né? Mas não sou nem pago para
+isso.
+Tu gosta mesmo, né? É, é porque eu
+gostei. É, é, não isso, sabe, a Taís já
+me falou muitas vezes isso. A Taí assim,
+olha, eu prefiro tu contando as
+histórias do que eu lendo, porque
+geralmente tu melhora elas.
+É incrível, né?
+Tipo assim, o trabalho de vocês é um
+trabalho à parte, na real, não é só o
+comentário. Vocês dão
+é porque também tem muito a ver com o
+que pegou, né, assim, de o que te pegou,
+o que te E tem muito filme e obra, sei
+lá, em geral que melhorou quando eu vi
+outras pessoas comentando, né? Às vezes
+as pessoa olhando para uma série de
+coisas que eu não tinha prestado
+atenção, que para mim passou meio
+batido,
+que depois quando você vai assistir de
+novo melhora.
+É, é
+interessante.
+É isso, isso, isso pega. Mas enfim, o
+Sakamoto da é que é que o conceito é
+muito bom, só que ele é um um ch, ele é
+uma, aliás, ele é ele é xonei, ele é
+chonzeira, né, cara? Então assim, tipo,
+ele ele tem muita fórmula e ele é
+arrastado de propósito para fazer a
+série durar. Se ela fosse mais curta, eu
+acho que ia ser até melhor, mas eles
+eles esticam isso. Isso é uma coisa que
+às vezes vai me aband eu vou abandonando
+muito dessas séries, porque eles vão
+incumpridando coisa que eu queria que
+fosse mais, tipo One Punch Man. Eu acho
+do [ __ ] mas também arrastado.
+O conceito original do aquele dos
+superheróis japoneses lá, o
+Mariro Academia também, um conceito
+legal, mas também arrastado para diabo.
+Então assim, eles vão encumpridando as
+coisas. É o meu problema com série
+também ocidental, igual essas séries aí
+os caras vão incompridando tudo, bicho.
+Ai acho um saco. Aí tá o troço tem sete
+temporada, quatro episódios resolver
+aquela merda e o troço tem sete
+temporada.
+Você tem uma frase para isso, que eu
+achei interessante que é eh e você não
+deixar o pessoal gozar, que aí você vai
+não é, você vai segurando, segurando,
+segurando, segurando, segurando
+e aí chega no final, a galera não gosta,
+né, cara? Não, a galera não gosta.
+É porque depois que você criou tanta
+expectativa, a minha esposa tem uma
+outra uma outra versão, né, para
+explicação da mesma coisa, porque ela
+assistia eh, como é que é o nome
+daquele? Supernatural. E Supernatural
+foi até o infinito também, etc. Que dava
+dava para ter,
+segundo ela, dava para ter acabado na c
+na quinta temporada. Daí eu assisti com
+ela cinco temporadas, eu acho que era
+cinco. Aí quando acabou e deu dois
+episódios depois dessa quinta temporada,
+eu falei: "Nossa, mas não tem mais o que
+fazer aqui. Vocês enfrentaram
+literalmente Satanás, quem é o próximo?"
+Tá ligado? Não tem o menor cabimento. E
+aí ela ela assimilou a ideia e conta
+essa ideia que é assim, o problema é que
+não deixa a pessoal morrer, sabe? A vida
+acaba, gente. Tem tem que aceitar a
+morte.
+É. E e nesse caso do Supernator é
+interessante porque eles ficam
+ressuscitando os personagens, os
+personagens ficam renascendo para
+sempre. Aí você aí morrer não tem
+sentido, né? Porque o cara vai
+ressuscitar daqui a pouco. Então qu
+Sim, que que nem hiserói.
+É isso acontece muito.
+É o cara não tem mais nem graça quando o
+superherói morre porque já sabe que vai
+vai ressuscitar.
+É se você não for encerrar o negócio e
+ele morre. O problema é que ele fique um
+bom tempo morto, né? Sei lá, o Robin
+Jason Tod. Ele foi ressuscitado, mas tá,
+mas pelo menos com uns 20 anos morto,
+pelo menos tá OK, sabe?
+Os personagens são mortos para não daqui
+três meses ser ressuscitado. Aí grandes
+merda, entende? A gente não tem lá muita
+muita repercussão. Eu tu tu bom, a gente
+tem mais ou menos a mesma idade, né?
+Quantos anos tu tá mesmo?
+Será? Eu tô velho desse jeito.
+Eu tenho eu tenho.
+É que não, eu tem razão. Min, eu me
+equivoquei que tu ainda tá em fase de
+crescimento, né, criança? Eu sou eu sou
+de 91, tem que fazer a matemática. Aí eu
+tenho uns,
+tá? Não, então tu não, então tá. Então
+tu é 7 anos mais novo que eu. O
+que eu ia te falar, pô, tu não vai
+lembrar. Então, cara, a repercussão que
+foi a morte do Superman na época, passou
+Fantástico matéria. Eu era criança, eu
+lembro, cara.
+O Fantástico fez uma matéria da morte do
+Superman quando ele morreu ali em 92, eu
+acho. Acho que é 92 a morte dele.
+Nossa, foi um troço assim imenso,
+imenso. Voltou poucos meses depois.
+O mundo acabou, todas as televisões
+pararam para comentar. Três meses depois
+ele tava vivo de novo. É isso.
+É. É.
+E mas isso aconteceu no nos quadrinhos,
+foi
+nos quadrinhos. Nos quadrinhos. E pior
+que uma história, a história é toda
+cheia de, a história é cheia de clichê,
+mas ela é assim, é o famoso ruim que dá
+volta fica bom. Eu gosto dela. Ela, ela
+é muito tosca em várias coisas, mas ela
+ela, justamente para ser tosca, eu acho
+que ela é divertida.
+Mas aí, com que a gente vai arranjar
+briga para depois o pessoal comentar e
+dar emireta da gente falando aqui?
+Não, não sei quem você escolhe. Quem é
+bom de brigar agora?
+Não, tu tá brigando com todo tu briga
+com todo mundo, cara. Tu não é como é
+que é o
+cham esporte.
+Como é que o Eribal te chamou? de
+pincher. Eu achei um absurdo ele ter
+chamado isso, cara.
+Eu falei
+o
+pincher pega pesado. Aí pegou pesado. Eu
+falei para ele assim, né? Eu comentei
+até em live, disse: "Olha, eu acho que
+assim
+tem limites para tirar sarro do Pedro,
+cara. Porque, por exemplo, o cara que
+não tem nem altura, tu tem hora, né? Tu
+altura é cinco pras duas, tu é 1:55,
+então tu não tem altura, tu tem
+horário." Eu acho que esse tipo de eh eu
+acho que esse comentário é respeitoso,
+né? O resto já nem tanto, né? Sim,
+talvez. Não sei.
+Cara, eu não captei a piada. Eu vou ter
+que fazer uma cartografia aqui.
+Eu vou te explicar. Eu vou te explicar
+que eu tô dizendo que tu não tem altura,
+tu tem hora porque tu é 1,5, cara.
+Tá.
+Pessoas que tm altura é mais de 1,60,
+irmão. 1,62, 63. 1,55 é 1 hora 55. Tua
+tua altura é cinco para as duas, cara.
+Entendi. Dá no relógio. Dá para marcar
+no relógio.
+É, tua altura dá para marcar no relógio.
+É, é isso que eu entendeu isso eu acho,
+né? Eu acho que isso é um,
+mas a galera, a galera azula, mas toda
+vez que eu encontro um cara desse, toda
+vez que eu encontro um cara desse, todos
+são do meu tamanho. Tem um tem um padrão
+acontecendo todas as vezes. Hoje eu
+encontrei o o eu encontrei o cent no
+aeroporto. Hoje ele tem meu tamanho, pô.
+Ah, tudo bem. Mas é que é que o pessoal
+te acha inteligente, eles te vem se
+ajoelham. É por isso que tu acaba
+ficando com essa impressão.
+É, pode ser, pode ser, pode ser, pode
+ser. Eu tô com o olho coçando.
+Qual?
+Por causa do gato. Esse aqui.
+Ah, tá. O esquerdo. Tá.
+Esse aqui. Esse aqui. Falou o olho
+coçando. Mas eh, né? Já tive ideias. Mas
+e o que eu ia te dizer, cara?
+Eh, tu viu que eu acho que não deve ter
+visto a live ontem que eu comentei sobre
+antipetismo?
+Não, não. Mas eu sei que a gente tem
+algumas coisas em comum, né?
+Mas vai sair, vai sair corte, vai dar
+uma brigaçada. Porque eu tava comentando
+essa comunicação aí do do governo Lula
+durante a semana, que eles aiado Hugo
+nem se importa,
+tô ligado,
+que que que repercutiram, cara,
+repercutiram assim, circulou circulou no
+Zapistão, cara. O Zapistão, essa [ __ ]
+circulou,
+né?
+E e teve um pela primeira vez, em três
+anos de governo Lula, primeira vez eles
+emplacaram alguma coisa em termos de
+comunicação.
+Exato.
+E bateram de volta assim. E e o Lula
+conseguiu transformar da do limão uma
+limonada porque virou um jogo de ganha
+ganha pro Lula agora. Porque assim, ó,
+ou o Congresso o o congresso já até
+recuou, né? Então assim, ou o Congresso
+recua e deixa ele governar, que por sua
+vez vai fazer ele produzir medidas que
+vão ajudar ele em 2026,
+ou o gover ou o Congresso não recua e
+ele implaca o
+e ele implaca o mito do herói
+acorrentado. Exato.
+Ou seja, virou jogo de ganha ganha. Os
+caras querem comer. E eu sempre falo
+assim, não subestime, não subestime o
+político velho, ainda mais o Lula, cara.
+Ninguém da direita subestima. O pessoal
+da esquerda quer subestimar, deixa de
+ser otário.
+Não, é muito infantil, né? É muito
+infantil, né?
+O cara é macaco velho pra [ __ ] irmão.
+Não, teve uma vez que eu vi um amigo
+nosso aí comentando que não, o Hadad, o
+Lula não entende nada de economia. O
+Hadad é que deve ter convencido ele. Eu
+falei: "Caralho, gente, é como se é é
+a reação, única reação possível é essa,
+né? Como se as pessoas não conversassem,
+como se elas não tivessem 300 assessores
+que pudessem desenhar de qualquer
+Isso é. É, não. E, e, e, e, e é uma
+galera que assim é no sentido amoral da
+coisa, é uma galera que faz o que
+precisa fazer.
+Exato.
+Entendeu? É, tipo, eles não são,
+[ __ ] quem quem tá na política há duas,
+três décadas é alguém que, cara, o bicho
+já sabe tudo que é tipo de cenário
+possível, tá ligado? Não é um tipo de
+pessoa que vai ser pega, desprevenida.
+Muito raramente isso vai acontecer.
+É, e o tipo assim, inclusive os car,
+inclusive os caras do Central, não é à
+toa que quem fez essa cagada é um
+político relativamente jovem, que é o
+Gumota, né? Quem fez essa cagada aí o
+Líra foi lá e deu uma comida de rabo
+nele, falou: "Não, vamos parar com isso,
+né?" É lógico, Lira já é muito mais
+experiente que o Gumoto. O Lira falou:
+"Não, [ __ ] se eu tivesse ido à
+presido. Você é louco.
+Tu entregou um presente na no colo do
+PT, cara".
+Claro.
+Eu falei ontem na live, se eu fosse de
+direita, eu estaria puto com o
+Congresso, porque vocês acabaram
+ajudando, vocês acabaram de ajudar a
+reeleição do Lula, cara.
+Sim. Dá, dá uma ajudada. A gente não
+sabe o que vai acontecer, mas que dá uma
+ajudada.
+Sim, sim. Não, agora eu digo agora
+ajudou. se eles se isso vai se arrastar,
+se isso vai servir para capitalizar, se
+isso foi um balão de ensaio para pensar
+num jeito de se comunicar que pode ser
+repetido, tudo lá na frente que vai ser
+dito. Agora, eh, se eu fosse um cara que
+não quero de jeito nenhum que o Lula se
+releja, eu agora fiquei puto, eu fiquei
+preocupado, tá ligado? Se eu fosse esse
+cara, eu ficaria preocupado com isso.
+Pô, vocês deram pro cara
+uma arma que o filha da [ __ ] não tinha.
+Vocês entregaram de presente para ele
+uma arma que ele não tinha.
+Exatamente.
+Então, e aí eu vejo que tem uma galera
+na esquerda que que tá triste também. Aí
+eu acho estranho. Aí eu começo a ficar
+estranho.
+Sim, né? Muito.
+É, né? Aí começa a parecer esquisito,
+né?
+É. Me pior que o famoso me disseram, mas
+pior que é verdade, eu não vi ninguém
+agir assim, mas me disseram que teve
+gente que ficou chateadinha, né? Eh,
+você se preserva não sabendo.
+É assim, ó. Eu eu falei ontem na live,
+eu mantenho a minha opinião, que é a
+seguinte. Eh, eu a assim, eu já fui um
+antipetista de esquerda,
+tá ligado? Em 2018, eu fui um
+antipetista de esquerda, porque eu
+achava que a candidatura do Hadad era um
+fracasso e ela foi um fracasso.
+E ela era uma fracasso. É. É. E eu
+achava assim, olha, vai no Ciro, não é
+nem a questão de gostar mais ou menos.
+Eu acho que porque assim, se tu for ver,
+2018 era era o ano do antissistema.
+Precisamos de alguém antissistêmico e
+precisamos de uma figura forte, máscula,
+sabe? Uma figura napoleônica assim.
+É que é o Ciro, né? Ele se construir.
+É, era era o Bolsonaro assim na direita.
+disse: "Bom, quem é que consegue fazer
+esse contraponto na esquerda que não
+seja o próprio Lula que tava preso? Vai,
+vai, vai o Ciro."
+Não, eu até entrei no partido do Ciro
+por causa disso.
+Pois é. Então, assim, eu fiz campanha
+pro Cío e eu acreditava realmente assim
+que um, porque também era uma época que
+o PT tava muito nas cordas, a gente tava
+meio que buscando alternativas mais
+concretas ao PT, porque ele tava muito
+muito ah tava muito acuado, né? E
+e só que assim, eu eu depois eu esbarrei
+com a realidade, cara, porque assim, ó,
+o antipetismo de esquerda, ele no final
+das contas é coptado
+para servir pros setores mais
+reacionários que tem no Brasil, cara.
+É,
+tá ligado?
+Eu, eu, você achamos isso, Luig isso,
+tem a gente tá fazendo um núcleozinho de
+algumas pessoas que que enxergam isso
+com a CL.
+É porque porque porque veja, não é uma
+questão de idealismos. O pessoal fala,
+né, de os jargões, né, dos comunistas,
+materialismo, materialismo,
+materialismo. Então, vamos falar de,
+vamos ser materialistas. A materialmente
+falando, que acontece, você de esquerda,
+antipetista, você começa a fazer couro
+com gente que lá no final não vai
+escolher você de esquerda como o rosto
+desse mesmo antipetismo. O rosto desse
+antipetismo vão ser as forças ainda mais
+Ah, mas o PT também compactou com o
+racionalismo. Sim. E olha que [ __ ] o
+que tem, o que se contrapõe a isso é
+pior ainda.
+É,
+tá ligado? E e é isso que às vezes a
+galera fica sonhando alto e e não
+percebe, entende? A a a essas forças
+essa força antipetista que tá presente
+desde o momento que o PT se torna o
+principal partido de pendulação da da do
+ideário eh brasileiro sobre política.
+Ele, a força, as forças de petis é
+aquilo que tem de mais atrasado. E olha
+que o PT também tem muita coisa arca,
+mas é aquilo que tem de mais atrasado na
+política brasileira. Então assim, não
+adianta você ser de esquerda, anti PT,
+que você cai nessa espiral, tá ligado? E
+no final das contas o rosto desse desse
+fenômeno não vai ser um cara de
+esquerda, comunista, não vai ser a coisa
+mais racionária possível.
+Pois é. Então, é uma tese que eu advogo
+com uma tranquilidade muito grande. Dá
+para você fazer uma postura bastante
+belicosa, antissistêmica e etc e tal,
+com corpo, né? Se você tiver um corpo,
+se você tiver prefeitos e deputados e
+senadores, e aí você aparece com esse
+cara que vem fora do sistema e e aí você
+vai se estabelecendo como uma força
+alternativa. Agora, se você não tem
+alternativa, vai fazer o quê? Você tá
+fazendo o que com isso? Qual é a função?
+É, não é, não. E é e é difícil virar
+essa alternativa porque isso que eu tô
+dizendo, porque tu acaba, e por isso que
+eu tô falando, meu meu, minha análise,
+não, o pessoal fica puto. Agora vem a
+parte que eu vou arranjar treta, né? É
+que assim, é uma galera que fala muito
+de materialismo, materialistaismo, mas é
+idealista para um [ __ ] cara. Isso me
+angustia, me angustia para me angustia
+pra [ __ ] isso. Porque é só,
+olha só, quando eu descrevo isso, o
+pessoal fala: "Ah, mas não sei, gente,
+eu não tô escrevendo algo que eu acho
+bom, eu não acho bom que seja assim".
+Mas é assim que é, tá ligado? Esse é o
+ponto. E o que que acontece? Mesmo que
+você eh como o a gente tem basicamente
+duas forças políticas no Brasil, que é o
+petismo e o antipetismo, que o
+antipetismo ele é promisso, tá se
+mudando de rosto, tá? Você apostou no
+PSDB por um tempo por causa daquela
+lavada que Fernando Henrique Cardoso deu
+na primeira eleição do Lula. Aí disse:
+"Não, o PSDB realmente consegue".
+Exato. Ele se estabeleceu como uma
+força, era uma força real com nome
+próprio aquela época,
+não? vieram e foi e conseguiu o seu
+rosto. As forças antipetistas, que não é
+necessariamente o PSDB, escolheu o PSDB
+como rosto.
+Só que daí começou, eles começaram a
+levar comida de rabo uma atrás da outra,
+né? 2002, 2006, 2010, 2014. Quando eles
+levaram a comida de carrabo 2014, com
+uma Dilma já super fragilizada e ainda
+assim perderam, as forças de pr
+disseram: "Pecamos de outro rosto". É
+nessa que emerge o Bolsonaro.
+E agora, nesse momento, essas mesmas
+forças antipetistas querem a morte do
+Bolsonaro. Pessoal acha que quem tá
+querendo o Bolsonaro se [ __ ] é a
+esquerda. Quem mais quer que o Bolsonaro
+se [ __ ] agora são justamente essas
+forças antipetistas que querem um novo
+rosto, quer
+quer Tarcísio ou o outro. Eles querem um
+rosto, eles querem um novo rosto porque
+eles diseram assim: "Pô, Bolsonaro, você
+perdeu pro Lula também". Aí o
+antipetismo, ele quer basicamente vencer
+o PT.
+É isso que eles querem,
+entendeu? E e essas forças, quando você
+vai ver quem é que tá no topo, quem é
+que quem é a quem são quem são os
+dominantes dessas forças, cara, é é o
+que tem de mais atrasado na política, o
+que tem mais atrasado na no Brasil,
+cara, é assim, a galera que se se não se
+se não tiver um pouco de freio, vai
+começar a defender escravidão,
+tá ligado?
+É muito evidente isso. Eu eu acho muito
+acho muito escandaloso que a gente
+precisa dizer isso em público. De boa. É
+muito evid querendo dizer é o seguinte,
+mesmo você sendo de esquerda, mesmo
+vocês entendendo que o PT é
+conciliacionista, compactou com um monte
+de merda, da deixa deixa banqueiro
+enriquecer para poder ver se consegue
+com algumas migalhas fazer com que o
+povo pobre também não não se [ __ ] Se
+você parte, se você sendo de esquerda,
+tem consciência dessas críticas que eu
+acho que elas são válidas e você cola
+nesse antipetismo, você encara esse
+antipetismo como uma tentativa de se
+contrapor ou você é devorado porque você
+tá diante de um bicho que é muito maior
+que você. É isso que eu tô apontando.
+Veja, não é que eu acho que que isso é
+bom ou ruim. Eu tô dizendo que é assim
+que acontece,
+cara. Olha o que virou o Aldo Rebelo,
+meu. O próprio Ciro recentemente,
+algumas declarações dele,
+não, algumas declarações dele são, é
+porque é isso, porque para você
+sinalizar para esse tipo de público, né?
+E aí a declaração vai exatamente para
+falar mal de pautas LGBT só por serem,
+né? Não tem nenhum refinamento.
+Cheg sim. Chega uma hora que chega uma
+hora assim que o cara não não consegue
+mais h que eu quer dizer assim, tipo, se
+tu tem uma pretensão eleitoral e na
+medida em que a realidade é esta, quer a
+gente goste ou não, de que você tem o
+petismo e o antipetismo, para você
+conseguir o voto antipetista, porque o o
+voto petista, o petista já já garante o
+seu, então você começa a ter que
+sinalizar, você vai ter que começar a
+dar umas piscadinhas para lá e para cá.
+E quando você vê, você é devorado,
+entendeu? Não é você ah, é, é, é o mito
+do ocupar espaço que eu vejo às vezes
+alguns comunistas falando assim: "Não,
+eu fui lá num evento nerd, ocupei
+espaço. Que ocupou espaço?" O espaço que
+te ocupou, irmão. É o espaço que te
+ocupou. Não é você que ocupou o espaço.
+Que delícia,
+que delícia. Mas eh tem tem uma questão
+que você coloca que é o seguinte, quando
+você eh eu queria te colocar essa
+questão porque para mim a a alternativa
+mais óbvia e certa, por exemplo, pro
+Círio apresentasse como uma alternativa
+à época era ele ter engolido aquele
+orgulho de merda dele.
+Ele vinha como ah vice do Lula em outro
+partido e aí o Lula não ia se apresentar
+como candidato, ele não ia vir como
+candidato e o e o Ciro saía como
+presidente da República com a base
+própria e podia sair surgiu uma outra
+força a partir daí se tivesse o engolido
+o orgulho dele naquele momento em que
+veio o Hadad, que o Hadad veio para
+perder, né? Então assim, eu eu acho
+muito triste que as pessoas tenham tanto
+esforço para fazer couro com a parte do
+antipetismo, ao invés de tentar ah
+surgir pela esquerda mesmo, né? Porque
+assim, é muito claro que o que o
+discurso que o Ciro arrumou para ele,
+pra vida dele, pra imagem dele foi esse.
+Ele começou a falar: "Ah, não, que a
+religião do povo brasileiro, etc e tal,
+não sei o quê." Ele vai indo todos os
+sinais de linguagem que ele tá dizendo,
+é que ele ele tá falando, olha, eu tô
+falando pro público de direita, pros
+personagens de direita, porque não é
+falar só paraa base, o pessoal também
+tem essa ilusão muito grande que
+política se faz só com a base. Não, você
+precisa conversar com os caciquezinho.
+Então você tá sinalizando para essa
+base, é porque você tá querendo
+conversar com esses caciques.
+É. Não. E outra coisa, o Brasil é um
+país oligárquico. Então assim, se você
+quer assumir o poder, você vai ter que
+compactuar com a oligarquia, a não ser
+que seja revolução. Só que a revolução
+tem tem bases materiais hoje para não
+ser essa revolução? Não tem. Então a
+gente vai ter que fazer alguma outra
+coisa enquanto não acontece, tá ligado?
+É isso que eu falo se o pessoal cai às
+vezes num
+idealismo poeril.
+É, cara. E e outra coisa, a gente podia
+até entrar num debate que eu acho que
+não nunca vai ter revolução no Brasil.
+Eu acho, eu acho muito pouco provável
+pelo perfil do brasileiro. Eu acho pouco
+provável. Agora, ah, mas ok, você pode
+criar essas condições, nada é
+impossível. Agora, essas condições hoje
+não estão criadas. O fato de existir
+meia dúzia de youtuber comunista não não
+não cria essas condições.
+E o pior é que é meia dúia mesmo, né?
+Não, não são 20 cara. Não, não.
+A galera, a galera fala como se tivesse
+dominando o mundo. Não é não é dos,
+cara.
+Não, não, não, não. Então assim, o que
+que acontece? Você imagina que na medida
+em que a gente tá lidando com um algo
+que é muito pequeno de nicho coisa que
+seja, tipo,
+você não vai conseguir
+produzir um contraponto hegemônico
+suficiente
+para você conseguir produzir um
+antipetismo à esquerda. Tá entendendo?
+Você não tem essa hegemonia.
+Isso é uma discussão, é um discurso
+sobre hegemonia, [ __ ] Entendeu? Você
+não consegue ter a hegemonia desse
+campo, porque esse campo ele é dominado
+pelas forças mais racionárias que tem.
+Então, uma vez que você se filia nele,
+você é devorado, você vai parar lá do
+você e no final das contas você vira
+fantochezinho de de de ruralista, de das
+coisas mais tacanhas possíveis. Ah, mas
+também tem aí sempre vem aquele
+argumento, mas tem isso do PT. Sim, essa
+é a questão. É uma diferença de
+intensidade. O PT obviamente pactua com
+oligarquia, porque senão ele não
+consegue nem governar. Agora, ah,
+sem o PT, a gente já viu como é que
+fica. A gente já viu como é que fica,
+[ __ ] A gente viu o governo do
+Bolsonaro, cara. Que que foi aquilo,
+irmão? A coisa é é 20 vezes, 30 vezes
+mais esse processo é 20 30 vezes mais
+violento.
+O PT basicamente é o PT basicamente é um
+dick cheio de furo.
+É, e tem e o e o que o que mais me
+assusta também é essas idealizações dos
+modelos, né? O o camarada comentou aqui.
+Ah, bom, ele tá falando o showzão. Ele
+diz assim: "O Brisola que eles defendem
+também é um Brizola de mentira". O Bola
+inventou Garotinho e afins. Quer dizer,
+parece que vai surgir um grupo sem
+contradições, né?
+Isso incomoda para [ __ ] também.
+Não. E um grupo que não seja sujo, cara.
+Porque eu eu eu aí vem aquela verve
+nitiana minha de sempre. Eu entendo que
+o bom político, ele tá além do bem do
+mal. Cara, para ser um bom político, tu
+tem que ser além do bem e do mal,
+porque, tipo, tu não tu tu tu joga, tu
+tá sempre lidando com o teu trampo, é a
+instância do poder. Então, obviamente,
+tu lidando com isso, cara, tu não tem
+essa coisa, ah, isso aqui é o certo,
+isso aqui é não, tu faz o que o que o
+que o a tua vontade de poderível,
+não e o que a tua vontade te te
+direciona, tá ligado? Então, a gente a
+gente tem um problema, a gente tem um
+problema, eu tenho uma uma questão
+contigo que eu acho que a gente podia
+discutir aqui, que é exatamente ah a
+prisão a esse a esses signos
+constitutivo como o fundamento único da
+política. Porque o que me o que me
+assusta é o seguinte, quando a gente
+fala assim dessa forma que você tá
+falando, que basicamente política tá com
+essa estrutura e etc e tal, e que são
+disputas de poder e e conta tudo isso eu
+concordo, né, que isso existe e tal, mas
+eu fico com muito medo quando a pessoal
+resume tudo a isso. Então quer dizer
+você dizer que o o
+que a política toda é poder,
+que é que ela se resume a expressão de
+quem é o mais filho da [ __ ] em lidar com
+seus próprios interesses. Isso me
+incomoda muito, muito.
+Não, não, não, não, não, não diria filho
+da [ __ ] mas eu não, porque a moral não
+quer dizer filha da [ __ ] O que eu tô
+dizendo só é aquele que entende o que
+precisa ser feito para poder fazer o que
+quer fazer.
+Tá entendendo?
+Não, eu entendo. Para pr as finalidades
+que são dispostas, né? O que precisa ser
+feito é o que precisa ser feito para
+poder fazer. Então assim, tipo,
+e qualquer político é assim, cara?
+Então,
+político que o político que não é assim,
+ele não se elege.
+Então, eu acho que há dimensões
+comparativas entre essas coisas. Todos
+os políticos têm que ser pragmáticos em
+algum nível, obviamente. Todos os
+políticos que chegam no poder são
+pragmáticos. É, até provavelmente existe
+a análise de que a eu já ouvi falar, mas
+eu nunca fui, né, eu nunca fui estudar
+para saber isso, mas eu já ouvi que
+existe esse tipo de análise de que as
+pessoas que chegam em cargos e não
+necessariamente só em política
+institucional, mas em cargos de
+liderança da empresa e etc e tal e etc e
+tal, tem tendências psicológicas a serem
+pessoas mais violentas, mais opressivas
+e tal, tal, tal, que é uma dinâmica que
+você tem que ter para chegar no poder,
+né, para chegar naquela posição, para
+você ser o líder do grupinho, para você
+e etc e tal. Isso faz parte da
+há até uma seleção de comportamento
+nesse sentido para que essas
+personalidades que chegam nessas
+posições tenham essas características,
+tá? Dito isso, entre essas pessoas que
+têm essas características, tem gente que
+é muito mais escrota do que outras
+gentes.
+E que eventualmente
+há uma autopercepção criada no discurso
+que você elaborava. Não tô dizendo que
+você disse isso, mas a partir do
+discurso que você elaborava, muita gente
+pensa assim: "Ah, então quer dizer que
+para eu ser um grande político, eu tenho
+que ser um grande filho da [ __ ] 100% do
+tempo e que eventualmente isso é
+inclusive desfuncional paraa arte de
+você próprio se beneficiar e defender
+seus próprios interesses." Sabe o que eu
+quero chamar atenção? existe uma espécie
+de simplificação desse, digamos, eh, um
+quase um diagrama do do ah, você quer
+ser político bom, então você tem que ter
+essas características, você tem que
+passar por cima, você tem que ser
+pragmático, você tem que ser um canalha
+quando for necessário, etc e tal. A
+pessoa introjeta isso e não percebe que
+alguns elementos disso tem que ser
+balanceados. Se a pessoa não, claro,
+não, mas mas que eu tô falando, mas é é
+que aí que tá, eu acho que daí a gente
+pode, para refinar o debate, é aquela
+coisa entre diferença de natureza e
+diferença de intensidade que eu sempre
+explico, eu falo, eu volto direto essa
+discussão porque eu acho que é uma coisa
+que a galera no senso comum se perde,
+cara.
+Uhum.
+É a diferença de natureza e o pessoal
+fica tanto numa diferença de natureza,
+os bons e os maus, o os certos e os
+errados, tá ligado? Tu entra numa
+diferença de natureza entre as pessoas
+que eu não acredito nela, entendeu? Nós
+não somos de natureza diferente.
+Uhum. Então, a questão é diferença de
+intensidade, intensidade de determinados
+processos, diferença de intensidade de
+determinados gestos,
+tá ligado? Por exemplo, uma pessoa que
+quer poder pelo poder simplesmente
+porque acha um barato ter que ficar
+dando, acha um barato da fazer decreto,
+essa pessoa tende a ser profundamente
+violenta.
+Uhum.
+Porque ela apenas tem gozo nesse poder
+que consegue, que cada vez mais se fecha
+em si mesmo.
+Uhum. É o poder pelo poder. Tem uma
+frase no filme do Sadão Ken que eu acho
+maravilhosa, que é o seguinte: não é
+difícil ficar rico quando a única coisa
+que você quer ficar rico.
+Uhum.
+Porque maioria das vezes a gente quer
+ficar rico fazendo o que a gente gosta
+ou fazer rico, fazendo algo que a gente
+acredita ou fazendo algo que nos dá
+alguma instância de alegria. Quando a
+gente quer só ser rico, por ser rico,
+não é tão difícil assim.
+É um pouco mais fácil. Entendi.
+Entendeu? Então, é uma diferente de
+intensidade. Já o que eu considero já um
+bom político, pelo menos um bom político
+que eu votaria, vamos dizer assim, é
+aquele que eu percebo que ele sabe o que
+tem que ser feito, mas ele tem alguns
+princípios que ele quer que fazem parte
+também desse exercício de poder. Não é
+que esses princípios estão separados do
+exercício do poder. Esses princípios
+também movem ele como a como um
+combustível para essa vontade de poder.
+Ou seja, eu acredito nisso, eu acredito
+naquilo, eu acredito naquele outro, tá
+ligado? Ou seja, eu não tô, o meu barato
+não é assinar o decreto e sim assinar o
+decreto que tem a ver com aquilo que eu
+acredito, tá ligado?
+Para aquilo que eu quero executar. Aham.
+É, mas é uma, mas isso não é uma
+diferença de natureza, é uma diferença
+de intensidade. Todos estão lidando ali
+com um, todos eles estão estão lidando
+com vontade de poder, todos estão
+lidando com esse que a política, como eu
+disse, ela é aquela que se ocupa, mais
+do que todas as outras, outros campos,
+outras áreas, é aquele que se ocupa do
+exercício do poder, eh, eh, de maneira
+direta,
+entendeu? a gente tá sempre lidando, por
+exemplo, como professores, a gente tá
+sempre trabalhando poder por vias muito
+indiretas.
+A política é a única que trabalha com
+poder de de maneira expressamente
+direta. Então o que eu quero dizer é o
+seguinte, o bom político, no sentido
+amoral agora da expressão, é aquele que
+entende esse processo e a partir das
+suas vontades, que eu não sei quais são,
+pode ser a vontade simplesmente de cagar
+ordem, como pode ser a vontade de fazer
+justiça social, a partir das suas
+vontades, eh,
+e dentro da realidade dá vazão a esse
+essa esse essa sua vontade de poder. E
+esse é o ponto.
+Uhum.
+Entendeu?
+Uhum.
+Eh, tá, deixa eu deixa eu raciocinar um
+pouco que eu quero te fazer uma
+proposição pra gente refletir sobre a o
+governo do norte-americano maluco, o
+presidente dos Estados Unidos atual.
+Eh,
+não sei porque a gente não tem
+distanciamento histórico suficiente
+ainda, mas eu tenho a impressão, eu
+quero analisar duas dimensões com você,
+duas dimensões. A dimensão do sucesso da
+coisa e da, ou seja, do do da psicologia
+coletiva envolvida na coisa e a dimensão
+do próprio sujeito enquanto
+eficiente para realizar aquilo que ele
+se dispõe a realizar.
+Me parece que do ponto de vista hã
+social da psicologia coletiva, o Trump
+representa, em linhas simplificadas, pra
+gente encurtar o assunto, ah,
+um sentimento de desespero dos Estados
+Unidos com perder o status de ser a
+primeira economia global, com a
+possibilidade de de perder, é, tem um
+tem um certo medo, um medo latente.
+Medo, é, é o medo da Eu eu acho até que
+é um pouco mais difuso. É um, é, é a
+perda de um medo da excepcionalidade
+americana.
+Isso.
+E isso é um negócio irônico, porque aí o
+Trump, para ser aquele que vai garantir
+que não se perca essa excepcionalidade,
+se comporta como um típico caludílio
+sul-americano.
+Exatamente. É irado, né? É completamente
+irônico o negócio desse. É, é.
+Tem mais alguma coisa complementar
+disso? Que você falou?
+Não, não. Ok, é isso aí. Mas segue teu
+raciocínio. Eu só queria falar isso.
+E aí? E aí fechando a a outra dimensão
+que eu queria trabalhar com é
+absolutamente irônico, né? E aliás ele
+faz muito sucesso entre uma galera,
+enfim,
+que é de minorias também e tal. Hã,
+outra dimensão que eu queria tratar é eu
+escutei uma coisa que eu acho que eu vi
+na sei se foi no WW uma [ __ ] de direita
+dessa que eu tava assistindo, que que
+era o seguinte, eh, o Trump
+ele parece, ah, tipo assim, qualquer
+pessoa que entra na presidência da
+República com o tanto de coisa que tem a
+ser feito, o tanto de responsabilidade,
+quando você é presidente dos Estados
+Unidos, o tanto de bomba em cabeças,
+inocentes que você vai ter que jogar e
+etc e tal. É muito comum as pessoas
+envelhecerem no carro de de tipo assim,
+[ __ ] merda, o peso da responsabilidade,
+né, do das decisões e etc. E o Trump
+parece que ele tá se divertindo igual um
+garoto no parque. E eu acho isso
+assustador. Eu acho isso assustador.
+Parece que ele tá se divertindo de
+brincar de de ser presidente da
+República dos Estados Unidos. Eu queria,
+né, que você eh se você enxerga isso
+também e e o que se isso é verdade, o
+que que você entende que isso significa,
+essa diversão que ele tem de tá nessa
+posição eh esquisitíssima.
+E
+aí eu acho, é assim, me parece que
+tirando algumas figuras trágicas, eu
+acho que a Dilma é um exemplo de uma
+figura trágica, tirando algumas figuras
+trágicas, a maioria dos que estavam ali
+tava estão curtindo muito estar onde
+estão, tá ligado? Ou seja, pode ver o
+Lula,
+tu lembra quando o pessoal criticou o
+Lula quando ele meio que transformou em
+palanque a morte da esposa? Tu lembra
+disso que ele meio que fez?
+Lemb,
+né? Eu acho que eu sei,
+mas é exato. Tu tu vê que assim, ó,
+independente do que as pessoas possam
+dizer que o Lula é um sacana e tal, tal,
+mas eu realmente acredito que aquele
+cara processa o luto dele, ele processa
+a tristeza e a alegria ao mesmo tempo
+dele
+em palanque, tá entendendo? Assim, tu
+vê, tu vê, tu vê que o Lula ele até
+volta a crescer, por exemplo, o Lula
+dando depoimento com o presidente, às
+vezes é uma aquela agora que ele tá com
+80 anos, às vezes é um velhinho, né?
+meio marcar comida, o homem sobe em
+palanque, o homem cresce de novo, tá
+ligado? Rejuvenece 20 anos.
+É, é o que move, né?
+É. Então assim, dá para ver que a L tem
+uma dimensão de prazer, sabe? E eu acho
+que tod a maioria desses caras, eu digo
+maioria porque tem alguns que por
+circunstâncias históricas vão parar lá
+meio que quase que empurrado.
+Uhum. Mas eu acho que tirando algumas
+figuras que eu acho que são exceção, eh,
+os que estão ali estão porque gostam
+muito e mesmo com as chates junto que
+que que todo o trabalho traz. No caso do
+Trump,
+eh, sim, ele gosta, ele ele é visível
+que ele tá que que aquilo é divertido
+para ele. É visível, é visível assim,
+tipo,
+ah, agora também,
+mas onde é que tu quer chegar com isso?
+Por isso que eu quero entender. Tá
+beleza. Trump se diverte com aquilo. E
+aí?
+Tá. O que o que eu o que me chama
+atenção é o seguinte, que me parece que
+ele tá fazendo um igual quando a gente
+joga pôker e que a gente perde que
+perder legal e sabe o jogo é que é o
+legal. Não sabe, você não tá muito
+Ah, tá. Tá. Ele não tá muito ligado no
+resultado, tu acha? É tipo, é, eu acho
+mesmo, tipo assim, a a sensação que eu
+tenho é que ele tá fazendo jogos e
+disputas que a disputa vale pela
+disputa. Tipo assim, veja, eu vou vou
+comentar um negócio bastante polêmico
+aqui para você entender onde eu quero
+chegar. Olha, eh, agora o estado de
+Israel tá tá tá negociando com o Ramaz,
+etc. e tal, mediando pelo Trump, pela
+pelo país do Oriente Médio lá, o Qatar,
+etc e tal, e pá. Eh, veja, o Trump pulou
+dentro dessa coisa só para ser o centro
+das atenções. É isso que eu tô querendo
+chamar atenção, que tem uma dimensão
+muito pessoal dele ter feito o movimento
+de se colocar. E em certa medida, o que
+eu ia falar que era
+eh que era polêmico, é que em certa
+medida ele tava querendo provar um ponto
+de que se eu vier aqui escaralhar esse
+meio de campo aqui, no final das contas
+eu consiga a pacificação local. E ele tá
+a caminho de tentar fazer isso. E e o
+conflito entre Irã e Israel parou por
+nesse momento e etc e tal. Não podia ter
+parado, mas podia ter entrado o mundo em
+uma convulsão nuclear e etc e tal. E ele
+tá meio que aqui, ó. E é isso mesmo. Vão
+correr riscos e a vida correr riscos e
+tem graça. O que eu tô chamando de de de
+polêmico é que assim, quando você não tá
+jogando sério, você mete um a na zoeira
+e amanhã a gente começa o jogo de novo.
+Entende o que eu quero dizer? Sim. Sim,
+sim. E tu acha que ele é eficiente a
+fazer isso?
+É, e eu eu aí eu acho que é mais
+divertido do que deveria, porque quando
+você tá colocado numa situação dessa,
+você, né, você corre riscos demais e se
+expõe demais e
+e expõe todo mundo junto, né?
+E todo mundo na brincadeira, né? A gente
+não tá jogando
+não. Sim, sim, sim, sim. Acho que ele é,
+eu acho que eu diria assim que ele é um
+jogador de pôker se divertindo com o
+poder que tem e meio que ligando [ __ ]
+para quem tá no processo. Agora eu vou
+ser franco, eu tenho, eu não tenho muita
+segurança
+se o Trump é, é uma coisa que eu me
+pergunto é se o Trump acredita no
+trumpismo.
+Isso é uma, naquilo que o trompismo
+representa, tá ligado? Porque, por
+exemplo, o Bolsonaro, eu me sinto mais
+seguro dizer isso. O Bolsonaro
+visivelmente não acredita no
+bolsonarismo.
+Uhum.
+O Bolsonaro não, o Bolsonaro pessoa não
+é o bolsonarismo.
+Uhum.
+Entendeu? Ele ele cola nessas coisas
+porque pega as pautas que ele tinha no
+Congresso, ele foi mudando muito rápido
+de de opinião porque eram eram propostas
+que
+é um oportunismo evidente, né? O que tá
+funcionando.
+É, é o Trump eu tenho mais dificuldade,
+cara, de até porque eu não tô lá nos
+Estados Unidos, eu não acompanho o dia a
+dia da política. Então, assim, eu tenho
+mais dificuldade de de
+fazer de fazer essa codificação do
+Trump, porque isso também interfere para
+pensar o que que diverte o cara, tá
+ligado? Isso que eu quero dizer,
+interfere pra gente considerar o que
+qual, por exemplo, o Bolsonaro,
+visivelmente o prazer dele era acordar
+tarde, ficar eh trabalhando. Então é
+isso mesmo, jet ski, andar de jet,
+é andar de jet ski e tal, trabalhar no
+máximo uma, duas horas por dia, passar o
+resto do dia no computador ou passeando,
+comendo em churrascaria, comendo
+camarão, tá entendendo? O Bolsonaro
+e conectou muito bem e conectou muito
+bem com o Congresso querendo ganhar
+poder e ele querendo deixar
+Exato. Exato. E o Bolsonaro quando era
+deputado era assim também, entendeu?
+Então, tipo, ele virou presidente, ele
+continua sendo um deputado
+presidenciável. presidencial. Ele era
+deputado presidencial.
+Então assim, um deputado presidencial
+que nunca aprova nada, só o Congresso
+que passa. Então assim, o o o por
+exemplo, eu pego o exemplo da casa do da
+pauta do aborto. O Bolsonaro não era
+contra aborto, por exemplo.
+Aham. Aham. Eu lembro disso,
+né? O Bolsonaro era, claro que ele tinha
+um motivo também mega eugenista. Ele
+queria o aborto de de só de de mulheres
+pobres, né? Ele
+Mas ele vai mudando na conveniência.
+Muito fácil isso.
+É, é isso. Ele acredita. Isso eu tenho a
+certeza que ele acredita. Mas assim,
+essa parte depois de ter virado
+totalmente antiaborto, não, isso aí foi
+oportunismo dele e tal, ele nem
+acreditava nisso. Ele até acha que pobre
+tem filho demais,
+entendeu? Então assim,
+eh,
+o
+Bolsonaro isso é visível no Trump? Eu
+não sei, cara. Eu realmente não sei se
+ele é apenas um cara que se diverte
+fazendo o que ele tá fazendo e no fundo,
+[ __ ] Ah, tá bom. Amanhã os Estados
+Unidos vai ser a segunda maior economia,
+não a primeira. [ __ ] eu quero apenas
+eh
+é ver o circo pegar fogo porque eu nunca
+gostei desses caras ou eu me recinto
+desses políticos. Eu não sei se no
+passado ele não tem um recentimento
+[ __ ] de político.
+Eu acho que tem. Eu acho que tem.
+Ele me parece, ele parece ter um
+ressentimento muito grande de da da
+elite universitária. Isso eu vejo, isso
+me parece muito evidente pelo ranos que
+ele tinha no primeiro mandato com o
+Obama, muito em função do Obama ser
+professor.
+Uhum.
+Tu lembra disso? Isso era uma coisa,
+isso é uma coisa que eu não sei porque
+na biografia dele teria esse, eu não sei
+da biografia dele, eu não sei de onde é
+que esse recentimento pode ter nascido,
+mas assim, eu acho o Trump um mais um um
+autêntico anti intelectualista, assim,
+no sentido de, cara, eu não quero saber
+dessas coisas, eu acho muito chato, esse
+povo é chato. Eh, esse povo discute
+demais e se diverte menos,
+acha que sabe muito, acha que sabe
+muito.
+É, essa galera, essa galera, essa galera
+fica em livro e não vai em Las Vegas, tá
+ligado? E
+então assim, me parece que ele é um cara
+nesse perfil. Agora eu fico na dúvida se
+ele acredita, por exemplo, em realmente
+melhorar a vida da classe média. Não
+acho que ele acredite nisso,
+mas às vezes, talvez ele até mesmo
+acredite nessas maluquícias, assim, de
+um jeito contraditório. Às vezes ele
+realmente, por exemplo, ele se elegeu
+prometendo que os Estados Unidos não ia
+não não ia se meter em guerras no
+exterior e que ele acabasse que tava em
+andamento.
+Ele fez essa promessa porque queriam que
+ele fizesse ou ele realmente acredita
+nisso? Eu não sei, cara. Essa é a parte
+que eu não sei, mas não sei,
+principalmente porque eu não acompanho.
+Talvez se eu acompanhase um pouquinho
+mais, talvez eu soubesse.
+E sobre a a questão mais popular, o que
+que você acha que reflete na questão
+popular? Ah, porque assim, eu eu
+acompanho bastante a política
+norte-americana e o e os Estados Unidos,
+assim, se o pessoal acha que aqui a
+gente tá rachado, os Estados Unidos é
+assim surreal. As pessoas
+Sim, tá um abismo, né? Tá um abismo.
+Elas se odeiam, todas se odeiam.
+Sim. Sabe, tem um conhe, deixa eu te
+contar uma história lá, Neda, só para te
+interromper, eh, de um conhecido que
+morou, onde é que ele, onde é que foi o
+país, [ __ ] Ah, foi um país árabe. Eu
+não, já nem lembro mais direito a
+história. Faz tempo isso. Foi na os
+barrigos ele uma vez na UFSK, na Federal
+de Santa Catarina.
+Ah, e ele, e aí ele falou assim: "Cara,
+quando eu tava lá, eu ficava chocado que
+Sunita e Xita, eles se reconhecem de
+longe, eles se vestem tudo igual, eles
+falam tudo as mesmas coisas. Tu olha
+assim um sonito e um título do outro
+jogo dos sete erros. Não tem diferença
+nenhuma naquela [ __ ] mas eles se
+farejam, cara. Tá entendendo? Um sunita
+e um xita estão para andando na rua, um
+olha pro outro e fala: "Tu é sunita e eu
+sei que tu é xita". Tá ligado assim, os
+caras se farejam, mas tô olhando de
+fora, tu não vê diferença. Aí ele falou
+assim: "Nossa, como é que isso é
+possível e tal". Aí ele falou: "Aí
+quando vem o Brasil, quando vira o
+Brasil polarizado, bolsonarista, do
+jeito que é, tu vê um bolsonarista lá da
+rua, tu reconhece, tu não reconhece? Eu
+reconheço, eu vejo são os três jeitos. É
+a forma,
+eu é difícil explicar. É difícil
+explicar, mas tu percebe.
+Uhum.
+Tu percebe. Agora talvez até seja mais
+difícil, mas antes eu lembro na época do
+governo Bolsonaro era muito fácil. Era
+muito fácil tu perceber um bol e veja,
+não tô falando de camisa do Brasil,
+coisa, tô falando às vezes de coisas que
+o cara tá paisana, vamos dizer assim, é
+um bolsonista tá paisana, mas tu olha e
+tu fala: "Porra, isso é". E ele olha
+para ti, ele te e ele vai e ele vê que
+tu não é. Também tem isso assim, é um é
+um é muito doido que é.
+Então, enfim, eu quero dizer assim, nos
+Estados Unidos agora, me parece que eles
+estão vivendo isso. Eles estão vivendo
+radicalmente isso de olhar pro pro
+vizinho e dizer assim: "Tu não é, tu não
+é meu semelhante".
+É, é possível,
+tá ligado?
+É possível.
+E isso para eles que só que assim, isso
+tu tu é historiador, [ __ ] tu vai saber
+mais do que eu. Isso sempre foi assim,
+né? [ __ ] é um país que teve uma guerra
+civil, dividiu em dois. é um país mega,
+os Estados Unidos é maniqueísta em tudo.
+O sistema político deles é maniqueísta,
+os valores deles são maniqueístas, eles
+têm eles se constituíram quanto nação a
+partir de lógicas maniqueístas. Então
+assim, ah, o que a gente tá vendo, acho
+que é uma radicalização desse mesmo
+maniqueísmo que sempre teve presente
+ali.
+Uhum. É porque eu tenho a impressão eh
+da minha juventude mesmo, talvez eu
+fosse só muito jovem, enfim, eh, que
+tinha um espírito mesmo depois que a
+Guerra Fria acabou
+de tensionamento para solução de várias
+questões com o passar do tempo e com
+calma. Agora a gente vai ter, né, mais
+participação feminina dentro da da
+realidade homossexuais e busca
+e busca de uma síntese, né?
+E todo mundo aceitando assim, não, tudo
+bem, você não precisa ser homossexual,
+etc e tal, mas assim também não precisa
+bater na pessoa na, né? Então assim,
+parecia que havia um um
+Mas o governo Rigan foi Mas isso começou
+foi com Ran ainda, cara. Isso começou
+muito foi com Higan, eu acho.
+É o existe uma propaganda inclusive
+atual que remete muito ao ao ao Ronald,
+né? Mas mas assim, quando eu era
+criança, eu tinha essa sensação e
+sobretudo quando o Obama surgiu no
+poder, assim, o primeiro presidente
+negro da história dos Estados Unidos e
+etc. Então tinha um, parecia que havia e
+aí eu eu não sei, cara, eh, eu converso
+isso muito com a minha esposa sobre as
+manifestações aqui de do de 2013, 2015,
+que parecia assim que havia uma certa
+hegemonia de que não, gente, não é legal
+ser racista, né? Assim, todo mundo
+concorda que não é legal ser racista. A
+Globo concorda, você concorda na sua
+casa, todo mundo concorda. Não tem
+motivo pra gente rachar em olha que tal
+a gente não ser racista? Sabe aquelas
+aquelas piadinhas que da década de 90
+talvez não caibam de, né? Uma síntese
+mesmo, um sentido de que a gente
+concordava com muitas coisas elementares
+que pareciam que eram civilizacionais,
+tipo, exatamente, não agredir
+homossexuais, aceitar um ingresso maior
+da participação de uma população,
+parecia que tava caminhando para aí. E
+de repente, de repente o Trump aparece e
+fala: "Talvez o Obama não seja
+americano" e etc e tal. começou a jogar
+uma lenha na fogueira que que
+não existia. E é essa a sensação que eu
+tenho dizer que
+é eu acho que não, eu eu enfim, a gente
+acho que tem vários fatores aí que
+explica essa basicamente a gente tá
+discutindo porque a extrema direita
+acendeu, né? Basicamente acaba virando
+essa discussão, né? É, por que que ela
+acendeu? E por que que as pessoas,
+né, aceitaram o
+Sim, eu acho eu acho que tem assim ah,
+é sempre perigoso fazer comparar
+períodos históricos, mas a gente tem
+algumas rimas mesmo que são
+interessantes, né? Por exemplo, a gente
+teve a crise de 2000, de 1929, né?
+Quando a gente teve ali que deu deu um
+gás por uma série de o fascismo já tava
+no poder, mas tu deu um gás para essa
+galera que eles não tinham antes, né?
+É, na Alemanha, com certeza é por causa
+de 29.
+É, não, não. E e mesmo o o fascismo
+italiano quando dá ali a crise de 29,
+eles eles eles têm uma gunada
+retórica, né? Tem uma
+eles tem uma gunada ainda mais a à
+direita, né?
+Então assim, tipo, o
+que eu quero dizer é o seguinte, no e o
+que que a gente teve recentemente? Teve
+aquele 2008. Aqui no Brasil a gente não
+pensa muito nessa crise porque ela não
+chegou para nós 2008. Ela foi chegar
+para nós em 2015, 2016, né? Os países
+latino-americanos foram sentir ela eh,
+muitos anos depois, mas
+os Estados Unidos 2008 foi um foi uma
+arrasa quarteirão, né, cara? Foi uma
+rasa quarteirão e até agora eles já
+ainda estão com sequelas dessa crise de
+2008.
+Eu acho que você é muito materialista,
+cara. É demais, né? E aí, e aí eu acho
+que tem o outro é outra questão, né? Não
+tô dizendo que são só essas duas, mas
+acho que pelo menos são as duas que me
+vem mais à cabeça, que também dá para
+fazer uma rima histórica, né? Porque a
+ascensão do fascismo também vem junto
+com a ascensão do cinema e do rádio,
+sobretudo do cinema sonoro. É preciso
+lembrar sempre que o surgimento do som
+no cinema está 1927
+e isso faz com que uma série de eh de e
+isso meio que trava uma
+internacionalização do cinema que era
+muito muito mais orgânica, porque agora
+tem as línguas agora tem as línguas
+nacionais.
+Então o cinema das línguas nacionais
+passa a ser muito mais valorizado
+justamente pelo seu viés nacional.
+Uhum.
+Tá ligado? Então o que eu quero dizer
+assim, tu tem essas condições de de
+comunicação de massa que vão
+interferindo ali. Aí tu chega para
+agora, o que que você tem? As redes
+sociais explodem na mesma época, mais ou
+menos na mesma época, né? Mais ou menos
+ali por volta do ano 2008, quando tem
+essa crise, é quando essas redes sociais
+começam a explodir, cara. Então assim,
+e aí tu tem esse processo de hackeamento
+mental, porque o que acontece? Essa
+galera que era um bando de doidinho de
+rodoviária, eles conseguem se juntar.
+Esse é é o lado terrível da internet.
+qualquer maluco consegue se juntar com
+mais outros tantos malucos igual a ele.
+Antes essas pessoas eram isoladas, agora
+elas conseguem se juntar
+e
+e consegue a e alguns são bem-sucedidos
+em se comunicar, ou porque são
+carismáticos, ou porque, enfim, são bons
+em comunicação, como Olá de Carvalho era
+muito bom em comunicação. E aí você vai
+com isso criando esses movimentos. Eu
+acho que eh e é aquela coisa, o poder
+atrai poder. Então assim, alguns começam
+a se destacar nesse negócio, outros vão
+colando junto. De repente esse negócio
+e aí vira um baita de um movimento
+popular.
+Deixa eu fazer uma outra pergunta ainda
+nesse tema, uma última pergunta nesse
+tema. Eh, você também teve quando eu era
+muito jovem, eu tenho essa desculpa, mas
+quando surgiu a internet, a gente podia
+aparecer aqui e falar, eu achei que o
+mundo ia pro lugar melhor. Você passou
+por algum momento de de crença nisso?
+Hum. Não, acho que não, cara.
+É um pessimista nato. É, esse é
+Não, mas eu não, mas é que tá, mas eu
+não tinha Não, mas eu não tinha, eu não
+eu não achava que ia piorar. Eu só não
+achava que ia melhorar. Eu não acho.
+Porque eh
+é porque eu também assim eu comecei a me
+interessar com política foi muito
+tardiamente também, cara. Eu não era
+muito, eu não era muito antenado, não.
+Eu fui começar a me ligar com política,
+era foi na eleição, no, na Dilma dois
+já, cara.
+Não, o o Mateus tá falando assim: "O
+Pedro odeia pessimistas". Não é porque
+esse é o ponto fraco do do link. A
+pessoa fala que eu sou pessimista, né?
+Não, já passou, já passou, né? Até
+porque quando eu tô falando com
+positivista, eu acho importante eu fazer
+esse contraponto, né?
+É importante, é importante,
+é importante.
+Ah, cara, eh,
+mas eu não, mas não, enfim, eu, eu. É
+que assim, a internet, tu tu era
+otimista com a internet? É isso? Era
+para [ __ ] Eu achava que ia melhorar
+tudo. Eu achava que ia melhorar o humor.
+Eu achava que ia melhorar a arte. Eu
+achava que ia melhorar a ciência. Eu
+achava que ia melhorar tudo. Tudo, tudo.
+Não, eu acho, sabe por? Sabe por que que
+eu acho que talvez eu não tive? Porque
+assim, eu ainda tava nos anos 90, eu não
+tinha internet em casa, mas eu tinha um
+colega de escola que era mais riquinho,
+ele tinha internet.
+Uhum.
+Ele tinha 14 anos, 15 anos, era minha
+idade também. Um dia ele me chamou, ele
+ah, baixas fotos, a gente gostava de ver
+foto pelada, né?
+Uhum. E ele foi mostrar umas fotos de
+pedofilia, cara.
+Bateu cedo que a internet
+e ali é ali acho que bateu cedo que cara
+eu falei para ele cara para com isso,
+irmão. Deleto essa merda, que é isso?
+Mas eu era guri também, né? Assim. Então
+eu eu simplesmente fiquei com nojo,
+virei a cara e falei: "Cara, não, não,
+não, e tal, mas não desfiz amizade nem
+nada", sabe? Aquela coisa de guri, né?
+Só falar: "Não, cara, para com isso."
+Eu tinha, sei lá, 14, eu era um ano mais
+novo que ele, então se ele tinha 14,
+mas aí pesou o rolê logo, né?
+Não é logo é é logo eu vi que a internet
+é da
+ali para mim ficou não é que esse evento
+foi marcante, mas desde cedo tu já via
+isso, né, cara? Usando Mirk, usando ISQ,
+usando, tu já via que esse merdeiral
+tava crescendo.
+Uhum. É porque, [ __ ] para mim a
+internet me ensinou a falar inglês. Eu
+só aprendi a falar inglês por causa da
+internet, tá ligado? Jogando joguinho de
+internet. H, as conexões, as pessoas que
+eu conheci várias pessoas de outros
+estados, deu, eu eu lembro que eu jogava
+Tíbia e eu conhecia a as pessoas da
+Polônia, cara. Eu começava a aprender
+palavras em polonês por causa disso. Eu
+achava incrível, brother. Eu achava
+muito incrível.
+Ah, não. Sim, essa era. Não, essa parte
+de falar com pessoas de outro país, de
+outras culturas, não. Isso também era
+fantástico. Mas ainda tem muita coisa
+boa. Tava justamente, tá engraçado,
+tá engraçado assim, né? A gente vai
+acabar casando, eu e tu, né? dois vai
+ser dois viadinhos felizes. Porque
+assim, ó, ontem eu tava falando
+justamente disso. O,
+por exemplo, a internet trouxe muita
+merda. Trouxe, mas por, mas cara, pensa
+o que era TV aberta brasileira. Eu acho
+que hoje tem muito mais canal que presta
+no YouTube
+e que e que e consegue, por exemplo, eu
+consigo viver do meu canal. Tu não vive
+do teu canal, mas eu vivo do meu. Uhum.
+E jamais eu poderia existir numa TV
+aberta, mesmo se fosse uma TVzinha de
+merda regional de uma cidadezinha de
+interior. Ainda assim um
+mesmo assim. É,
+então assim, a gente consegue hoje
+viver, produzir conteúdo, a gente
+consegue ter uma variedade, uma
+diversidade que não tinha antes. Então
+isso é o Então assim, pô, não tem como
+isso ser ruim, isso melhorou.
+É,
+só que a diversidade ela tem, eu sempre
+falo o pessoal assim, o pessoal da
+esquerda usa adversidade como se fosse
+uma palavra bonita.
+Sempre é sempre legal para [ __ ] né?
+É, a diversidade ela tem o seu ônus. Aí
+tu, porque tu abre a caixa de Pandora e
+aí da diversidade vem tudo, porque a
+diversidade ela é diversa
+e dali sai de tudo. E aí é isso que a
+gente tá enfrentando agora, que a gente
+não tá preparado para lidar com isso,
+porque mesmo a as emissoras, mesmo a TV
+aberta brasileira sendo extremamente,
+vamos pegar o caso brasileiro, mesmo ela
+sendo extremamente rebaixada, ainda
+assim tinha alguns filtros. Eu lembro,
+eu tava comentando isso na live ontem,
+cara.
+Eu lembro, eu era criança, eu não
+consigo lembrar que ano foi isso. Eu
+acho que foi 1990, 91, foi por ali.
+Eu lembro que um programa lá, acho que
+não sei se não foi até no do Gugu ou
+coisa assim, eles chamaram nazistas para
+defender o nazismo. O que que eles
+achavam sobre eles chamaram nazistas
+mesmo, eles chamaram, porque quando é
+que foi proibido o nazismo do Brasil? Eu
+não lembro agora. E eu não sei se já foi
+com a Constituição, eu sei, mas eu tenho
+uma lembrança, isso, essa lembrança eu
+tenho nítida, só não consigo lembrar bem
+direito que ano foi, porque eu era muito
+criança, de eles chamando na TV,
+eles chamam e eles chamaram na TV aberta
+nazistas para neonazistas para defender
+o nazismo. Eu lembro dos meus pais que
+não eram figuras politizadas, meus pais
+ficando revoltados com a televisão, né,
+com com problema que isso.
+É, é 7716 de 89. É 89. É, se até não sei
+se não se bobear essa lei pode ter sido
+um reflexo até mesmo esse tipo de coisa,
+porque eu lembro que isso teve impacto
+na época, eu era criança, eu lembro que
+isso teve impacto. E o
+e e
+então assim, mesmo a TV aberta, tendo
+todos os problemas, ela ainda tinha
+alguns filtros.
+Uhum.
+Tá ligado? Ela ainda tinha certo um
+certo uma certa necessidade de
+disseminar bons valores, mesmo que fosse
+de maneira hipócrita e cínica, mas ainda
+tinha. Então, ela era um par-raaio
+ainda, apesar de ser muito rebaixado
+esse par-raaio, ainda era um par-raaio.
+Uhum.
+Então, o que a internet fez? Deu
+abertura para conteúdos mais
+qualificados? Deu, mas o, mas perdeu o
+paraaio.
+E daí o esgoto também, o chorume subiu.
+Uhum.
+Entendeu? E aí, bom, e aí esses
+consensos que tu falou que se tinha, né,
+esses consensos, vamos dizer,
+progressistas e tal, eles foram pro,
+eles foram varridos, né, cara?
+Foram pro [ __ ] né?
+Bom,
+é sempre bom conversar com você, cara.
+Sempre bom conversar com você, de
+verdade. Eu sou bonito, né, cara? Eu sei
+que eu tenho esse efeito.
+É, causo, causo. A, a a coisa, a coisa,
+a coisa da careca. Você você tem que de
+pega? Tu tu gosta de um careca, né,
+cara? Tu tem cara de quem gosta de um
+careca. É, tu tá ficando também, né?
+Então aí já é uma maneira que você tem
+inclusive prazer.
+Na verdade é então na verdade se você
+entender direito, eu faço tanto elogio
+da cara que se alia é é uma maneira de
+eu me proteger, né? Porque tem pessoas
+que divulguem esse discurso, né?
+Lógico. É lógico. É importante já
+adianta, né? Tu já tá preparando a cama
+que tu vai deitar. Não, eu acho, eu acho
+importante
+o
+Mas tu vai, Mas tu sabe que não vai ser
+isso, né? O pessoal vai entender como é
+que estavam esses dias chamaram tu aí?
+Não era o vassalo. Qual era o outro que
+tu ficou que que falaram?
+Não sei. Falaram tanta coisa. Tem muita
+coisa, pô.
+É o que um que eu um eu tenho que
+confessar que eu ri. Pedro, eu preciso
+aqui ao vivo te falar que eu ri, que é o
+Sid kick. Porque o Sid kick sempre é um
+cara pequeno.
+S kick.
+O Sid kick. Não, porque o Pedro é o sid
+kick do link e o sid kick, né? É o
+Robin. São esses essas figuras menores.
+Esse eu achei que pela questão só da
+estatura, né? Eu achei que
+tal certo.
+É, mas não vou fazer bullying aqui
+contigo e te produzir apelido na frente
+do teu público. Não, eu não vou fazer
+isso.
+Não, não faria. Jamais faria isso.
+Não.
+Obrigado. Sempre bom. Sempre bom falar
+contigo também.
+Acho que tá bom da gente dormir, né? Já
+são 11 horas.
+Não, eu vou trabalhar. Eu vou a
+madrugada aqui escrevendo roteiro pro
+canal.
+Então que se [ __ ] Eu vou pra minha
+casa.
+Eu vou. Então vai. Vai. Te [ __ ] aí
+também.
+Falou, querido. Um abraço. Até mais.
+Ciao. Ciao.
+[Música]

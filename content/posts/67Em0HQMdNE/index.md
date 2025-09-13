@@ -2,7 +2,7 @@
 ---
 date: "2019-09-20"
 title: > 
-    youtube video #67Em0HQMdNE
+    Contestando o Olavo 01 - "Consenso científico é um oximoro"? Não
 featured_image: "thumbnail.webp"
 ---
 {{< youtube 67Em0HQMdNE >}}[Música]

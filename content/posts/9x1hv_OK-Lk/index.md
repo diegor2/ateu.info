@@ -1,6 +1,6 @@
 
 ---
-date: "2021-02-11"
+date: "2021-02-12"
 title: > 
     Papo Inicial sobre a Educação Básica no Brasil e o ex-Ministro Weintraub
 featured_image: "thumbnail.webp"

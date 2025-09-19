@@ -1,6 +1,6 @@
 
 ---
-date: "2025-01-29"
+date: "2025-01-28"
 title: > 
     Reação: Debate entre Gustavo Machado e o outro cara lá que é engenheiro
 featured_image: "thumbnail.webp"

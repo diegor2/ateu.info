@@ -2,7 +2,7 @@
 ---
 date: "2024-10-31"
 title: > 
-    youtube video #DZU9WPiDwTQ
+    Samanta - Trans-Missão: Linck comenta Emílio Garcia sobre Henry Bugalho e Gaiofato fala também
 featured_image: "thumbnail.webp"
 ---
 {{< youtube DZU9WPiDwTQ >}}k

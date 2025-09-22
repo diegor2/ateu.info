@@ -1,6 +1,6 @@
 
 ---
-date: "2022-02-09"
+date: "2022-02-10"
 title: > 
     Artur Do Val defendendo o Kim Kataguiri: Meteu Essa?
 featured_image: "thumbnail.webp"

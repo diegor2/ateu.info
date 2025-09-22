@@ -1,6 +1,6 @@
 
 ---
-date: "2020-04-17"
+date: "2020-04-18"
 title: > 
     A favor de Protágoras - Contra o conspiracionismo e a PIOR leitura de Platão -"Idealismo Epistêmico"
 featured_image: "thumbnail.webp"

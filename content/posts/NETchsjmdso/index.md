@@ -2,7 +2,7 @@
 ---
 date: "2025-01-31"
 title: > 
-    youtube video #NETchsjmdso
+    Reação Determinada: Baka Gaijin quântico
 featured_image: "thumbnail.webp"
 ---
 {{< youtube NETchsjmdso >}}k

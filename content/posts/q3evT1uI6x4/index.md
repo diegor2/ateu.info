@@ -1,6 +1,6 @@
 
 ---
-date: "2020-11-28"
+date: "2020-11-29"
 title: > 
     Problemas técnicos 👌
 featured_image: "thumbnail.webp"

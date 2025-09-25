@@ -1,6 +1,6 @@
 
 ---
-date: "2021-02-17"
+date: "2021-02-18"
 title: > 
     "Pré-Socráticos", por Casertano: Pitagóricos e porradaria em quem erode a capacidade de conhecer
 featured_image: "thumbnail.webp"

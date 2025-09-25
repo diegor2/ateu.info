@@ -1,6 +1,6 @@
 
 ---
-date: "2021-04-10"
+date: "2021-04-09"
 title: > 
     Sextou Afinal: Barroso determina instalação de "CPI da Pandemia"
 featured_image: "thumbnail.webp"

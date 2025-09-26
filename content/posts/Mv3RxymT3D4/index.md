@@ -1,6 +1,6 @@
 
 ---
-date: "2024-03-16"
+date: "2024-03-15"
 title: > 
     Sextou Afinal (ft. Gláucio e Cidade) - Greve em 28 Universidades e a valorização do trabalhador
 featured_image: "thumbnail.webp"

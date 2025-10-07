@@ -1,6 +1,6 @@
 
 ---
-date: "2020-12-17"
+date: "2020-12-18"
 title: > 
     Mênon (2ª Parte): O poder da Matemática!!!
 featured_image: "thumbnail.webp"

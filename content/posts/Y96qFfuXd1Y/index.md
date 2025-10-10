@@ -1,6 +1,6 @@
 
 ---
-date: "2024-11-19"
+date: "2024-11-20"
 title: > 
     CARLITO NETO (O Historiador): Fim da escala 6x1 e a união de esquerdas (διάλογος #31)
 featured_image: "thumbnail.webp"

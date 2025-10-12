@@ -1,6 +1,6 @@
 
 ---
-date: "2020-12-26"
+date: "2020-12-27"
 title: > 
     Fédon (Parte 2): Morte de Sócrates e a questão da Metafísica
 featured_image: "thumbnail.webp"

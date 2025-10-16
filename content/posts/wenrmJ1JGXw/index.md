@@ -1,6 +1,6 @@
 
 ---
-date: "2022-04-30"
+date: "2022-05-01"
 title: > 
     Retórica e Impossibilidade de Uma Discussão Saudável
 featured_image: "thumbnail.webp"

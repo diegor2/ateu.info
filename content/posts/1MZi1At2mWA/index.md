@@ -1,6 +1,6 @@
 
 ---
-date: "2021-10-13"
+date: "2021-10-14"
 title: > 
     Um Modus Operandi: Round 6 e o meme do MBL
 featured_image: "thumbnail.webp"

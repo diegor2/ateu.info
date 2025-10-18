@@ -1,6 +1,6 @@
 
 ---
-date: "2022-01-14"
+date: "2022-01-15"
 title: > 
     Circulo da Morte: Burocracia VS o Irracionalismo Teórico do Hayek e a birra (Teórica?) de Trotsky
 featured_image: "thumbnail.webp"

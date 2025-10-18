@@ -1,6 +1,6 @@
 
 ---
-date: "2025-01-10"
+date: "2025-01-11"
 title: > 
     A(s) Vida(s) de Criadores de conteúdo: Uma discussão sobre pluralidade
 featured_image: "thumbnail.webp"

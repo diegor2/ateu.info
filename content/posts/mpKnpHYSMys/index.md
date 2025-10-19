@@ -1,6 +1,6 @@
 
 ---
-date: "2020-11-27"
+date: "2020-11-28"
 title: > 
     Sextou Afinal: Live Randômica do RPG, Falando mal de todo mundo
 featured_image: "thumbnail.webp"

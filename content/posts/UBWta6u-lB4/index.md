@@ -2,7 +2,7 @@
 ---
 date: "2025-07-07"
 title: > 
-    youtube video #UBWta6u-lB4
+    Tudologia - Netanyahu é criminoso (TPI) + Trump, imperadorzinho, ameaça os países dos Brics
 featured_image: "thumbnail.webp"
 ---
 {{< youtube UBWta6u-lB4 >}}[Música]

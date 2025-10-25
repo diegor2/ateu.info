@@ -1,6 +1,6 @@
 
 ---
-date: "2025-01-14"
+date: "2025-01-15"
 title: > 
     Gustavo Machado voltou a publicar e isso me deixa muito feliz
 featured_image: "thumbnail.webp"

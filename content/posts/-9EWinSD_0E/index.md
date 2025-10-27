@@ -1,6 +1,6 @@
 
 ---
-date: "2021-08-15"
+date: "2021-08-16"
 title: > 
     Sócrates, o Sofista - Leitura de Nuvens de Aristófanes
 featured_image: "thumbnail.webp"

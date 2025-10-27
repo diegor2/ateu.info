@@ -1,6 +1,6 @@
 
 ---
-date: "2023-12-26"
+date: "2023-12-27"
 title: > 
     Lênin sobre o que é Marxismo: Exatamente o que eu disse... (Materialismo, Dialética e Economia))
 featured_image: "thumbnail.webp"

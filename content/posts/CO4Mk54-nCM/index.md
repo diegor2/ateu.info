@@ -1,6 +1,6 @@
 
 ---
-date: "2022-03-15"
+date: "2022-03-16"
 title: > 
     Bate-papo sobre Sofistas Clássicos e Imagens Contemporâneas
 featured_image: "thumbnail.webp"

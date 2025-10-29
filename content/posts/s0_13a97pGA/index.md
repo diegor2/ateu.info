@@ -1,6 +1,6 @@
 
 ---
-date: "2023-01-18"
+date: "2023-01-19"
 title: > 
     ADRIANO FACIOLI - Saúde psicológica em tempos modernos difíceis  (AI διάλογος #15)
 featured_image: "thumbnail.webp"

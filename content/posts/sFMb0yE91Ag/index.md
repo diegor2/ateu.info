@@ -1,6 +1,6 @@
 
 ---
-date: "2025-05-23"
+date: "2025-05-24"
 title: > 
     Tudologia: Antipetismo, Vargismo no Brasil, Tiago Braga e estou gripado
 featured_image: "thumbnail.webp"

@@ -1,6 +1,6 @@
 
 ---
-date: "2020-04-07"
+date: "2020-04-08"
 title: > 
     Teste X: O Poço - John Rawls, liberalismo pluralista e interpretação da crise da sociedade
 featured_image: "thumbnail.webp"

@@ -1,6 +1,6 @@
 
 ---
-date: "2022-09-19"
+date: "2022-09-20"
 title: > 
     Fedro e a Retórica (Parte 2 - Final): Como "Influenciadores" usam a Retórica? - Leitura Noturna
 featured_image: "thumbnail.webp"

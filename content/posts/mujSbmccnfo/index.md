@@ -1,6 +1,6 @@
 
 ---
-date: "2020-03-22"
+date: "2020-03-23"
 title: > 
     Live: Conversa sobre Crítica, Crise, “πολέμιος” (hostil público) e “ἐχθρός” (inimigo particular)
 featured_image: "thumbnail.webp"

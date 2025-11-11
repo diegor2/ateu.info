@@ -1,6 +1,6 @@
 
 ---
-date: "2025-01-18"
+date: "2025-01-19"
 title: > 
     Tudologia determinado: Podcasts, comunistas e personagens na internet
 featured_image: "thumbnail.webp"

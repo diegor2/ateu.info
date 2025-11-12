@@ -1,6 +1,6 @@
 
 ---
-date: "2023-01-11"
+date: "2023-01-12"
 title: > 
     DANIEL CIDADE - PODER E REAÇÃO PÓS-MODERNA (AI διάλογος #14)
 featured_image: "thumbnail.webp"

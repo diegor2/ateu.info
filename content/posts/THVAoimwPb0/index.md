@@ -1,6 +1,6 @@
 
 ---
-date: "2025-06-06"
+date: "2025-06-07"
 title: > 
     O Liberalismo e o Socialismo em 1848: O espírito reacionário brasileiro anti-liberal
 featured_image: "thumbnail.webp"

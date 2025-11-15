@@ -1,6 +1,6 @@
 
 ---
-date: "2024-07-08"
+date: "2024-07-09"
 title: > 
     Sem Deus, mas com objetividade: o problema pós-moderno além de Senhorita Bira e Daniel Cidade
 featured_image: "thumbnail.webp"

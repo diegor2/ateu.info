@@ -1,6 +1,6 @@
 
 ---
-date: "2022-05-30"
+date: "2022-05-29"
 title: > 
     Treta com o Henry e com o Ciro: A Natureza Humana e Conflito
 featured_image: "thumbnail.webp"

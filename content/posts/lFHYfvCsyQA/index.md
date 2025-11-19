@@ -2,7 +2,7 @@
 ---
 date: "2025-09-26"
 title: > 
-    Tudologia: Rachadores Irresponsáveis Fanfarrões Aspirantes a Suseranos (RIFAS) 2025-09-26 22:07
+    Tudologia: Rachadores Irresponsáveis Fanfarrões Aspirantes a Suseranos (RIFAS)
 featured_image: "thumbnail.webp"
 ---
 {{< youtube lFHYfvCsyQA >}}[Música]

@@ -1,6 +1,6 @@
 
 ---
-date: "2020-04-03"
+date: "2020-04-04"
 title: > 
     Live: O Poço - John Rawls, liberalismo pluralista e interpretação da crise da sociedade
 featured_image: "thumbnail.webp"

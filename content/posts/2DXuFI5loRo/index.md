@@ -1,6 +1,6 @@
 
 ---
-date: "2025-01-17"
+date: "2025-01-18"
 title: > 
     Resposta ao público sobre Frederico Krepe e porque Gustavo Machado é o melhor marxista do youtube
 featured_image: "thumbnail.webp"

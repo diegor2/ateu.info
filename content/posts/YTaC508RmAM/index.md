@@ -2,7 +2,7 @@
 ---
 date: "2025-09-15"
 title: > 
-    Necessidade de uma ética, Bueno e a tradução do Meditações Metafísicas está de graça hoje 2025-09-15 21:16
+    Necessidade de uma ética, Bueno e a tradução do Meditações Metafísicas está de graça hoje
 featured_image: "thumbnail.webp"
 ---
 {{< youtube YTaC508RmAM >}}Eu avisei, não avisei.

@@ -1,8 +1,8 @@
 
 ---
-date: "2025-11-09"
+date: "2025-11-10"
 title: > 
-    Guerra dos 30 Anos (Prévia da Rev. Inglesa) - Pq Católicos de Ext. Direita amam Habsburgo, Orbán 2025-11-09 12:12
+    Guerra dos 30 Anos (Prévia da Rev. Inglesa) - Pq Católicos de Ext. Direita amam Habsburgo, Orbán
 featured_image: "thumbnail.webp"
 ---
 {{< youtube bI-2wgwOryY >}}Fala meus queridos e minhas queridas

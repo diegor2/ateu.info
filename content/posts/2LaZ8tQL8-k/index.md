@@ -1,6 +1,6 @@
 
 ---
-date: "2021-08-06"
+date: "2021-08-07"
 title: > 
     Sextou Afinal: É útil debater com anarcapitalistas? E por que não?
 featured_image: "thumbnail.webp"

@@ -1,6 +1,6 @@
 
 ---
-date: "2020-11-26"
+date: "2020-11-27"
 title: > 
     O Mito Liberal Do Radicalismo: Ironizem, Ironizem Muito 2
 featured_image: "thumbnail.webp"

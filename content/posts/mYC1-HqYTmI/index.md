@@ -1,6 +1,6 @@
 
 ---
-date: "2021-05-10"
+date: "2021-05-11"
 title: > 
     Penal e Zaffaroni - Princípio da Legalidade e Princípio do Devido Processo Legal
 featured_image: "thumbnail.webp"

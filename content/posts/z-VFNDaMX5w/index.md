@@ -1,8 +1,8 @@
 
 ---
-date: "2025-01-19"
+date: "2024-10-19"
 title: > 
-    Safatleismo Cultural e Sisu: Ajudem-me numas decisões aqui
+    Eu, Robô, Religião e Razão: Uma breve reflexão sobre um conto do livro de Isaac Azimov
 featured_image: "thumbnail.webp"
 ---
 {{< youtube z-VFNDaMX5w >}}k

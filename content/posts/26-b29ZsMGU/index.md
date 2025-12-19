@@ -1,6 +1,6 @@
 
 ---
-date: "2021-01-04"
+date: "2021-01-05"
 title: > 
     Dia Lektico #1 - Concepções Marxistas de Imperialismo (XIX e XX), por Luís Fernandes
 featured_image: "thumbnail.webp"

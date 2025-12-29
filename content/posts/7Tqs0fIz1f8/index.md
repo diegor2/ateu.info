@@ -1,6 +1,6 @@
 
 ---
-date: "2020-12-01"
+date: "2020-12-02"
 title: > 
     A Justiça e a "Bela Cidade" em Palavras - Livro I-II da República de Platão (Parte 3)
 featured_image: "thumbnail.webp"

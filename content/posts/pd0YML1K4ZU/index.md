@@ -1,6 +1,6 @@
 
 ---
-date: "2022-07-20"
+date: "2022-07-21"
 title: > 
     HUMBERTO MATOS - Moeda e Poder, a importância de seu estudo - AI διάλογος #4
 featured_image: "thumbnail.webp"

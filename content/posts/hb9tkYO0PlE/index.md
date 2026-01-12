@@ -1,8 +1,8 @@
 
 ---
-date: "2025-11-06"
+date: "2025-11-08"
 title: > 
-    "Por uma defesa do ateísmo" de Ernestine Rose - COMPILAÇÃO DE INFORMAÇÕES E TEXTO 2025-11-07 00:23
+    "Por uma defesa do ateísmo" de Ernestine Rose - COMPILAÇÃO DE INFORMAÇÕES E TEXTO
 featured_image: "thumbnail.webp"
 ---
 {{< youtube hb9tkYO0PlE >}}Eu

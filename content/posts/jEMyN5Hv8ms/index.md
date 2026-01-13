@@ -1,6 +1,6 @@
 
 ---
-date: "2020-12-23"
+date: "2020-12-24"
 title: > 
     (Fédon de Platão) Pode Socialista investir na Bolsa? - A crítica de Nietzsche a Platão
 featured_image: "thumbnail.webp"

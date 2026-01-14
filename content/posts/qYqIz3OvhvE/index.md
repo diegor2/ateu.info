@@ -1,6 +1,6 @@
 
 ---
-date: "2020-06-07"
+date: "2020-06-06"
 title: > 
     Manifestações, Racionalidade e Imprevisão: Mísseis em Cuba
 featured_image: "thumbnail.webp"

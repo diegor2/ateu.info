@@ -1,6 +1,6 @@
 
 ---
-date: "2025-09-18"
+date: "2025-09-19"
 title: > 
     TUDOLOGIA - Primeiro Comando da Câmara (Lula segue dando "sorte") e Contingentes Futuros
 featured_image: "thumbnail.webp"

@@ -1,6 +1,6 @@
 
 ---
-date: "2024-11-07"
+date: "2024-11-08"
 title: > 
     SAMANTA (Trans-missão): Transexualidade no Brasil e questões políticas do tema (διάλογος #30)
 featured_image: "thumbnail.webp"

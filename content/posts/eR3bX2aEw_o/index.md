@@ -1,6 +1,6 @@
 
 ---
-date: "2021-09-13"
+date: "2021-09-12"
 title: > 
     Breve comentário à Minifestação de 12/09 - Pondé, Arthur do Val e Fernando Moura
 featured_image: "thumbnail.webp"

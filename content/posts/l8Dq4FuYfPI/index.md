@@ -1,6 +1,6 @@
 
 ---
-date: "2022-08-31"
+date: "2022-09-01"
 title: > 
     GLÁUCIO GONZALES - Anarquismo: prática, política e cultura - AI διάλογος #10
 featured_image: "thumbnail.webp"

@@ -1,6 +1,6 @@
 
 ---
-date: "2021-06-29"
+date: "2021-06-28"
 title: > 
     Governo, Burocracia, Razão e Fome
 featured_image: "thumbnail.webp"

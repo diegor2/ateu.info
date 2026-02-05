@@ -1,6 +1,6 @@
 
 ---
-date: "2025-09-03"
+date: "2025-09-02"
 title: > 
     Perigos da Desonestidade contra Haddad: Eurocomunismo KKE e a tese da Social Democracia 2
 featured_image: "thumbnail.webp"

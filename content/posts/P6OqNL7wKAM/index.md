@@ -1,6 +1,6 @@
 
 ---
-date: "2025-11-25"
+date: "2025-11-24"
 title: > 
     Não ao "clube dos amigos" além da performance: Anti-petismo não é brincadeira nem disputa de view
 featured_image: "thumbnail.webp"

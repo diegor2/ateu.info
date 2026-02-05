@@ -1,6 +1,6 @@
 
 ---
-date: "2024-07-16"
+date: "2024-07-15"
 title: > 
     PEDAGOLÍTICA - Pedagogia enquanto ciência revolucionária (διάλογος #23)
 featured_image: "thumbnail.webp"

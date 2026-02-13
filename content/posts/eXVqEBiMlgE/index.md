@@ -1,6 +1,6 @@
 
 ---
-date: "2022-10-08"
+date: "2022-10-07"
 title: > 
     Maçonaria, imaginário e Política: O há por trás da questão "Maçonaro"?
 featured_image: "thumbnail.webp"

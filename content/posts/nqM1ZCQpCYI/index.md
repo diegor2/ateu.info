@@ -1,6 +1,6 @@
 
 ---
-date: "2021-01-28"
+date: "2021-01-27"
 title: > 
     Questões Fundamentais Parte 2 - Da "Questão ontológica" do ENEM de 2016 à Estrutura da Norma Humana
 featured_image: "thumbnail.webp"

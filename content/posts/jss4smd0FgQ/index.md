@@ -1,6 +1,6 @@
 
 ---
-date: "2022-03-26"
+date: "2022-03-25"
 title: > 
     O Pensamento Mágico da Gabriela Prioli Vs A Realidade do conflito social
 featured_image: "thumbnail.webp"

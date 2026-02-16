@@ -1,6 +1,6 @@
 
 ---
-date: "2024-06-30"
+date: "2024-06-29"
 title: > 
     Inadiável aula de TUDOLOGIA: Respondendo todas as perguntas relativistas DO MUNDO
 featured_image: "thumbnail.webp"

@@ -1,6 +1,6 @@
 
 ---
-date: "2020-05-05"
+date: "2020-05-04"
 title: > 
     No claro cessa interpretação? Importância da Ciência e Hermenêutica em perspectiva material-objetiva
 featured_image: "thumbnail.webp"

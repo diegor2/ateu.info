@@ -1,6 +1,6 @@
 
 ---
-date: "2020-05-20"
+date: "2020-05-19"
 title: > 
     Felipe Neto no Roda Viva: "Opinião", Verdade e Comunicação
 featured_image: "thumbnail.webp"

@@ -1,6 +1,6 @@
 
 ---
-date: "2021-01-30"
+date: "2021-01-29"
 title: > 
     Sextou Afinal! Anarcoprocesso, caso Reddit Gamestop e investidores conservas defensores do mercado
 featured_image: "thumbnail.webp"

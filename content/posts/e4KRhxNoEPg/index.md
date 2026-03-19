@@ -1,6 +1,6 @@
 
 ---
-date: "2025-01-08"
+date: "2025-01-07"
 title: > 
     Tudologia: COMO SÃO MENTIROSOS! - MATERIALISMO EM LÊNIN
 featured_image: "thumbnail.webp"

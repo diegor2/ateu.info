@@ -1,6 +1,6 @@
 
 ---
-date: "2025-10-10"
+date: "2025-10-09"
 title: > 
     Notícia: 1ª Etapa do acordo dos Terroristas do Hamas com Estado Maior Genocida de Netanyahu
 featured_image: "thumbnail.webp"

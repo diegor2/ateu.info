@@ -1,6 +1,6 @@
 
 ---
-date: "2021-05-17"
+date: "2021-05-16"
 title: > 
     Testando o Prezi Vídeo - Revisando Grego
 featured_image: "thumbnail.webp"

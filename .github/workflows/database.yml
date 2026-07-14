@@ -27,7 +27,10 @@ jobs:
       
       - name: Install yt-dlp
         run: pip install -U yt-dlp
-  
+      
+      - name: Install deno
+        run: npm install -g deno
+
       - name: Download list of videos
         run: yt-dlp --flat-playlist --print id https://www.youtube.com/@ateuinforma > index.db
 

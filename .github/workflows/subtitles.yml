@@ -40,6 +40,9 @@ jobs:
       - name: Install yt-dlp
         run: pip install -U yt-dlp
 
+      - name: Install deno
+        run: npm install -g deno
+
       - name: List subtitles
         run: |
           yt-dlp --list-subs --skip-download \
